@@ -2,6 +2,23 @@
 **Matières : Mathématiques · Physique-Chimie · SVT**
 Date de compilation : 14 septembre 2026 — Filière Sciences Physiques, option française
 
+## ⬇️ Télécharger les PDF (279 documents référencés)
+
+Le corpus est un **index de liens directs vérifiés** (le sandbox de compilation n'avait pas
+d'accès réseau vers ces sites). Pour récupérer les PDF dans leurs dossiers, lancez sur
+votre machine (Python 3.8+, aucune dépendance) :
+
+```bash
+python3 scripts/download_corpus.py            # depuis la racine du dépôt
+python3 scripts/download_corpus.py --dry-run  # voir le plan sans télécharger
+```
+
+Chaque document est enregistré dans son chapitre :
+`2BAC_PC_Corpus/[Matière]/[Chapitre]/[MATIÈRE]_[Chapitre]_[Type].pdf`.
+Le script est **idempotent** (re-lance = compléments seulement), gère Google Drive
+(y compris le jeton de confirmation), ne conserve que les vrais PDF et écrit un
+rapport `2BAC_PC_Corpus/download_report.md` listant les éventuels liens morts.
+
 ---
 
 ## 1. Programme officiel retenu (filière 2BAC PC, vérifié)
