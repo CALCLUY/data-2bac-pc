@@ -31,8 +31,8 @@ Lien direct : https://drive.google.com/file/d/1oaNqvWlb2skAgvcTu8AwnWwnCqqcwQ7Z/
 Source : KhaymaSVT
 Notes : Partie I géologie ; Ex1 chou puant/mitochondries (U1) ; Ex2 ALD + croisement dihybride cobaye (U2/U3) ; Ex3 pollution des eaux/nitrates/STEP (U7).
 Matière : SVT (filière Sciences Physiques — SP) | Chapitre : tous | Type : Examen national SVT (SP) — correction
-Lien direct : https://drive.google.com/file/d/1djEWWOhf3vS8kdZ_SnlK7Ot9S2SJ/view
-Source : KhaymaSVT
+Lien direct : https://www.revisio.ma/pdf/examen-national-svt-sciences-physiques-2025-normale-corrige-305
+Source : Revisio.ma (le lien KhaymaSVT Drive a été supprimé, constaté en 2026)
 Matière : SVT (filière Sciences Physiques — SP) | Chapitre : tous | Type : Indication — filière option SVT (2025 normale)
 Lien direct : https://drive.google.com/file/d/1KSsiAdWfrc6LwLSpNlb56IlwdQrClXA1/view  |  correction : https://drive.google.com/file/d/1MY471IML-_pEoxR50D4QoKEtKjzXkZSe/view
 Source : KhaymaSVT
@@ -59,8 +59,20 @@ Lien direct : https://drive.google.com/file/d/1nTKiiL1eEPquvlHS1FDcBoCDYazoBUUw/
 Source : KhaymaSVT
 
 ## 2023, 2022, 2021 et archives
-Matière : SVT (filière Sciences Physiques — SP) | Chapitre : tous | Type : Archive examens nationaux SVT SPC (Sciences Physiques) 2016→2025 — liens directs PDF
-Lien direct : https://www.revisio.ma/ressources/examens-nationaux-svt-sciences-physiques/
+Matière : SVT (filière Sciences Physiques — SP) | Chapitre : tous | Type : Examens nationaux SVT SP 2016 (sujets + corrigés)
+Lien direct : https://www.revisio.ma/pdf/examen-national-svt-sciences-physiques-2016-normale-sujet-268 | https://www.revisio.ma/pdf/examen-national-svt-sciences-physiques-2016-normale-corrige-269 | https://www.revisio.ma/pdf/examen-national-svt-sciences-physiques-2016-rattrapage-sujet-270 | https://www.revisio.ma/pdf/examen-national-svt-sciences-physiques-2016-rattrapage-corrige-271
+Source : Revisio.ma (2016→2020 ci-dessous ; 2021→2025 déjà couverts plus haut)
+Matière : SVT (filière Sciences Physiques — SP) | Chapitre : tous | Type : Examens nationaux SVT SP 2017 (sujets + corrigés)
+Lien direct : https://www.revisio.ma/pdf/examen-national-svt-sciences-physiques-2017-normale-sujet-272 | https://www.revisio.ma/pdf/examen-national-svt-sciences-physiques-2017-normale-corrige-273 | https://www.revisio.ma/pdf/examen-national-svt-sciences-physiques-2017-rattrapage-sujet-274 | https://www.revisio.ma/pdf/examen-national-svt-sciences-physiques-2017-rattrapage-corrige-275
+Source : Revisio.ma
+Matière : SVT (filière Sciences Physiques — SP) | Chapitre : tous | Type : Examens nationaux SVT SP 2018 (sujets + corrigés)
+Lien direct : https://www.revisio.ma/pdf/examen-national-svt-sciences-physiques-2018-normale-sujet-276 | https://www.revisio.ma/pdf/examen-national-svt-sciences-physiques-2018-normale-corrige-277 | https://www.revisio.ma/pdf/examen-national-svt-sciences-physiques-2018-rattrapage-sujet-278 | https://www.revisio.ma/pdf/examen-national-svt-sciences-physiques-2018-rattrapage-corrige-279
+Source : Revisio.ma
+Matière : SVT (filière Sciences Physiques — SP) | Chapitre : tous | Type : Examens nationaux SVT SP 2019 (sujets + corrigés)
+Lien direct : https://www.revisio.ma/pdf/examen-national-svt-sciences-physiques-2019-normale-sujet-280 | https://www.revisio.ma/pdf/examen-national-svt-sciences-physiques-2019-normale-corrige-281 | https://www.revisio.ma/pdf/examen-national-svt-sciences-physiques-2019-rattrapage-sujet-282 | https://www.revisio.ma/pdf/examen-national-svt-sciences-physiques-2019-rattrapage-corrige-283
+Source : Revisio.ma
+Matière : SVT (filière Sciences Physiques — SP) | Chapitre : tous | Type : Examens nationaux SVT SP 2020 (sujets + corrigés)
+Lien direct : https://www.revisio.ma/pdf/examen-national-svt-sciences-physiques-2020-normale-sujet-284 | https://www.revisio.ma/pdf/examen-national-svt-sciences-physiques-2020-normale-corrige-285 | https://www.revisio.ma/pdf/examen-national-svt-sciences-physiques-2020-rattrapage-sujet-286 | https://www.revisio.ma/pdf/examen-national-svt-sciences-physiques-2020-rattrapage-corrige-287
 Source : Revisio.ma
 Matière : SVT (filière Sciences Physiques — SP) | Chapitre : tous | Type : Table des examens nationaux SVT SPC 2021→2025 (sujets + corrigés)
 Lien direct : https://profelhamdaoui.com/examen-national-svt-2bac-sciences-physiques/

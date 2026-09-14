@@ -10,7 +10,7 @@ Lien direct : https://drive.google.com/file/d/1PaRIdqQXvJGMPf-aJ--mQrc3dnU0QNSL/
 Source : KhaymaSVT — 2026 normale (SP) ; correction : https://drive.google.com/file/d/11_mQwMKCq5g17hVL3j4aYKuue7FeL0Fn/view
 Matière : SVT (2BAC PC) | Chapitre : U7 Écosystèmes | Type : Examen national 2025 (SP) — ex.3 pollution des eaux/nitrates/STEP + correction
 Lien direct : https://drive.google.com/file/d/1oaNqvWlb2skAgvcTu8AwnWwnCqqcwQ7Z/view
-Source : KhaymaSVT — 2025 normale (SP) ; correction : https://drive.google.com/file/d/1djEWWOhf3vS8kdZ_SnlK7Ot9S2SJ/view
+Source : KhaymaSVT (sujet) ; correction : https://www.revisio.ma/pdf/examen-national-svt-sciences-physiques-2025-normale-corrige-305
 
 ## Cours et documents (AlloSchool — sections relatives aux milieux naturels et à l'impact des activités humaines)
 Matière : SVT (2BAC PC) | Chapitre : U7 — Les ordures ménagères | Type : Cours

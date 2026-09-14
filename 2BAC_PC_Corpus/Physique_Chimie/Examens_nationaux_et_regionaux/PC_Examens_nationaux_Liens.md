@@ -32,9 +32,8 @@ Source : MEN via AdrarPhysic
 Matière : Physique-Chimie | Chapitre : tous | Type : Corrigés (2025, 7 versions)
 Lien direct : https://drive.google.com/file/d/1ii2bOuVbVO8rc8WRrvIgUvtxsHPCF_D4/view | https://drive.google.com/file/d/1Y389-1jCQQg_8gL8OoDnFZz4Yoy2OECn/view | https://drive.google.com/file/d/1owNSCxBtD_27J-S-LxhdyAsrV8O7G1Gm/view | https://drive.google.com/file/d/1iyB4Mf8HlNWlnxEQhjnPxRVqBVEo9aOm/view | https://drive.google.com/file/d/1RE9oQj5t6RAs9fPfP7QxwGx4F0pkUQ8N/view | https://drive.google.com/file/d/1jjm3j-BSgTgURCU8f-kCtix7sb9nwfUt/view | https://drive.google.com/file/d/1nkb0LYjs2mAZvlE8m3s6GeNS3--H6S57/view
 Source : AdrarPhysic
-Matière : Physique-Chimie | Chapitre : tous | Type : Sujet + corrigé (2025, version Bestcours)
-Lien direct : https://www.bestcours.net/2025/05/correction-examen-national-physique-2bac-2025.html
-Source : Bestcours.net
+Notes : Le lien Bestcours.net « sujet + corrigé 2025 » a été retiré (domaine inactif en 2026) ;
+      le contenu est déjà couvert par les blocs AdrarPhysic 2025 ci-dessus.
 
 ## 2025 (session rattrapage)
 Matière : Physique-Chimie | Chapitre : tous | Type : Examen national (SPC, rattrapage)
@@ -96,10 +95,45 @@ Lien direct : https://drive.google.com/file/d/1ZB7Hv7Hh4CwnOIewkIXm1RfJZ0MoJ973/
 Source : AdrarPhysic
 
 ## 2016→2020 et devoirs SPC
-Matière : Physique-Chimie | Chapitre : tous | Type : Archive examens nationaux SPC 2008→2025 (liens directs)
-Lien direct : https://www.revisio.ma/ressources/examens-nationaux-spc-physique-chimie
-Source : Revisio.ma — un PDF par épreuve (normale/rattrapage) + corrigé.
-Lien direct (complément) : https://adrarphysic.fr/examens-spc/  (même archive, 2016→2020)
+Matière : Physique-Chimie | Chapitre : tous | Type : Examens nationaux SPC 2008 (sujets)
+Lien direct : https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2008-normale-sujet-53 | https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2008-rattrapage-sujet-54
+Source : Revisio.ma (page visionneuse → PDF résolu automatiquement par le script) ; archive 2021→2023 déjà couverte par AdrarPhysic ci-dessus.
+Matière : Physique-Chimie | Chapitre : tous | Type : Examens nationaux SPC 2009 (sujets)
+Lien direct : https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2009-normale-sujet-55 | https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2009-rattrapage-sujet-56
+Source : Revisio.ma
+Matière : Physique-Chimie | Chapitre : tous | Type : Examens nationaux SPC 2010 (sujets)
+Lien direct : https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2010-normale-sujet-57 | https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2010-rattrapage-sujet-58
+Source : Revisio.ma
+Matière : Physique-Chimie | Chapitre : tous | Type : Examens nationaux SPC 2011 (sujets)
+Lien direct : https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2011-normale-sujet-59 | https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2011-rattrapage-sujet-60
+Source : Revisio.ma
+Matière : Physique-Chimie | Chapitre : tous | Type : Examens nationaux SPC 2012 (sujets)
+Lien direct : https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2012-normale-sujet-61 | https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2012-rattrapage-sujet-62
+Source : Revisio.ma
+Matière : Physique-Chimie | Chapitre : tous | Type : Examens nationaux SPC 2013 (sujets)
+Lien direct : https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2013-normale-sujet-63 | https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2013-rattrapage-sujet-64
+Source : Revisio.ma
+Matière : Physique-Chimie | Chapitre : tous | Type : Examens nationaux SPC 2014 (sujets)
+Lien direct : https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2014-normale-sujet-65 | https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2014-rattrapage-sujet-66
+Source : Revisio.ma
+Matière : Physique-Chimie | Chapitre : tous | Type : Examens nationaux SPC 2015 (sujets)
+Lien direct : https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2015-normale-sujet-67 | https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2015-rattrapage-sujet-68
+Source : Revisio.ma
+Matière : Physique-Chimie | Chapitre : tous | Type : Examens nationaux SPC 2016 (sujets + corrigés)
+Lien direct : https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2016-normale-sujet-69 | https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2016-normale-corrige-70 | https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2016-rattrapage-sujet-71 | https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2016-rattrapage-corrige-72
+Source : Revisio.ma
+Matière : Physique-Chimie | Chapitre : tous | Type : Examens nationaux SPC 2017 (sujets + corrigés)
+Lien direct : https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2017-normale-sujet-73 | https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2017-normale-corrige-74 | https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2017-rattrapage-sujet-75 | https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2017-rattrapage-corrige-76
+Source : Revisio.ma
+Matière : Physique-Chimie | Chapitre : tous | Type : Examens nationaux SPC 2018 (sujets + corrigés)
+Lien direct : https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2018-normale-sujet-77 | https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2018-normale-corrige-78 | https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2018-rattrapage-sujet-79 | https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2018-rattrapage-corrige-80
+Source : Revisio.ma
+Matière : Physique-Chimie | Chapitre : tous | Type : Examens nationaux SPC 2019 (sujets + corrigés)
+Lien direct : https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2019-normale-sujet-81 | https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2019-normale-corrige-82 | https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2019-rattrapage-sujet-83 | https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2019-rattrapage-corrige-84
+Source : Revisio.ma
+Matière : Physique-Chimie | Chapitre : tous | Type : Examens nationaux SPC 2020 (sujets + corrigés)
+Lien direct : https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2020-normale-sujet-85 | https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2020-normale-corrige-86 | https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2020-rattrapage-sujet-87 | https://www.revisio.ma/pdf/examen-national-physique-chimie-spc-2020-rattrapage-corrige-88
+Source : Revisio.ma
 
 Matière : Physique-Chimie | Chapitre : tous | Type : Devoirs SPC corrigés (4 modèles, multi-chapitres)
 Lien direct : https://www.alloschool.com/element/119867/pdf
@@ -108,4 +142,5 @@ Lien direct (autres) : https://www.alloschool.com/element/121133/pdf (1-2) | htt
 
 Matière : Physique-Chimie | Chapitre : tous | Type : Examen national 2021 SPC + corrections
 Lien direct : https://www.alloschool.com/element/127439/pdf
-Source : AlloSchool — corrections : https://www.alloschool.com/element/140539 | 127917 | 140546 | 140553
+Source : AlloSchool
+Lien direct (corrigés) : https://www.alloschool.com/element/140539 | https://www.alloschool.com/element/127917/pdf | https://www.alloschool.com/element/140546/pdf | https://www.alloschool.com/element/140553/pdf
