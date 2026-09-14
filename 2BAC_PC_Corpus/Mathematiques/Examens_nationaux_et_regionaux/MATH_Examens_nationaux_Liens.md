@@ -36,13 +36,12 @@ Matière : Mathématiques | Chapitre : tous | Type : Examen national + corrigé
 Source : Fayssal Maths (fayssalmaths.com) — tous en PDF direct.
 
 ## Archives complètes (2008→2024)
-Matière : Mathématiques | Chapitre : tous | Type : Livre complet examens nationaux + corrigés (2008-2024, PC/SVT)
-Lien direct : https://www.bestcours.net/2025/05/sujets-corrigs-des-examens-nationaux-mathematiques-2eme-bac-pc-svt.html
-Source : Bestcours.net — table des matières page par page (2008→2024), téléchargement unique du recueil.
-
-Matière : Mathématiques | Chapitre : tous | Type : Archive par année (sujets, toutes sections marocaines)
-Lien direct : https://www.sigmaths.net/bac2/bacMaroc.php
-Source : Sigmaths (bibliothèque de documents maths) — ex. Examen National 2024 : https://www.sigmaths.net/docEtranger/details.php?doc_id=181
+Matière : Mathématiques | Chapitre : tous | Type : Examen national 2024 (sujet, SPC)
+Lien direct : https://www.sigmaths.net/docEtranger/maroc/4195_1707611658.pdf
+Source : Sigmaths (871 Ko) — archive annuelle complète (page) : sigmaths.net/bac2/bacMaroc.php
+Notes : Le « livre complet 2008-2024 » de Bestcours.net a été retiré : le domaine est inactif
+      (redirige vers un site tiers, constaté en 2026). Les nationaux 2016→2026 sont couverts
+      ci-dessus (Fayssal Maths) + 2026 corrigé (Bestcours.ma).
 
 Matière : Mathématiques | Chapitre : tous | Type : Examen national 2021 + corrections (SPC-SVC-STE-STM)
 Lien direct : https://www.alloschool.com/element/127130/pdf

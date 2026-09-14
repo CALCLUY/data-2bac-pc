@@ -122,7 +122,8 @@ def parse_liens_file(path, subject, folder_name, rel_dir):
         if in_block and s.startswith("Type :"):
             current_type = s.split(":", 1)[1].strip() or "Document"
             continue
-        if in_block and s.startswith("Lien direct :"):
+        if in_block and s.startswith("Lien direct"):
+            # « Lien direct : … », « Lien direct (autres) : … », etc.
             for u in URL_RE.findall(s):
                 add(u, current_type)
             continue
@@ -211,6 +212,24 @@ def drive_confirm(data, original_url):
     return None
 
 
+def find_pdf_in_page(data, base_url):
+    """Pages-visionneuses (revisio.ma, sigmaths.net, …) : la réponse est une
+    page HTML qui référence le PDF réel — on en extrait le lien direct."""
+    base_host = urllib.parse.urlsplit(base_url).netloc
+    cands = re.findall(rb'(?:href|src)=["\']([^"\'\s]+?\.pdf)["\']', data, re.I)
+    fallback = None
+    for cand in cands:
+        u = cand.decode(errors="ignore")
+        if ".php" in u.lower() or "reader" in u.lower():
+            continue
+        full = urllib.parse.urljoin(base_url, u)
+        if urllib.parse.urlsplit(full).netloc == base_host:
+            return full
+        if fallback is None:
+            fallback = full
+    return fallback
+
+
 def download_one(url):
     """Renvoie (octets, note). Lève une exception en cas d'échec."""
     last_err = None
@@ -219,16 +238,15 @@ def download_one(url):
             data = http_get(url)
             if data[:5] == b"%PDF-" or data[:2] == b"PK":
                 return data, None
-            # page HTML (Drive confirm, anti-bot, 404 stylisé…)
-            nxt = drive_confirm(data, url)
+            # page HTML : Drive confirm, page-visionneuse, anti-bot ou 404…
+            nxt = drive_confirm(data, url) or find_pdf_in_page(data, url)
             if nxt:
                 data = http_get(nxt)
                 if data[:5] == b"%PDF-" or data[:2] == b"PK":
-                    return data, None
-            ct = b"html"
+                    return data, "PDF résolu via lien intégré de la page"
             if b"<html" in data[:400].lower() or b"<!doctype" in data[:200].lower():
-                raise RuntimeError("réponse HTML (page, anti-bot ou 404) — "
-                                   "lien probablement mort")
+                raise RuntimeError("réponse HTML (page sans lien PDF, anti-bot "
+                                   "ou 404) — lien probablement mort")
             raise RuntimeError("contenu non PDF ({}…)"
                                .format(data[:24]))
         except urllib.error.HTTPError as e:

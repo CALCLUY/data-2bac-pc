@@ -23,7 +23,7 @@ Source (ensemble) : YouSVT — https://yousvt.com/2eme-bac-svt/
 
 ## AlloSchool (complément)
 Matière : SVT (2BAC PC) | Chapitre : U5 Immunologie | Type : Cours + exercices (sections AlloSchool)
-Lien direct : https://www.alloschool.com/course/sciences-de-la-vie-et-de-la-terre-svt-2eme-bac-sciences-physiques-biof
+Pages de sections (à parcourir manuellement, pas de PDF unique) : https://www.alloschool.com/course/sciences-de-la-vie-et-de-la-terre-svt-2eme-bac-sciences-physiques-biof
 Source : AlloSchool (Prof. H. Cheddadi) — sections « Immunologie » avec Doc PDF gratuits.
 
 Examens nationaux portant sur cette unité : voir ../Examens_nationaux_et_regionaux/SVT_Examens_nationaux_Liens.md
