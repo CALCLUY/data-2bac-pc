@@ -35,7 +35,7 @@ jobs:
         # partial failure but still downloads everything else and writes the
         # report, which the next step publishes on the corpus-pdfs branch.
         continue-on-error: true
-        run: python3 scripts/download_corpus.py --delay 0.3
+        run: python3 scripts/download_corpus.py --delay 1
 
       - name: Publish to corpus-pdfs branch + PR
         env:

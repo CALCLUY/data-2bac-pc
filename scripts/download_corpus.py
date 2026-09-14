@@ -170,9 +170,20 @@ def collect(root):
 # Téléchargement
 # --------------------------------------------------------------------------
 def http_get(url, max_bytes=MAX_BYTES):
+    host = urllib.parse.urlsplit(url).netloc
+    # Headers aussi complets que ceux d'un navigateur : certains hôtes
+    # (yousvt.com / Vercel) refusent les clients "minimaux" (403 anti-bot).
     req = urllib.request.Request(url, headers={
         "User-Agent": UA,
-        "Accept": "application/pdf,*/*;q=0.8",
+        "Accept": ("text/html,application/xhtml+xml,application/xml;q=0.9,"
+                   "image/avif,image/webp,*/*;q=0.8"),
+        "Accept-Language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+        "Referer": "https://{}/".format(host),
+        "Connection": "keep-alive",
+        "Upgrade-Insecure-Requests": "1",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "same-origin",
     })
     with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
         data = r.read(max_bytes + 1)
@@ -242,8 +253,8 @@ def main():
                     help="dossier du corpus (défaut: ./2BAC_PC_Corpus)")
     ap.add_argument("--dry-run", action="store_true",
                     help="affiche le plan sans télécharger")
-    ap.add_argument("--delay", type=float, default=0.5,
-                    help="délai entre téléchargements (s, défaut 0.5)")
+    ap.add_argument("--delay", type=float, default=1.0,
+                    help="délai entre téléchargements (s, défaut 1.0)")
     args = ap.parse_args()
 
     root = os.path.abspath(args.root)
@@ -316,8 +327,8 @@ def main():
         if fail:
             fh.write("\n## Liens en échec (à vérifier / remplacer)\n\n")
             for rel, name, status, size, url, note in fail:
-                fh.write("- **{}** ({})\n  - Lien : {}\n".format(
-                    name, rel, url))
+                fh.write("- **{}** ({})\n  - Lien : {}\n  - Cause : {}\n".format(
+                    name, rel, url, note))
         fh.write("\n*Re-lancer le script après corrections : seuls les liens "
                  "échoués/manquants seront retentés (idempotent).*\n")
 
