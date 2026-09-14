@@ -13,6 +13,7 @@ on:
     paths:
       - "2BAC_PC_Corpus/**"
       - "scripts/download_corpus.py"
+      - ".github/workflows/corpus-pdfs.yml"
 
 permissions:
   contents: write
@@ -54,8 +55,6 @@ jobs:
           else
             gh pr create --head corpus-pdfs --base main \
               --title "Downloaded corpus PDFs (2BAC PC)" \
-              --body "Automated download of the PDFs referenced by 2BAC_PC_Corpus (script: scripts/download_corpus.py).
-
-Check \`2BAC_PC_Corpus/download_report.md\` for any failed links. Merge to publish the PDFs on main."
+              --body "Automated download of the PDFs referenced by 2BAC_PC_Corpus (script: scripts/download_corpus.py). Check 2BAC_PC_Corpus/download_report.md for any failed links. Merge to publish the PDFs on main."
           fi
-          echo "PDFs published on the corpus-pdfs branch — review the PR."
+          echo "PDFs published on the corpus-pdfs branch - review the PR."
