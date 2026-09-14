@@ -96,3 +96,26 @@ Source : AlloSchool
 Matière : SVT (filière Sciences Physiques — SP) | Chapitre : multi (2e semestre) | Type : Devoirs corrigés SPC 2BAC SVT
 Lien direct : https://www.alloschool.com/element/123787/pdf | https://www.alloschool.com/element/141113/pdf | https://www.alloschool.com/element/123156/pdf | https://www.alloschool.com/element/141114/pdf | https://www.alloschool.com/element/124976/pdf | https://www.alloschool.com/element/141247/pdf
 Source : AlloSchool
+
+---
+## COMPLÉMENT DU 14/09/2026 — sources primaires officielles (MEN)
+
+Cadres de référence de l'examen national du baccalauréat — SVT,
+options internationales option française (Centre National de l'Évaluation,
+des Examens et de l'Orientation, octobre 2015, 20 p.) :
+- **Filière Sciences Physiques (PC)** — vérifié vivant, capturé dans
+  `SVT_Examens_Cadre_de_reference_officiel_MEN_filiere_Sciences_Physiques.txt`
+  https://720383a1-e5c4-4d13-a5be-1c591f502b54.filesusr.com/ugd/a2864f_df09d180e5fa434c9dbcce0dda40e31e.pdf
+- Filière SVT
+  https://720383a1-e5c4-4d13-a5be-1c591f502b54.filesusr.com/ugd/a2864f_12163bb23a4e49e58762f99556063f34.pdf
+- Filière Sciences Maths
+  https://720383a1-e5c4-4d13-a5be-1c591f502b54.filesusr.com/ugd/a2864f_4a676de79eb9481ba05bf37b28c716dc.pdf
+Source de référencement : https://chbani-mohamed.wixsite.com/prof-svt/examens-bacfr
+
+Devoirs/exercices corrigés SVT avec fichiers Drive DISTINCTS (prof. Chbani) :
+- Consommation matière organique — sujets : https://drive.google.com/file/d/155p1p6F5mwxZO7-jQ-AZT1hElGZsrkC4/view
+- Consommation matière organique — correction : https://drive.google.com/file/d/1gwClswxfm_oxtrUdOdNEBX7pVHonb7nm/view
+- Expression du matériel génétique — sujets : https://drive.google.com/file/d/19WIBha2Aj39cMUY9VYMFQAetRbNEWxC6/view
+- Expression du matériel génétique — correction : https://drive.google.com/file/d/1t0YZeKKc8ddnpU6OmFqZqGDIdzS65Z-t/view
+- Lois statistiques — sujets : https://drive.google.com/file/d/11JrtCSE5qLykxRMfIGkPmfRK7cGvqN7Z/view
+- Lois statistiques — correction : https://drive.google.com/file/d/1p0XSMkG_rebkWV3qpIaF8YIIpBqrutoL/view

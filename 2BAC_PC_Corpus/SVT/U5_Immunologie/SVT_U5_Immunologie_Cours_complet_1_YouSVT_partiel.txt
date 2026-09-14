@@ -1,0 +1,156 @@
+========================================================================
+MATIÈRE    : SVT — 2BAC (Sciences Physiques / SVT), Maroc
+UNITÉ      : U5 — L'immunologie
+CHAPITRE 1 : Notion de soi et de non soi
+TYPE       : Cours complet (version professeur)
+SOURCE     : YouSVT — Prof. Youssef ALANDALOUSSI
+LIEN PDF   : https://yousvt.com/DATA/DATA-fr/2eme-bac-svt/Cours/professeur/Cours-Unit5-1.pdf
+CAPTURE    : extraction texte partielle du PDF source (pages 40-44),
+             14/09/2026. Le PDF complet (4 parties) reste accessible au
+             lien ci-dessus.
+========================================================================
+
+CINQUIÈME PARTIE : IMMUNOLOGIE
+
+INTRODUCTION
+L'homme vit constamment dans un environnement qui contient une multitude
+d'agents étrangers, notamment infectieux, capables d'envahir notre
+organisme et de menacer son intégrité. Ces agents constituent le non soi.
+Les constituants de l'organisme forment un tout compact et cohérent :
+le soi.
+
+Généralement, quand un élément étranger pénètre ou apparaît dans
+l'organisme, celui-ci répond par un ensemble de réactions appelées
+« réactions immunitaires » qui lui permettent de neutraliser ou
+d'éliminer l'agent étranger et ainsi de maintenir son intégrité.
+
+L'ensemble des cellules, des tissus et des molécules qui concourent à
+opposer une résistance aux infections est appelé SYSTÈME IMMUNITAIRE.
+
+Problématiques :
+- Comment le système immunitaire arrive-t-il à distinguer le soi du non soi ?
+- Quels sont les éléments et les moyens qui permettent au système
+  immunitaire de défendre le soi et d'éliminer le non soi ?
+- Quels sont les constituants du système lymphatique et quelle est son
+  importance dans les réponses immunitaires ?
+- Quelles sont les causes de dysfonctionnement du système immunitaire ?
+- Quelles sont les méthodes et techniques envisagées pour aider le
+  système immunitaire ?
+
+------------------------------------------------------------------------
+CHAPITRE 1 : NOTION DE SOI ET DE NON SOI
+------------------------------------------------------------------------
+
+Introduction
+La réponse immunitaire repose sur l'aptitude de l'organisme à reconnaître
+ses propres constituants (le soi) des éléments étrangers (le non soi),
+puis à éliminer sélectivement ces derniers.
+
+I – LES PRINCIPAUX CONSTITUANTS DU NON SOI
+
+1) Quelques exemples du non soi (Document 1)
+   Le non soi, c'est ce qui est reconnu comme ne faisant pas partie du
+   corps par le système immunitaire et devant être éliminé ou détruit.
+   A : bacille de Koch (responsable de la tuberculose)
+   B : virus de la poliomyélite
+   C : Candida albicans (champignon)
+   D : Anophèle, vecteur du parasite du paludisme
+   E : grains de pollen
+   F : acariens de la poussière de maison
+   G : Sarcoptes scabiei = la gale ou scabiose (maladie de la peau)
+   H : greffe d'organes
+   I : cellules cancéreuses de la prostate
+
+   DÉFINITION retenue : le non soi est tout élément non reconnu comme
+   faisant partie d'un organisme et qui, de ce fait, devient la cible du
+   système immunitaire de ce dernier.
+
+   Le non soi peut être EXTERNE PATHOGÈNE :
+   - Bactéries : à l'origine de plusieurs maladies (syphilis, diphtérie,
+     tétanos…), du fait de leur grande vitesse de division et de
+     multiplication ainsi que de leur capacité à sécréter des toxines.
+   - Virus : responsables de maladies dangereuses (rage, SIDA, hépatite,
+     grippe…). Leur danger réside dans leur taille très réduite et leur
+     nature de parasites obligatoires.
+   - Champignons microscopiques : voies digestives, génitales (muqueuses),
+     ongles et plus généralement la peau → mycoses.
+   - Protozoaires : petits organismes vivant dans l'eau, les sols humides
+     ou à l'intérieur d'un organisme ; ex. Plasmodium (paludisme),
+     transmis par la piqûre de l'anophèle.
+
+   Le non soi peut être EXTERNE NON PATHOGÈNE :
+   - Grains de pollen.
+   - Globules rouges et greffons provenant de proches familiaux, surtout
+     les vrais jumeaux.
+
+   LE SOI MODIFIÉ EST RECONNU COMME NON SOI :
+   - Cellules cancéreuses (expression du génome fortement perturbée),
+     cellules mutées, cellules mortes ou altérées, cellules infectées
+     par un virus.
+
+2) Définition du non soi
+   Le non soi d'un individu est l'ensemble des molécules dont la synthèse
+   ne résulte pas de l'information génétique propre à l'organisme et qui
+   sont reconnues comme étrangères par le système immunitaire. Elles
+   peuvent être issues du milieu extérieur (vers, virus, bactéries,
+   toxines…) ou être simplement des molécules du soi modifiées (cancer).
+
+II – MISE EN ÉVIDENCE DE LA COMPATIBILITÉ TISSULAIRE
+
+1) Observations et données expérimentales
+
+a) Greffes de la peau chez l'Homme (Document 2)
+   Une greffe est une intervention chirurgicale qui permet le transfert
+   d'un tissu ou d'un organe (le greffon) d'un donneur vers un receveur.
+   Observation clinique : dans le cas d'une greffe de peau entre un
+   donneur A et un receveur B, le greffon évolue d'abord normalement —
+   il est vascularisé à partir des tissus environnants et ses cellules se
+   multiplient normalement — mais après 12 jours le greffon est détruit
+   et rejeté.
+
+   Incident du restaurant scolaire (trois enfants gravement brûlés) :
+   - Enfant 1 : greffé avec la peau de son frère jumeau      → Courbe 1
+   - Enfant 2 : greffé avec la peau de l'un de ses parents   → Courbe 2
+   - Enfant 3 : greffé avec la peau d'un donneur sans lien de
+     consanguinité                                          → Courbe 3
+
+   % de réussite de la greffe en fonction des années :
+   | Années | Courbe 1 | Courbe 2 | Courbe 3 |
+   |    1   |   100    |   100    |   100    |
+   |    2   |   100    |    90    |    20    |
+   |    3   |   100    |    82    |     –    |
+   |    4   |   100    |    82    |     –    |
+   |    5   |   100    |    82    |     –    |
+   |    6   |   100    |    82    |     –    |
+   |    7   |   100    |    82    |     –    |
+   |    8   |   100    |    82    |     –    |
+
+   INTERPRÉTATION
+   1) Pendant les premiers jours la greffe est acceptée aisément : elle
+      est vascularisée et se confond avec les tissus environnants. Après
+      quelques jours, des points de nécrose apparaissent ainsi que des
+      signes inflammatoires périphériques, et vers le 12e jour la nécrose
+      du greffon aboutit à son rejet.
+      Le rejet s'explique par le fait que le corps humain reconnaît les
+      structures qui lui sont spécifiques (le soi) et les distingue des
+      structures qui ne lui appartiennent pas (le non-soi).
+   2) Le pourcentage d'acceptation atteint 100 % lorsqu'il existe une
+      forte relation de consanguinité entre donneur et receveur
+      (courbe 1), tandis qu'il diminue jusqu'à devenir nul lorsqu'il n'y
+      a aucune relation de consanguinité (courbe 3).
+      La réussite ou le rejet des greffes dépendent donc de la
+      compatibilité génétique, à l'échelle cellulaire et moléculaire,
+      entre le donneur et le receveur.
+   3) Chaque être humain se définit biologiquement par un groupe
+      tissulaire qui lui est propre. Quand le donneur possède le même
+      groupe tissulaire que le receveur (ou un groupe très voisin), il y
+      a COMPATIBILITÉ : le greffon est accepté, la greffe réussit. Dans
+      le cas contraire il y a INCOMPATIBILITÉ et rejet.
+
+------------------------------------------------------------------------
+SUITE DU COURS (dans le PDF complet, 4 parties) :
+- Marqueurs du soi : système HLA / CMH, groupes sanguins ABO
+- Structure et rôle des lymphocytes ; organes lymphoïdes
+- Chapitres 2 à 4 : moyens de défense du soi, dysfonctionnements,
+  moyens d'aide au système immunitaire
+------------------------------------------------------------------------

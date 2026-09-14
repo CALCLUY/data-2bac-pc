@@ -1,0 +1,110 @@
+========================================================================
+MATIÈRE    : SVT — 2BAC, filière SCIENCES PHYSIQUES (PC), Maroc
+TYPE       : CADRE DE RÉFÉRENCE OFFICIEL de l'examen national du
+             baccalauréat (document source primaire — MEN)
+ÉMETTEUR   : Royaume du Maroc — Ministère de l'Éducation Nationale
+             Direction de l'Évaluation, de l'Organisation de la vie
+             scolaire et des Formations Communes inter-académies
+             Centre National de l'Évaluation, des Examens et de
+             l'Orientation (CNEEO) — cnee@men.gov.ma
+DATE       : Octobre 2015 (options internationales — option français)
+LIEN PDF   : https://720383a1-e5c4-4d13-a5be-1c591f502b54.filesusr.com/ugd/a2864f_df09d180e5fa434c9dbcce0dda40e31e.pdf
+             (référencé sur https://chbani-mohamed.wixsite.com/prof-svt/examens-bacfr)
+CAPTURE    : extraction texte partielle (partie 1/7), 14/09/2026.
+             20 pages au total.
+========================================================================
+
+OBJET DE LA NOTE MINISTÉRIELLE
+« Les Mesures internationales du Baccalauréat marocain — option française.
+  Cadres de référence des épreuves de l'Examen National Unifié du
+  Baccalauréat — Matières enseignées en langue française.
+  Sciences de la Vie et de la Terre : série Sciences Expérimentales,
+  filière SCIENCES PHYSIQUES. »
+
+RÉFÉRENCES RÉGLEMENTAIRES CITÉES
+- Décision du Ministre de l'Éducation Nationale n° 2385.06 du 23 Ramadan
+  1427 (16 octobre 2006) relative à l'organisation des examens du
+  baccalauréat, telle que complétée et modifiée ;
+- Arrêté du Ministre n° 0008-15 du 11 mai 2015 portant cahier des
+  procédures d'organisation des examens du baccalauréat ;
+- Note n° 41 du 26 février 2010 relative aux cadres de référence des
+  épreuves de l'Examen National Unifié du Baccalauréat ;
+- Note n° 14/112 du 05 juin 2014 relative à l'actualisation des cadres
+  de référence.
+→ Application à compter de la session 2016.
+
+------------------------------------------------------------------------
+1. LES DOMAINES DE L'ÉVALUATION
+------------------------------------------------------------------------
+
+1.1 Compétences spécifiques visées par le programme de la 2e année du
+    baccalauréat — OPTION PC
+
+- Acquérir des connaissances liées à la CONSOMMATION DE LA MATIÈRE
+  ORGANIQUE et au FLUX D'ÉNERGIE au niveau cellulaire, pour comprendre
+  l'importance de l'énergie dans l'activité cellulaire et prendre
+  conscience de son rôle dans le maintien des fonctions vitales ;
+- Approfondir les connaissances sur la NATURE DE L'INFORMATION
+  GÉNÉTIQUE et les MÉCANISMES D'EXPRESSION DES GÈNES, afin de les
+  utiliser dans la compréhension et l'explication des phénomènes de
+  l'hérédité ;
+- Acquérir des connaissances sur la TRANSMISSION DE L'INFORMATION
+  GÉNÉTIQUE PAR LA REPRODUCTION SEXUÉE et les utiliser pour résoudre
+  des problèmes liés à la transmission des caractères héréditaires ;
+- Acquérir des connaissances sur les PHÉNOMÈNES GÉOLOGIQUES liés à la
+  FORMATION DES CHAÎNES DE MONTAGNES (déformations, métamorphisme,
+  granitisation) et être capable de les situer dans l'espace et le temps
+  dans le contexte de la TECTONIQUE DES PLAQUES ;
+- Acquérir des connaissances sur l'UTILISATION DES MATIÈRES ORGANIQUES
+  ET INORGANIQUES, prendre conscience du danger des polluants causé par
+  cette utilisation et proposer des alternatives environnementales pour
+  préserver la salubrité des milieux naturels et la santé des êtres
+  vivants ;
+- Utiliser une DÉMARCHE SCIENTIFIQUE convenable ;
+- Utiliser les différents MODES D'EXPRESSION (orale, écrite, graphique) ;
+- Utiliser correctement le MATÉRIEL DE LABORATOIRE et les TIC dans la
+  collecte et le traitement des données.
+
+------------------------------------------------------------------------
+2. LES CONTENUS
+------------------------------------------------------------------------
+
+2.1 Domaine 1 : Consommation de la matière organique et flux d'énergie
+
+Ce domaine vise à compléter les acquis relatifs à la PRODUCTION de la
+matière organique et au flux d'énergie, à travers la connaissance des
+aspects de la CONSOMMATION de la matière organique et du flux d'énergie
+au niveau de la cellule. But : comprendre le mécanisme d'utilisation de
+la matière organique par la cellule vivante pour s'approvisionner en
+énergie.
+
+L'étude des réactions responsables de la libération de l'énergie
+emmagasinée dans la matière organique consiste à :
+- se limiter aux réactions essentielles permettant la production d'ATP
+  au cours de la RESPIRATION et au cours de la FERMENTATION ;
+- déterminer le BILAN ÉNERGÉTIQUE de ces réactions ;
+- connaître les STRUCTURES CELLULAIRES responsables de la production
+  d'ATP ;
+- COMPARER LES RENDEMENTS énergétiques de la respiration et de la
+  fermentation.
+(L'étude du rôle du muscle strié squelettique suit dans le PDF source.)
+
+------------------------------------------------------------------------
+⚠ POINT DE VIGILANCE POUR CE CORPUS
+------------------------------------------------------------------------
+Ce cadre de référence (version OCTOBRE 2015) retient pour la filière
+SCIENCES PHYSIQUES cinq domaines, parmi lesquels l'« utilisation des
+matières organiques et inorganiques / polluants » — et NE MENTIONNE PAS
+l'immunologie, la génétique des populations ni les écosystèmes, qui
+relèvent du cadre de la filière SVT.
+Le présent corpus (dossier SVT/) est construit sur le programme SVT en
+7 unités (U1→U7). La version révisée du programme applicable depuis la
+rentrée 2024 n'a PAS pu être vérifiée dans ce tour : la contradiction
+éventuelle entre le cadre 2015 ci-dessus et le découpage en 7 unités du
+README reste donc À TRANCHER avec le cadre de référence 2024-2025 en
+vigueur.
+Cadres de référence SVT téléchargeables (même page source) :
+- Filière Sciences Physiques : .../a2864f_df09d180e5fa434c9dbcce0dda40e31e.pdf
+- Filière SVT                : .../a2864f_12163bb23a4e49e58762f99556063f34.pdf
+- Filière Sciences Maths     : .../a2864f_4a676de79eb9481ba05bf37b28c716dc.pdf
+========================================================================

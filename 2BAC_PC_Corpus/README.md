@@ -130,63 +130,81 @@ Notes : ...
 > l'examen régional concerne la 1ère BAC. Les « examens régionaux » au sens 2BAC sont donc remplacés ici par
 > (a) les examens nationaux 2016→2026, (b) les devoirs/contrôles corrigés et examens blancs classés par chapitre.
 
-## 4. Récapitulatif (Étape 5)
+## 4. Récapitulatif — **mis à jour par l'audit du 14/09/2026**
 
-| Matière | Chapitre | Nb de documents | Types couverts |
-|---------|----------|:---:|----------------|
-| Mathématiques | 01 Limites et continuité | 3 | Cours |
-| Mathématiques | 02 Dérivation et étude des fonctions | 2 | Cours |
-| Mathématiques | 03 Suites numériques | 4 | Cours + Examens par thème |
-| Mathématiques | 04 Fonctions primitives | 1 | Cours |
-| Mathématiques | 05 Fonctions logarithmiques | 4 | Cours + Fiche + Examens |
-| Mathématiques | 06 Nombres complexes (P1) | 4 | Cours + Fiche + Examens |
-| Mathématiques | 07 Fonctions exponentielles | 4 | Cours + Fiche + Examens |
-| Mathématiques | 08 Nombres complexes (P2) | 2 | Cours + Examens |
-| Mathématiques | 09 Calcul intégral | 4 | Cours + Fiche + Examens (+ texte) |
-| Mathématiques | 10 Équations différentielles | 1 | Cours |
-| Mathématiques | 11 Géométrie dans l'espace | 5 | Cours + Fiche + Examens |
-| Mathématiques | 12 Dénombrement et probabilités | 5 | Cours + Fiche + Examens |
-| Mathématiques | **Examens complets 2016→2026** | **21** | Examens nat. + corrigés |
-| Physique-Chimie | 01 Ondes mécaniques progressives | 8 | Cours + Exercices |
-| Physique-Chimie | 02 Ondes mécaniques progress. périodiques | 2 | Cours + Exercices |
-| Physique-Chimie | 03 Propagation des ondes lumineuses | 2 | Cours + Exercices |
-| Physique-Chimie | 04 Ondes électromagnétiques & modulation | 1 | Cours |
-| Physique-Chimie | 05 Décroissance radioactive | 2 | Cours + Exercices |
-| Physique-Chimie | 06 Noyaux, masse et énergie | 2 | Cours + Exercices |
-| Physique-Chimie | 07 Dipôle RC | 2 | Cours + Exercices |
-| Physique-Chimie | 08 Dipôle RL | 2 | Cours + Exercices |
-| Physique-Chimie | 09 Oscillations libres RLC série | 5 | Cours + Exercices |
-| Physique-Chimie | 10 RLC série régime sinusoïdal forcé | 1 | Cours (SM) |
-| Physique-Chimie | 11 Transformations lentes et rapides | 2 | Cours + Exercices |
-| Physique-Chimie | 12 Suivi temporel – vitesse | 2 | Cours + Exercices |
-| Physique-Chimie | 13 Transformations dans les 2 sens | 2 | Cours + Exercices |
-| Physique-Chimie | 14 État d'équilibre | 2 | Cours + Exercices |
-| Physique-Chimie | 15 Réactions acide-base | 1 | Cours |
-| Physique-Chimie | 16 Dosage acido-basique | 1 | Cours |
-| Physique-Chimie | 17 Lois de Newton | 1 | Cours |
-| Physique-Chimie | 18 Chute libre verticale | 2 | Cours |
-| Physique-Chimie | 19 Mouvements plans | 2 | Cours |
-| Physique-Chimie | 20 Évolution spontanée | 1 | Cours |
-| Physique-Chimie | 21 Transformations spontanées (piles) | 1 | Cours |
-| Physique-Chimie | 22 Satellites et planètes | 1 | Cours |
-| Physique-Chimie | 23 Rotation autour d'un axe fixe | 1 | Cours |
-| Physique-Chimie | 24 Systèmes mécaniques oscillants | 2 | Cours |
-| Physique-Chimie | 25 Électrolyse | 1 | Cours |
-| Physique-Chimie | 26 Aspects énergétiques des oscillations | 2 | Cours |
-| Physique-Chimie | 27 Atome et mécanique de Newton | 1 | Cours |
-| Physique-Chimie | 28 Estérification et hydrolyse | 1 | Cours |
-| Physique-Chimie | 29 Contrôle de l'évolution | 1 | Cours |
-| Physique-Chimie | **Examens complets 2021→2026** | **27** | Examens nat. + corrigés |
-| SVT | U1 Consommation matière organique / énergie | 14 | Cours + Documents + Exercices |
-| SVT | U2 Expression de l'information génétique / génie génétique | 16 | Cours + Documents + Exercices |
-| SVT | U3 Reproduction sexuée / génétique humaine | 17 | Cours + Documents + Exercices |
-| SVT | U4 Génétique des populations | 2 | Cours + Documents |
-| SVT | U5 Immunologie | 8 | Cours + Documents |
-| SVT | U6 Chaînes de montagnes / tectonique | 16 | Cours + Documents + Exercices |
-| SVT | U7 Écosystèmes | 10 | Examens + Documents (pollution) |
-| SVT | **Examens complets 2021→2026** | **16** | Examens nat. + corrigés |
+> ⚠️ Le tableau ci-dessous remplace l'ancien récapitulatif, qui comptait les documents
+> *référencés* et non les documents *réellement présents*. Chiffres obtenus par inventaire
+> du disque (contrôle d'en-tête `%PDF`, comptage de pages, MD5 anti-doublon).
+> Détail complet, écarts constatés et trous restants : **`AUTOCONTROLE_RAPPORT.md`**.
 
-**Total ≈ 260 documents** (liens directs PDF + textes capturés), tous PDF ou texte, dédoublonnés.
+| Matière | Chapitre | Nb de documents | Liens directs indexés | Types couverts |
+|---------|----------|:---:|:---:|----------------|
+| Mathématiques | 01 Limites et continuite | 3 | 3 | Cours×3 |
+| Mathématiques | 02 Derivation et etude des fonctions | 2 | 6 | Cours×2 |
+| Mathématiques | 03 Suites numeriques | 3 | 3 | Cours×1 + Examens corrigés×1 + Fiche×1 |
+| Mathématiques | 04 Fonctions primitives | 1 | 1 | Cours×1 |
+| Mathématiques | 05 Fonctions logarithmiques | 3 | 3 | Cours×1 + Examens corrigés×1 + Fiche×1 |
+| Mathématiques | 06 Nombres complexes partie 1 | 3 | 3 | Cours×1 + Examens corrigés×1 + Fiche×1 |
+| Mathématiques | 07 Fonctions exponentielles | 3 | 3 | Cours×1 + Examens corrigés×1 + Fiche×1 |
+| Mathématiques | 08 Nombres complexes partie 2 | 2 | 2 | Cours×1 + Examens corrigés×1 |
+| Mathématiques | 09 Calcul integral | 4 | 3 | Cours×2 + Examens corrigés×1 + Fiche×1 |
+| Mathématiques | 10 Equations differentielles | 2 | 1 | Cours×1 + Exercices×1 |
+| Mathématiques | 11 Geometrie dans lespace | 4 | 4 | Cours×2 + Examens corrigés×1 + Fiche×1 |
+| Mathématiques | 12 Denombrement et probabilites | 4 | 4 | Cours×2 + Examens corrigés×1 + Fiche×1 |
+| Mathématiques | **Examens nationaux & devoirs (tous chapitres)** | 4 | 23 | Examens×2 + Examens corrigés×2 |
+| Physique-Chimie | 01 Ondes mecaniques progressives | 2 | 22 | Cours×1 + Fiche×1 |
+| Physique-Chimie | 02 Ondes mecaniques progressives periodiques | 1 | 5 | Cours×1 |
+| Physique-Chimie | 03 Propagation des ondes lumineuses | 1 | 5 | Cours×1 |
+| Physique-Chimie | 04 Ondes electromagnetiques et modulation | 1 | 9 | Cours×1 |
+| Physique-Chimie | 05 Decroissance radioactive | 1 | 5 | Cours×1 |
+| Physique-Chimie | 06 Noyaux masse et energie | 1 | 5 | Cours×1 |
+| Physique-Chimie | 07 Dipole RC | 1 | 5 | Cours×1 |
+| Physique-Chimie | 08 Dipole RL | 1 | 5 | Cours×1 |
+| Physique-Chimie | 09 Oscillations libres RLC serie | 1 | 11 | Cours×1 |
+| Physique-Chimie | 10 RLC serie regime sinusoidal force | 1 | 9 | Cours×1 |
+| Physique-Chimie | 11 Transformations lentes et rapides | 1 | 5 | Cours×1 |
+| Physique-Chimie | 12 Suivi temporel vitesse de reaction | 1 | 5 | Cours×1 |
+| Physique-Chimie | 13 Transformations dans les 2 sens | 1 | 5 | Cours×1 |
+| Physique-Chimie | 14 Etat d equilibre | 1 | 5 | Cours×1 |
+| Physique-Chimie | 15 Reactions acide base | 1 | 11 | Cours×1 |
+| Physique-Chimie | 16 Dosage acido basique | 1 | 11 | Cours×1 |
+| Physique-Chimie | 17 Lois de Newton | 1 | 9 | Cours×1 |
+| Physique-Chimie | 18 Chute libre verticale | 2 | 14 | Cours×2 |
+| Physique-Chimie | 19 Mouvements plans | 2 | 13 | Cours×2 |
+| Physique-Chimie | 20 Evolution spontanee | 1 | 9 | Cours×1 |
+| Physique-Chimie | 21 Transformations spontanees piles | 1 | 9 | Cours×1 |
+| Physique-Chimie | 22 Satellites et planetes | 1 | 9 | Cours×1 |
+| Physique-Chimie | 23 Rotation autour axe fixe | 1 | 9 | Cours×1 |
+| Physique-Chimie | 24 Systemes mecaniques oscillants | 2 | 13 | Cours×2 |
+| Physique-Chimie | 25 Electrolyse | 1 | 9 | Cours×1 |
+| Physique-Chimie | 26 Aspects energetiques oscillations | 2 | 12 | Cours×2 |
+| Physique-Chimie | 27 Atome et mecanique de Newton | 1 | 3 | Cours×1 |
+| Physique-Chimie | 28 Esterification et hydrolyse | 1 | 11 | Cours×1 |
+| Physique-Chimie | 29 Controle evolution systeme chimique | 1 | 3 | Cours×1 |
+| Physique-Chimie | **Examens nationaux & devoirs (tous chapitres)** | 96 | 124 | Examens×57 + Examens corrigés×39 |
+| SVT | **Examens nationaux & devoirs (tous chapitres)** | 59 | 67 | Examens×39 + Examens corrigés×20 |
+| SVT | U1 Consommation matiere organique et flux energie | 11 | 17 | Cours×6 + Exercices×4 + Docs×1 |
+| SVT | U2 Nature expression information genetique genie genetique | 8 | 20 | Cours×6 + Exercices×2 |
+| SVT | U3 Transfert information reproduction sexuee genetique humaine | 11 | 21 | Cours×8 + Exercices×3 |
+| SVT | U4 Genetique des populations | 1 | 4 | Cours×1 |
+| SVT | U5 Immunologie | 2 | 10 | Cours×2 |
+| SVT | U6 Chaines de montagnes et tectonique | 8 | 19 | Cours×5 + Exercices×2 + Autre×1 |
+| SVT | U7 Ecosystemes | 12 | 13 | Cours×6 + Exercices×2 + Examens×4 |
+
+**Totaux vérifiés : 280 documents réellement présents · 600 liens directs indexés ·
+270 PDF (en-tête valide 270/270) · 2 121 pages · 5 paires de doublons MD5 identifiées.**
+
+### Trous connus non comblés (au 14/09/2026)
+- **Physique-Chimie : aucun exercice corrigé dans les 29 chapitres.** Les séries
+  d'exercices AlloSchool sont **indexées** (29/29 chapitres) mais non téléchargeables
+  depuis ce sandbox (pas d'accès réseau binaire) → lancer
+  `python3 scripts/download_corpus.py` sur une machine connectée.
+- **SVT U4 et U5 : aucun exercice corrigé** (YouSVT = liens morts ; prof-svt = doublons
+  de fichiers Drive ; talamidi = href non exposés).
+- **MATH 01, 02, 04 : aucun exercice ni recueil d'examens par thème** (Fayssal Maths ne
+  publie pas ces recueils ; bibliothèque libre AlloSchool → HTTP 404).
+- **MATH 08** et **SVT U7** contiennent des **doublons MD5** (voir le rapport).
+- Examens nationaux de **maths** : 4 documents seulement (2021, 2024 + 2 corrigés).
 
 ## 5. Limites connues
 - Certains fascicules YouSVT « élève » manquent côté serveur (les versions « professeur » sont données en secours).

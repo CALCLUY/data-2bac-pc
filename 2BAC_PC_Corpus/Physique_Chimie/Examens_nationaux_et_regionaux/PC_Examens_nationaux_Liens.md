@@ -144,3 +144,47 @@ Matière : Physique-Chimie | Chapitre : tous | Type : Examen national 2021 SPC +
 Lien direct : https://www.alloschool.com/element/127439/pdf
 Source : AlloSchool
 Lien direct (corrigés) : https://www.alloschool.com/element/140539 | https://www.alloschool.com/element/127917/pdf | https://www.alloschool.com/element/140546/pdf | https://www.alloschool.com/element/140553/pdf
+
+---
+
+# <!-- COMPLÉMENT du 14/09/2026 — index AlloSchool 2BAC Sciences Physiques BIOF récolté depuis la page
+     officielle https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+     Convention : /element/<id> = page · /element/<id>/pdf = lien DIRECT du PDF (gratuit) -->
+
+## Examens nationaux (AlloSchool, session normale)
+- Type : Examen 2021 SPC Session Normale — Sujet | Lien direct : https://www.alloschool.com/element/127439/pdf
+
+- Type : Examen 2021 SM Session Normale — Sujet | Lien direct : https://www.alloschool.com/element/127389/pdf
+- Type : Examen 2021 SVT Session Normale — Sujet | Lien direct : https://www.alloschool.com/element/127107/pdf
+
+## Devoirs surveillés corrigés — filière SPC
+- Type : Semestre 1 - Devoir 1 — Sujet | Lien direct : https://www.alloschool.com/element/119867/pdf
+- Type : Corrigés :  — Corrigé 1 | Lien direct : https://www.alloschool.com/element/120312/pdf
+- Type : Corrigés :  — Corrigé 2 | Lien direct : https://www.alloschool.com/element/120315/pdf
+- Type : Corrigés :  — Corrigé 3 | Lien direct : https://www.alloschool.com/element/120318/pdf
+- Type : Corrigés :  — Corrigé 4 | Lien direct : https://www.alloschool.com/element/120321/pdf
+- Type : Semestre 1 - Devoir 2 — Sujet | Lien direct : https://www.alloschool.com/element/121133/pdf
+- Type : Corrigés :  — Corrigé 1 | Lien direct : https://www.alloschool.com/element/121160/pdf
+- Type : Corrigés :  — Corrigé 2 | Lien direct : https://www.alloschool.com/element/121167/pdf
+- Type : Corrigés :  — Corrigé 3 | Lien direct : https://www.alloschool.com/element/121174/pdf
+- Type : Corrigés :  — Corrigé 4 | Lien direct : https://www.alloschool.com/element/121181/pdf
+- Type : Semestre 1 - Devoir 3 — Sujet | Lien direct : https://www.alloschool.com/element/122355/pdf
+- Type : Corrigés :  — Corrigé 1 | Lien direct : https://www.alloschool.com/element/140418/pdf
+- Type : Corrigés :  — Corrigé 2 | Lien direct : https://www.alloschool.com/element/140425/pdf
+- Type : Corrigés :  — Corrigé 3 | Lien direct : https://www.alloschool.com/element/140432/pdf
+- Type : Semestre 2 - Devoir 1 — Sujet | Lien direct : https://www.alloschool.com/element/124461/pdf
+- Type : Corrigés :  — Corrigé 1 | Lien direct : https://www.alloschool.com/element/124598/pdf
+- Type : Corrigés :  — Corrigé 2 | Lien direct : https://www.alloschool.com/element/124605/pdf
+- Type : Corrigés :  — Corrigé 3 | Lien direct : https://www.alloschool.com/element/124612/pdf
+- Type : Corrigés :  — Corrigé 4 | Lien direct : https://www.alloschool.com/element/124619/pdf
+
+## Cadres de référence officiels (MEN)
+- Type : Cadre de référence de l'examen national - Physique-Chimie SPC | Lien direct : https://www.alloschool.com/element/89454/pdf
+- Type : Cadre de référence de l'examen national - Physique-Chimie SM | Lien direct : https://www.alloschool.com/element/89462/pdf
+- Type : Les bases de la chimie - Cours (LaTeX) | Lien direct : https://www.alloschool.com/element/117780/pdf
+
+## Évaluations diagnostiques corrigées
+- Type : Document | Lien direct : https://www.alloschool.com/element/73383/pdf
+- Type : Document | Lien direct : https://www.alloschool.com/element/73386/pdf
+- Type : Document | Lien direct : https://www.alloschool.com/element/73389/pdf
+- Type : Document | Lien direct : https://www.alloschool.com/element/73392/pdf

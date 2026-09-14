@@ -109,6 +109,16 @@ def parse_liens_file(path, subject, folder_name, rel_dir):
         s = line.strip()
         if not s:
             continue
+        # Puces markdown (« - Type : … | Lien direct : … ») : même grammaire que
+        # les blocs canoniques, autorisée pour les index complétés.
+        if s.startswith(("-", "*")) and "Lien direct" in s:
+            t = "Document"
+            for p in [x.strip() for x in s.lstrip("-* ").split("|")]:
+                if p.lower().startswith("type :"):
+                    t = p.split(":", 1)[1].strip()
+            for u in URL_RE.findall(s):
+                add(u, t or "Document")
+            continue
         if s.startswith("Matière :"):
             # nouveau bloc — style multi-lignes OU une-ligne (| séparateur)
             in_block = True

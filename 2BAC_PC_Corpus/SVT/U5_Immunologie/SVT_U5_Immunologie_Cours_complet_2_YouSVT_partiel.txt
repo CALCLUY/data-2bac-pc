@@ -1,0 +1,146 @@
+========================================================================
+MATIÈRE    : SVT — 2BAC (Sciences Physiques / SVT), Maroc
+UNITÉ      : U5 — L'immunologie
+CHAPITRE 2 : Les moyens de défense de soi
+TYPE       : Cours complet (version professeur)
+SOURCE     : YouSVT — Prof. Youssef ALANDALOUSSI
+LIEN PDF   : https://yousvt.com/DATA/DATA-fr/2eme-bac-svt/Cours/professeur/Cours-Unit5-2.pdf
+CAPTURE    : extraction texte partielle du PDF source (partie 1/9),
+             14/09/2026. Le PDF complet reste accessible au lien ci-dessus.
+========================================================================
+
+CHAPITRE 2 : LES MOYENS DE DÉFENSE DE SOI
+
+INTRODUCTION
+Notre organisme est doté d'un système immunitaire qui permet de conserver
+son intégrité. Ce système distingue le soi du non-soi et élimine ou
+neutralise les substances étrangères qui peuvent s'y introduire, en
+particulier les agents infectieux.
+
+La réaction immunitaire provoquée par la présence d'un antigène dans
+l'organisme peut être assurée par :
+- des mécanismes INNÉS ou NON SPÉCIFIQUES, identiques quel que soit
+  l'agent déclencheur ;
+- des mécanismes ACQUIS ou SPÉCIFIQUES, qui font intervenir des cellules
+  spécialisées permettant d'apporter une réponse spécifique à chaque cas.
+
+Problématiques :
+- Comment notre organisme se protège-t-il face à une agression ?
+- Quels sont les barrières naturelles ?
+- Quelles cellules entrent en jeu lors d'une infection et quels sont les
+  mécanismes mis en place ?
+
+------------------------------------------------------------------------
+I – L'IMMUNITÉ NON SPÉCIFIQUE
+------------------------------------------------------------------------
+
+1) Les barrières naturelles de l'organisme (Document 1)
+
+L'organisme possède des barrières naturelles qui limitent l'entrée
+d'agents étrangers. Elles constituent la PREMIÈRE LIGNE DE DÉFENSE et
+sont classées en trois types de protection : mécanique (physique),
+biochimique et écologique.
+
+Schéma de synthèse (Document 1) :
+  Barrières mécaniques      : peau (épiderme), muqueuse, mucus, cils vibratiles
+  Barrières biochimiques    : larmes, salive, sueur (pH = 3,5), suc
+                              gastrique (pH = 1)
+  Barrières écologiques     : flore intestinale, flore vaginale
+
+A) Barrières mécaniques (physiques)
+   ★ La peau :
+     - couche cornée dont les cellules contiennent de la kératine, qui
+       rigidifie sa surface et la rend imperméable à la plupart des
+       micro-organismes pathogènes ; cellules jointives, sans espace
+       intercellulaire ;
+     - régénération et desquamation quotidiennes éliminent la plupart des
+       microbes et des substances étrangères ;
+     - la paupière balaye l'œil en permanence, éliminant les corps
+       étrangers.
+   ★ Les muqueuses : la couche de cellules épithéliales forme une
+     barrière cellulaire continue :
+     - cils vibratiles des voies respiratoires : aident le mucus chargé
+       de grosses particules à être évacué et limitent la fixation de
+       certains corps étrangers ;
+     - toux et éternuement : chassent certains corps étrangers des voies
+       respiratoires ;
+     - mucus nasal : expulse certains microbes en les englobant.
+
+B) Barrières biochimiques (sécrétions de cellules spécialisées)
+   - acidité de la peau (sébum, sueur) : s'oppose au développement des
+     bactéries et des champignons microscopiques ;
+   - lysozymes (enzyme bactéricide) et anticorps de la salive et des
+     sécrétions lacrymales : rôle antiseptique ;
+   - acidité de l'estomac, du vagin et de l'urine : empêche la
+     prolifération des microbes.
+
+C) Barrières écologiques
+   - flore commensale cutanée (bactéries saprophytes) : limite le
+     développement des germes pathogènes ;
+   - flore commensale intestinale : élimine des micro-organismes
+     pathogènes ;
+   - flore commensale vaginale : crée un milieu acide défavorable.
+
+BILAN : la peau, les muqueuses et les sécrétions de quelques cellules de
+l'organisme représentent des barrières naturelles qui protègent
+l'organisme contre les corps étrangers. Le dépassement de ces barrières
+par les intrus déclenche des réponses immunitaires NON SPÉCIFIQUES pour
+préserver l'intégrité de l'organisme.
+
+------------------------------------------------------------------------
+2) La réaction inflammatoire
+------------------------------------------------------------------------
+
+a) Manifestations (Document 2)
+
+Voies de contamination :
+  - cutanée (lésion de la peau)
+  - digestive (ingestion d'eau ou d'aliments contaminés)
+  - respiratoire (air inspiré)
+  - génitale (rapports sexuels non protégés)
+  - sanguine (transfusion)
+
+Après contamination, les bactéries peuvent déclencher une série
+d'événements menant à une réponse inflammatoire LOCALE, suivie d'une
+phagocytose. Chez une personne blessée par une piqûre d'aiguille, on
+constate un gonflement local de la peau (ŒDÈME), accompagné de rougeur,
+d'une sensation de chaleur et de douleur.
+
+Causes physiologiques :
+  - dilatation des vaisseaux au niveau de l'inflammation = VASODILATATION ;
+  - afflux de sang → rougeur et chaleur ;
+  - sortie de plasma sanguin dans les tissus → gonflement (œdème) ;
+  - stimulation de récepteurs sensoriels (NOCICEPTEURS), situés dans les
+    muscles, la peau, les articulations et les viscères → douleur.
+
+DÉFINITION : l'inflammation est une réponse des tissus vivants vascularisés
+à une agression externe (infection, traumatisme, brûlure, allergie…) ou
+interne (cellules cancéreuses). C'est un processus habituellement
+bénéfique : son but est d'éliminer l'agent pathogène et de réparer les
+lésions tissulaires.
+
+b) Les médiateurs de l'inflammation (Document 3)
+
+À l'occasion d'une lésion, des agents pathogènes (bactéries, virus,
+champignons) peuvent s'introduire par la peau ou les muqueuses.
+Différentes cellules de l'immunité innée présentes dans ces tissus,
+qualifiées de CELLULES SENTINELLES, reconnaissent ces pathogènes dès
+leur entrée : CELLULES DENDRITIQUES, MACROPHAGES et MASTOCYTES.
+
+En 1936, Werle extrait d'un tissu infecté des molécules qualifiées de
+MÉDIATEURS CHIMIQUES, comme l'HISTAMINE. L'injection de ces médiateurs
+sous la peau provoque des symptômes d'inflammation.
+→ Déduction : l'histamine joue un rôle déclencheur / amplificateur dans
+  la réponse inflammatoire.
+
+Tableau — médiateurs chimiques et rôles (extrait) :
+  | Médiateur  | Origine                                            | Rôle                                  |
+  | Histamine  | mastocytes, basophiles, plaquettes (thrombocytes)  | augmente la perméabilité des vaisseaux|
+
+------------------------------------------------------------------------
+SUITE DU COURS (PDF complet, 9 parties) :
+- Phagocytose (étapes : adhésion, ingestion, digestion)
+- II – L'immunité spécifique : à médiation humorale (LB, anticorps) et
+  à médiation cellulaire (LT8) ; coopération cellulaire ; mémoire
+  immunitaire
+------------------------------------------------------------------------
