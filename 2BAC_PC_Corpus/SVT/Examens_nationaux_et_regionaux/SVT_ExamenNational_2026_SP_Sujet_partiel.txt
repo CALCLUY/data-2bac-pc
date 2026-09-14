@@ -1,0 +1,107 @@
+================================================================================
+EXAMEN NATIONAL DU BACCALAURÉAT — 2026, session normale
+Filière : Sciences expérimentales, option Sciences Physiques (SPC) — SVT
+PDF COMPLET (sujet) : https://drive.google.com/file/d/1PaRIdqQXvJGMPf-aJ--mQrc3dnU0QNSL/view
+PDF COMPLET (correction) : https://drive.google.com/file/d/11_mQwMKCq5g17hVL3j4aYKuue7FeL0Fn/view
+EXTRAIT PARTIEL (texte capturé ; figures omises)
+================================================================================
+
+PARTIE I : Restitution des connaissances (5 points)
+
+I. Choix multiples (2 pts)
+ 1. Dans une zone de subduction, le prisme d'accrétion est le résultat de l'accumulation des sédiments :
+    a. océaniques de la plaque subduite (convergence)
+    b. océaniques de la plaque chevauchante (convergence)
+    c. continentaux de la plaque subduite (convergence)
+    d. continentaux de la plaque chevauchante (convergence)
+ 2. Le métamorphisme thermodynamique est un ensemble de transformations minéralogiques et
+    structurales d'une roche préexistante :
+    a. à l'état solide, sous l'effet des variations de température
+    b. à l'état solide, sous l'effet des variations de pression et de température
+    c. à l'état liquide, sous l'effet des variations de pression et de température
+    d. à l'état liquide, sous l'effet des variations de température
+ 3. Le « pli-faille » est une déformation intermédiaire dans les chaînes de collision. Il résulte :
+    a. d'un pli suivi d'une faille (régime compressif)
+    b. d'un pli suivi d'une faille (régime distensif)
+    c. d'une faille suivie d'un pli (régime compressif)
+    d. d'une faille suivie d'un pli (régime distensif)
+ 4. L'anatexie correspond :
+    a. à la cristallisation d'un magma andésitique en profondeur (chaîne de subduction)
+    b. à la cristallisation d'un magma andésitique en profondeur (chaîne de collision)
+    c. à la fusion partielle des roches de la croûte continentale soumises à des conditions
+       extrêmes de température et de pression
+    d. à la fusion partielle des roches de la croûte océanique soumises à des conditions
+       extrêmes de température et de pression
+
+II. (1 pt) Définir : • Minéral index.  • Nappe de charriage.
+
+III. Vrai/Faux (1 pt)
+ 1. L'enfouissement d'une lithosphère océanique dans l'asthénosphère est le résultat de
+    l'augmentation de sa densité qui dépasse celle de l'asthénosphère.
+ 2. Le plan de Bénioff est un plan sismique incliné résultant de l'enfouissement de la
+    lithosphère océanique sous une autre lithosphère.
+ 3. Un chevauchement est un mouvement tectonique entraînant un ensemble de terrains
+    autochtones à en recouvrir un autre allochtone.
+ 4. Le gneiss se distingue du schiste par une structure foliée marquée par une alternance
+    de lits clairs et de lits sombres.
+
+IV. (1 pt) Schéma d'une zone de subduction : adresses aux numéros 1-4 le phénomène correspondant :
+ a. fusion partielle  b. déshydratation  c. enfouissement  d. montée du magma  e. anatexie
+
+PARTIE II : Raisonnement scientifique et communication écrite et graphique (15 points)
+
+EXERCICE 1 (5 pts) — La maladie « Konzo » (U1 : consommation de la matière organique / flux d'énergie)
+ Maladie due à une perturbation du métabolisme énergétique des neurones moteurs, suite à
+ l'intoxication par le manioc amer (riche en glucides) ; Afrique ; faible motricité + fatigue.
+ Donnée 1 : glucosides cyanogéniques du manioc → hydrolyse → acide cyanhydrique (HCN).
+   Durée cuisson (min) : 0 / 15 / 30 / 60 / 90
+   Teneur HCN (mg/kg)  : 36,65 / 19,62 / 12,58 / 6,28 / 2,49
+   Réduction toxicité (%) : 0 / 46,5 / 65 / 82,9 / 93,2
+ 1. a. Relation entre durée de cuisson, teneur en HCN et toxicité.
+    b. Hypothèse expliquant la relation entre cuisson et perturbation du métabolisme
+       énergétique des neurones moteurs.
+ Donnée 2 : suspension de cellules + HCN 100 µM : O2 consommé diminue (100→46 UA sur 5 min) ;
+   ATP produit selon [HCN] : 100→270, 200→205, 500→140, 1000→20 UA ;
+   site d'action du HCN : chaîne respiratoire mitochondriale (document 3).
+ 2. Décrire les résultats ; expliquer l'effet du HCN sur la consommation d'O2 et la production d'ATP.
+ Donnée 3 : les neurones moteurs sont spécialisés dans la contraction musculaire ; riches en
+ mitochondries ; activité nécessitant une grande quantité d'ATP.
+ 3. Expliquer la relation consommation de manioc amer / maladie de Konzo ; vérifier l'hypothèse.
+
+EXERCICE 2 (5 pts) — Nature de l'information génétique et transmission (U2/U3)
+ Donnée 1 : Mendel (1865) : croisements de lignées pures de pois (Po) ; F1 ; F2 (autofécondation F1)
+   - Graines lisses × ridées → F1 100 % lisses ; F2 : 5474 lisses / 1850 ridées
+   - Tiges longues × courtes → F1 100 % longues ; F2 : 787 longues / 277 courtes
+   - Gousses gonflées × étranglées → F1 100 % gonflées ; F2 : 882 gonflées / 299 étranglées
+   1ère loi de Mendel : tous les hybrides de F1 issus du croisement de deux lignées pures se
+   ressemblent et présentent le caractère de l'un des parents.
+   2ème loi : F2 issue de deux hétérozygotes pour un couple d'allèles est hétérogène (séparation
+   des allèles ; gamètes « purs »).
+ 1. a. Montrer que la 1ère loi de Mendel est vérifiée pour les trois croisements.
+    b. Expliquer les résultats F2 du caractère « forme des graines » (2ème loi).
+ Donnée 2 : Griffith (1928) : souches R et S de Streptococcus pneumoniae (pneumonie) ;
+ expériences sur souris (figure b) ; travaux d'O. Avery et équipe (figure c).
+ 2. Décrire les résultats de Griffith puis expliquer le résultat de l'expérience 4.
+ Donnée 3 : Hershey & Chase (1952) : phage T2 infectant E. coli (fixation, injection du matériel
+ génétique, capside extérieure) ; nouveaux phages identiques.
+ 3. Montrer que l'ADN du phage T2 est à l'origine des nouveaux phages ; les travaux d'Hershey et
+    Chase confirment les résultats d'O. Avery.
+
+EXERCICE 3 (5 pts) — Pergélisol et réchauffement climatique (U7 : écosystèmes)
+ Pergélisol : couche de sol gelée en permanence (Arctique), riche en matière organique ;
+ réchauffement → libération de CO2 et CH4 + lacs de dégel (thermokarsts).
+ Donnée 1 : ≈ 1700 Gt de matière organique végétale (20 000 ans) ; couche active superficielle
+ microbienne ; variation de température avec la profondeur ; Péninsule de Yamal (Russie) :
+ variation de la superficie de pergélisol dégelé 2004 → 2016.
+ 1. Décrire la variation de température (couche active/pergélisol) et la variation de superficie
+    dégelée (Yamal) ; proposer une hypothèse.
+ Donnée 2 : réchauffement plus marqué dans l'Arctique (1940 : 1,4 ; 1960 : 0,5 ; 1980 : 0,0 ;
+ 2000 : 1,3 ; 2020 : 2,8 °C) ; mécanisme de production de CO2/CH4 (bactéries méthanogènes en
+ anaérobie produisent CH4 ; bactéries méthanotrophes consomment CH4 en aérobie).
+ 2. Montrer la relation réchauffement climatique / production de CO2 et CH4 ; vérifier l'hypothèse.
+ Donnée 3 : CO2 et CH4 sont des gaz à effet de serre (absorption des rayonnements infrarouges) ;
+ prévisions 2020→2100 : superficie de pergélisol (10,0 → 8,0 → 5,0 → 2,5 million km² en
+ 2020/2040/2060/2080) ; CO2 libéré (0,005 → 0,015 → 0,028 → 0,042 Gt/an) ;
+ CH4 libéré (0,010 → 0,019 → 0,026 → 0,030 Gt/an).
+ 3. (suite de l'exploitation des prévisions — boucle de rétroaction positive pergélisol/climat).
+================================================================================

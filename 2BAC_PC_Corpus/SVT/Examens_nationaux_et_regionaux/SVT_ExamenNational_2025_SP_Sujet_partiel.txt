@@ -1,0 +1,99 @@
+================================================================================
+EXAMEN NATIONAL DU BACCALAURÉAT — 2025, session normale
+Filière : Sciences expérimentales, option Sciences Physiques (SPC) — SVT
+PDF COMPLET (sujet) : https://drive.google.com/file/d/1oaNqvWlb2skAgvcTu8AwnWwnCqqcwQ7Z/view
+PDF COMPLET (correction) : https://drive.google.com/file/d/1djEWWOhf3vS8kdZ_SnlK7Ot9S2SJ/view
+EXTRAIT PARTIEL (texte capturé ; figures omises)
+================================================================================
+
+PARTIE I : Restitution des connaissances (5 points)
+
+I. Choix multiples (2 pts)
+ 1. La faille inverse se caractérise par un plan de faille :
+    a. vertical et un rapprochement des deux compartiments
+    b. vertical et un éloignement
+    c. oblique et un rapprochement
+    d. oblique et un éloignement
+ 2. Le métamorphisme de contact est dû à :
+    a. haute température / basse pression
+    b. basse température / basse pression
+    c. haute température / haute pression
+    d. basse température / haute pression
+ 3. La formation du magma dans les zones de subduction résulte de la fusion partielle de :
+    a. péridotite non hydratée de la plaque subduite
+    b. péridotite hydratée de la plaque subduite
+    c. péridotite hydratée de la plaque chevauchante
+    d. péridotite non hydratée de la plaque chevauchante
+ 4. Dans les chaînes de collision, l'anatexie entraîne la formation :
+    a. de roches métamorphiques  b. d'un magma basaltique
+    c. d'un magma andésitique    d. d'un magma granitique
+
+II. (1 pt) a. Citer deux caractéristiques géophysiques des zones de subduction.
+        b. Donner une définition du faciès métamorphique.
+
+III. Vrai/Faux (1 pt)
+ a. Les nappes de charriage résultent d'un déplacement de formations rocheuses sur de longues
+    distances, sous l'effet de forces tectoniques extensives.
+ b. L'auréole de métamorphisme est formée de roches résultant d'un métamorphisme thermique.
+ c. La formation des chaînes d'obduction est le résultat de l'enfouissement d'une lithosphère
+    océanique sous une lithosphère continentale.
+ d. La foliation est une structure caractéristique des roches métamorphiques qui résulte d'un
+    métamorphisme de forte intensité.
+
+IV. Association (1 pt) — Ensemble A : 1. Eclogite, 2. Granodiorite, 3. Andésite, 4. Schiste
+ — Ensemble B :
+ a. Roche métamorphique formée sous des pressions et températures faibles.
+ b. Roche magmatique plutonique, constitue le principal du manteau supérieur.
+ c. Roche magmatique plutonique formée dans la croûte continentale.
+ d. Roche métamorphique formée en profondeur sous une haute pression.
+ e. Roche magmatique volcanique formée dans des zones de subduction.
+
+PARTIE II : Raisonnement scientifique et communication écrite et graphique (15 points)
+
+EXERCICE 1 (5 pts) — Le chou puant (U1 : consommation de la matière organique / flux d'énergie)
+ Plante apparaissant fin d'hiver ; écart thermique jusqu'à 37 °C entre parties reproductrices
+ et milieu, dû à la production de chaleur (fusion de la neige).
+ Donnée 1 : suspensions de mitochondries A (témoin, cellules non reproductrices) et B
+ (cellules reproductrices), sans métabolites ; suivi de l'O2 avant/après ajout de succinate
+ puis de KCN (inhibiteur du complexe IV — cytochrome c oxydase).
+   A : O2 = 100 % jusqu'à t=1,5 ; après succinate : 80 % ; après KCN : 62 % (stable).
+   B : 100 % ; après succinate : 85, 70, 55, 40, 25 % (continuation malgré KCN).
+ 1. a. Décrire la variation de l'O2 dans A et B ; déduire l'effet du KCN sur la consommation d'O2.
+    b. Proposer une hypothèse sur l'effet du KCN dans B.
+ Donnée 2 : réactions de phosphorylation oxydative (figures a et b) : mitochondries des parties
+ non reproductrices vs reproductrices.
+ 2. Dégager les différences dans les réactions de phosphorylation oxydative.
+ 3. Expliquer le mécanisme de production de chaleur par les parties reproductrices,
+    puis vérifier l'hypothèse proposée.
+
+EXERCICE 2 (5 pts) — ALD + croisement dihybride (U2/U3 : nature et transmission de l'information génétique)
+ I. Adrénoleucodystrophie (ALD) : maladie génétique rare (dégénérescence nerveuse,
+    insuffisance surrénale). L'ALDP (protéine du peroxysome) transporte/dégrade les
+    acides gras à longue chaîne (AGLC).
+ 1. Montrer la relation fonction ALDP / état de santé (document 1).
+ Donnée 2 : gène ABCD1, allèle normal (ALDP fonctionnelle) vs allèle muté ; fragments du
+ brin non transcrit : normal ...GTC AAC AGT C / muté ...GTC AAC AGA C ; code génétique fourni.
+ 2. Donner les séquences d'ARNm et d'acides aminés des deux allèles ; expliquer l'origine de l'ALD.
+ II. Cobaye : croisement 1 (gris lisse × blanc rude → F1 gris lisse) ; croisement 2 (F1 × F1) :
+    F2 = 80 gris lisses, 25 gris rudes, 26 blancs lisses, 9 blancs rudes.
+ 3. Déterminer l'allèle dominant et l'allèle récessif de chaque gène.
+ 4. Montrer que les deux gènes sont indépendants.
+ 5. Interprétation chromosomique des résultats (échiquier ; G/g, L/l).
+
+EXERCICE 3 (5 pts) — Pollution des eaux (U7 : écosystèmes / activités humaines)
+ Plaine de Triffa (nord-est du Maroc, 36 060 ha) : agriculture intensive, engrais azotés.
+ Document 1 : nitrates de 6 puits : P1=40, P2=125, P3=113, P4=135, P5=93, P6=47 mg/L
+ (seuil tolérable : 50 mg/L).
+ Document 2 : étude allemande (745 enfants) : méthémoglobinémie liée aux nitrates ;
+ 8,6 % atteints, 7,3 % des décès liés à la consommation d'eaux de puits contaminées.
+ 1. Relation entre utilisation des engrais azotés et impact sur la santé.
+ Document 3 : 81 % des habitants de Madagh utilisent des fosses septiques ; étude
+ bactériologique des 6 puits (coliformes, streptocoques fécaux).
+ 2. Montrer l'impact des fosses septiques sur la potabilité des eaux.
+ Document 4 : STEP (entrée/sortie) : DBO5 455→73 mg/L (norme irrigation ≤10), DCO 792→100
+ (≤40), coliformes 10^7→2,10^4 (≤10^3), streptocoques 10^7→10^3 (≤10^3).
+ 3. a. Comparer entrée/sortie de la STEP ; déduire l'importance du traitement.
+    b. Montrer que les eaux traitées ne peuvent pas être réutilisées en irrigation.
+ 4. Proposer une mesure de préservation des eaux souterraines (nitrates) et une autre
+    pour la qualité des puits de Madagh.
+================================================================================
