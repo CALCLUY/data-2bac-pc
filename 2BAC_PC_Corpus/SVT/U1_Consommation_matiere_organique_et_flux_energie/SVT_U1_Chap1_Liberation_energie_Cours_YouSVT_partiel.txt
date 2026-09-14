@@ -1,0 +1,89 @@
+================================================================================
+SVT 2BAC PC — U1, Chapitre 1 : Libération de l'énergie emmagasinée dans la matière organique
+COURS COMPLET (fascicule élève) — YouSVT (Youssef Alandalousi)
+EXTRAIT PARTIEL (texte capturé depuis le PDF ; pages et figures non vectorielles omises)
+PDF COMPLET : https://yousvt.com/DATA/DATA-fr/2eme-bac-svt/Cours/eleves/Cours-Unit1-1.pdf
+Version professeur (détaillée) : https://yousvt.com/DATA/DATA-fr/2eme-bac-svt/Cours/professeur/Cours-Unit1-1.pdf
+================================================================================
+
+PREMIÈRE PARTIE : Consommation de la matière organique et flux d'énergie
+
+I. Mise en évidence des phénomènes permettant la libération de l'énergie chimique
+    emmagasinée dans la matière organique
+
+  1) Données expérimentales
+     - Expérience 1 (Document 1) : suspension de levure (10 g/L) aérée, suivie par EXAO
+       (sondes O2 et CO2). Injection de glucose (5 %) à t1.
+       Résultats : après t1, O2 diminue (240 → 80 µmol/L) et CO2 augmente (80 → 245 µmol/L).
+       => en milieu aérobie, consommation de O2 et production de CO2 couplées à la
+          dégradation du glucose (respiration cellulaire).
+     - Expérience 2 (Document 2) : levures en milieu anaérobie : disparition du glucose,
+       apparition de CO2 (eau de chaux) et d'éthanol (CH3-CH2-OH).
+       Tableau : O2 diminue (5,5 → 0,7 mg/L), éthanol (2,5 → 16,0 mg/L), CO2 (2,0 → 16,0 mg/L).
+       => en absence de O2, le glucose est dégradé en éthanol + CO2 (fermentation alcoolique).
+       Analogie : fermentation lactique du lait (lactose C12H22O11 → acide lactique CH3-CHOH-COOH).
+     Bilan : deux voies de dégradation des métabolites (respiration aérobie / fermentation anaérobie).
+
+  2) La glycolyse, étape commune entre respiration et fermentation
+     a) Localisation : expérience sur levures aérobie vs anaérobie (Document 3) :
+        - aérobie : poids de levures 1,970 g, glucose consommé 150 g, test alcoolique négatif
+        - anaérobie : poids 0,255 g, glucose consommé 45 g, test alcoolique positif
+        => l'aérobie est plus efficace que l'anaérobie ; électronographies : plus de
+           mitochondries en aérobie (relation métabolisme/mitochondries).
+     b) Structure moléculaire du glucose et de l'ATP (Document 4) :
+        - glucose C6H12O6 : monosaccharide, isomères fructose/mannose, constituant du
+          saccharose et du glycogène.
+        - ATP : adénine + ribose + 3 groupements phosphates ; hydrolyse ATP → ADP + Pi
+          libère l'énergie du métabolisme (réactions exo/endoénergétiques).
+     c) Étapes de la glycolyse (Document 5) : glucose marqué → hyaloplasme :
+        stocké (glycogène/amidon) ou dégradé en acide pyruvique (glycolyse).
+        9 enzymes : hexokinase, phosphoglucoisomérase, phosphofructokinase, aldolase,
+        glycéraldéhyde-phosphate déshydrogénase, phosphoglycérate kinase,
+        phosphoglycérate mutase, énolase, pyruvate kinase.
+        Étape 1 : formation du fructose diphosphate.
+        Étape 2 : formation de l'acide glycérique diphosphate.
+        Étape 3 : formation de l'acide pyruvique et synthèse de l'ATP.
+        Bilan : production d'ATP en absence de dioxygène (2 pyruvates + ATP).
+
+II. La respiration cellulaire et le rôle des mitochondries
+  1) Rôle des mitochondries
+     a) Mise en évidence (Document 6) : broyage de cellules de foie (pH 7,4, 4 °C),
+        centrifugation → fraction mitochondriale. Suspension de mitochondries dans bioréacteur EXAO :
+        ajout de glucose à t1 : pas de variation marquée de O2 ; ajout d'acide pyruvique à t2 :
+        consommation de O2 (110 → 40 µmol/L).
+        => les mitochondries consomment O2 et dégradent l'acide pyruvique (pas le glucose).
+     b) Ultrastructure et composition (Document 7) :
+        - membrane externe : 38 % lipides / 62 % protéines (composition ≈ membrane cytoplasmique)
+        - membrane interne : 20 % lipides / 80 % protéines ; nombreuses enzymes dont ATP synthase
+        - matrice : absence de glucose, présence d'acide pyruvique et d'ATP ;
+          déshydrogénases et carboxylases.
+  2) Étapes de la respiration cellulaire au niveau des mitochondries
+     a) Oxydation du pyruvate dans la matrice (Document 8) :
+        - décarboxylation du pyruvate (C3) + NAD+ → NADH,H+ ; fixation sur une molécule à 4C
+          (oxyacétate) → cycle de Krebs : décarboxylations successives (libération de CO2),
+          réduction de NAD+ et FAD en NADH,H+ et FADH2, synthèse de GTP.
+        - Équation bilan du cycle de Krebs (2 pyruvates).
+        - Bilan chimique de l'oxydation totale du pyruvate : CO2 + transporteurs réduits.
+     b) Réoxydation des transporteurs réduits
+        - Notion de chaîne respiratoire (Document 9) : potentiels d'oxydoréduction croissants :
+          RH2/R : -320 mV ; CI ≈ 100 mV ; CII/Q ≈ 150 mV ; Q/CIII ≈ 200 mV ; CIII/C ≈ 450 mV ;
+          C/CIV ≈ 600 mV ; CIV/½O2+2H+ : 820 mV ; ½O2+2H+/H2O : 820 mV.
+          => transfert d'électrons « en cascade » vers le récepteur final O2 (réduction en H2O).
+        - Rôle du dioxygène (Document 10) : pulse d'O2 dans milieu confiné enrichi en mitochondries
+          + NADH,H+ : [H+] extracellulaire passe de 10 à 18 (×10^-9 mol/L) après injection d'O2
+          => pompage des protons de la matrice vers l'espace intermembranaire couplé au flux
+             d'électrons jusqu'à O2.
+        - Rôle des sphères pédonculées (Document 11) : vésicules mitochondriales (sonication)
+          orientées vers l'extérieur ; synthèse d'ATP seulement si gradient de pH (pHi=6, pHe=9)
+          => ATP synthase (sphère pédonculée) utilise le gradient de protons (chimi-osmose).
+     c) Chaîne respiratoire et phosphorylation oxydative (Document 12) :
+        - localisation : membrane interne mitochondriale.
+        - Complexes : I (NADH-CoQ oxydoréductase, 4 H+), II (succinate-CoQ, 0 H+),
+          III (CoQ-cytochrome c, 4 H+), IV (cytochrome c oxydase, 2 H+) ; coenzyme Q (ubiquinone).
+        - Bilan global : NADH,H+ + FADH2 + O2 → H2O ; ADP + Pi → ATP.
+
+  BILAN GÉNÉRAL : la respiration cellulaire est une dégradation aérobie complète du glucose
+  (hyaloplasme : glycolyse ; mitochondries : cycle de Krebs + chaîne respiratoire +
+  phosphorylation oxydative), couplée à la synthèse d'ATP, le dioxygène étant l'accepteur
+  final des électrons. La fermentation (anaérobie) ne consomme pas O2 et rend peu d'énergie.
+================================================================================

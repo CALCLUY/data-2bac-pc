@@ -1,0 +1,38 @@
+================================================================================
+EXAMEN NATIONAL DU BACCALAURÉAT — 2026, session ordinaire
+Mathématiques — Filières PC / SVT (BIOF), coefficient 7
+PDF COMPLET (corrigé détaillé) : https://drive.google.com/uc?export=download&id=1WOySteubzT1vS6rnZcEH_m5KxokL71gI
+Source : Bestcours.ma — « Correction Détaillée, pas à pas »
+EXTRAIT PARTIEL (texte capturé ; Ex.1 complet, Ex.2 partiel)
+================================================================================
+
+EXERCICE 1 : Géométrie dans l'espace (3 points)
+Points A(-1,0,1), B(-3,2,2), C(-1,1,2), D(2,7,-4) ; (Δ) passe par D, vecteur directeur u(2,1,2).
+
+1. a. Montrer que AB ∧ AC = i + 2j - 2k
+   AB(-2,2,1) ; AC(0,1,1) ;
+   AB ∧ AC = | i  -2  0 |
+             | j   2  1 | = (1, 2, -2) ✓
+             | k   1  1 |
+   b. Déduire une équation cartésienne du plan (ABC) : n(1,2,-2) → x + 2y - 2z + d = 0 ;
+      avec A : -1 + 0 - 2 + d = 0 → d = 3.  (ABC) : x + 2y - 2z + 3 = 0
+   c. u · n = 2·1 + 1·2 + 2·(-2) = 0 → (Δ) est parallèle au plan (ABC).
+ 2. a. Ω(0,3,0) ; ΩD(2,4,-4) ; ΩD · u = 4 + 4 - 8 = 0 → D point de tangence ;
+      R = ΩD = √(4+16+16) = 6.
+   b. d(Ω,(ABC)) = |0+6-0+3|/√9 = 9/3 = 3 < R = 6 → le plan coupe la sphère selon un cercle (Γ)
+      de rayon r = √(36-9) = 3√3.
+   c. CΩ(1,2,-2) = AB ∧ AC → (CΩ) ⊥ (ABC) ; C ∈ (ABC) → C est le centre de (Γ).
+
+EXERCICE 2 : Nombres complexes (3,5 points)
+a = √3/2 + i/2 ; b = e^(iπ/12) ; c = 1.
+1. a. |a| = 1 → a = cos(π/6) + i sin(π/6) = [1, π/6].
+   b. b² = e^(iπ/6) = a ✓ ; b·b̄ = |b|² = 1 ✓.
+   c. Montrer que a - 1 = (2-√3)·i·(a+1) :
+      (2-√3)i[(√3+2)/2 + i/2] = (2-√3)[-1/2 + i(2-√3)(2+√3)/2] = (√3-2)/2 + i/2 = a - 1 ✓
+      (identité (2-√3)(2+√3) = 1).
+ 2. T : translation de vecteur OC (c = 1) → z' = z + 1 ; T(A) = D → d = a + 1.
+   d = b² + b·b̄ = b(b + b̄) ✓ ; b + b̄ = 2cos(π/12) = k > 0 → d = k·b → O,B,D alignés.
+   b. arg(d) ≡ arg(k) + arg(b) ≡ 0 + π/12 [2π].
+ 3. a. (a-c)/d = (a-1)/(a+1) = (2-√3)i → perpendicularité (partie capturée jusqu'ici).
+[La suite du corrigé — probabilités, étude de fonctions, suites — est dans le PDF complet.]
+================================================================================
