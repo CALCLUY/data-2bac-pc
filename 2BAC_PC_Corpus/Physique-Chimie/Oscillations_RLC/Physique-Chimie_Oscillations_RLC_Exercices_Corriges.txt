@@ -1,0 +1,29 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Oscillations_RLC
+Type : Exercices_Corriges
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/121146
+Date de collecte : 2026-09-15
+================================================================================
+
+# EXERCICES — OSCILLATIONS LIBRES RLC SÉRIE
+Source : https://www.alloschool.com/element/121146 et séries AlloSchool associées
+
+## Exercices types
+1. Calculer τ, tracer u(t) ou i(t), déterminer à 63% / 37%
+2. Énergie stockée, puissance moyenne
+3. Pour RLC : T₀, régime selon R, énergie totale
+4. Pour AM : calculer m, fréquences du spectre, choisir RC démodulation
+5. Lectures d'oscillogrammes (échelles verticale/horizontale)
+
+### Méthodes
+- Écrire l'équation diff du circuit
+- Identifier conditions initiales (q(0), i(0))
+- Exploiter les graphiques expérimentaux
+
+================================================================================

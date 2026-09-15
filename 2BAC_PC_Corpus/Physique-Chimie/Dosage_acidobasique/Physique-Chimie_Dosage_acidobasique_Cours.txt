@@ -1,0 +1,37 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Dosage_acidobasique
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/121975
+Date de collecte : 2026-09-15
+================================================================================
+
+# DOSAGE ACIDOBASIQUE — COURS
+Source : https://www.alloschool.com/element/121975
+AlloSchool 2BAC PC — Chimie
+
+
+## I. Dosage
+Réaction support totale et rapide
+Équivalence : quantités stœchiométriques n_a = n_b (selon coefficients)
+c_a V_a = c_b V_E  (monoacide/monobase 1:1)
+
+## II. Suivi
+pH-métrie : courbe pH = f(V) ; V_E au saut / dérivée / méthode des tangentes
+Indicateurs colorés : zone de teinte encadrant le pH à l'équivalence
+Conductimétrie possible
+
+## III. Cas
+Fort/fort : pH_E = 7
+Faible/fort : pH_E > 7 (acide faible + base forte)
+Fort/faible : pH_E < 7
+
+## IV. Demi-équivalence
+Pour AH + HO⁻ : à V_E/2, pH = pKa
+
+================================================================================

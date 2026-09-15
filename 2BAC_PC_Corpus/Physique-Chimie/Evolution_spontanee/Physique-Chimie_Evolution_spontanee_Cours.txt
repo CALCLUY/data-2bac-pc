@@ -1,0 +1,30 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Evolution_spontanee
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/124369
+Date de collecte : 2026-09-15
+================================================================================
+
+# ÉVOLUTION SPONTANÉE D'UN SYSTÈME CHIMIQUE — COURS
+Source : https://www.alloschool.com/element/124369
+AlloSchool 2BAC PC — Chimie
+
+
+## I. Critère
+Sens spontané : celui qui rapproche Q_r de K
+Δ_r G = RT ln(Q_r/K) ; spontané si Δ_r G < 0
+
+## II. Applications
+Prévoir le sens d'une réaction acide-base, précipitation, oxydoréduction
+Q_r vs K_s (solubilité) : précipitation si Q > K_s
+
+## III. Équilibre
+À l'équilibre Δ_r G = 0 ; Q_r = K
+
+================================================================================

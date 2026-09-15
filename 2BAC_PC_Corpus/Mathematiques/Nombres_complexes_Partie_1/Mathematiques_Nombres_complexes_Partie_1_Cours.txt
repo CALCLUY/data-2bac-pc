@@ -1,0 +1,72 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Mathematiques
+Chapitre : Nombres_complexes_Partie_1
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/mathematiques-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/122870
+Date de collecte : 2026-09-15
+================================================================================
+
+# NOMBRES COMPLEXES — PARTIE 1 — COURS
+Source : https://www.alloschool.com/element/122870/pdf
+Séance 9 — Prof. CHEDDADI Haitam
+
+## I. Introduction
+Un complexe z = a + ib avec (a,b)∈ℝ² et i² = −1.
+ℂ ensemble des complexes, muni de + et ×.
+a+bi = a'+b'i ⇔ a=a' et b=b'
+Re(z)=a (partie réelle), Im(z)=b (partie imaginaire)
+Forme algébrique : z = a + ib
+Conjugué : z̄ = a − ib
+
+### Opérations
+z+z' = (x+x')+(y+y')i
+z·z' = (xx'−yy')+(xy'+yx')i
+1/z = z̄/|z|² = a/(a²+b²) − i b/(a²+b²) (z≠0)
+z/z' = (z z̄')/(z' z̄')
+
+## II. Représentation géométrique
+Plan complexe muni de (O,u⃗,v⃗)
+z = x+yi ↔ point M(x,y) image de z ; z affixe de M
+Affixe de AB⃗ = z_B − z_A
+Milieu I de [AB] : z_I = (z_A+z_B)/2
+Alignement A,B,C : z_C−z_A = k(z_B−z_A), k∈ℝ
+
+## III. Conjugué — propriétés
+z+z̄ = 2 Re(z) ; z−z̄ = 2i Im(z)
+z·z̄ = x²+y²
+z̄̄ = z
+z+z' ̄ = z̄+z'̄ ; z z' ̄ = z̄ z'̄
+z∈ℝ ⇔ z̄=z ; z∈iℝ ⇔ z̄=−z
+
+## IV. Module
+|z| = √(z z̄) = √(x²+y²) ≥ 0
+|z| = 0 ⇔ z = 0
+|z̄| = |−z| = |z|
+|z+z'| ≤ |z|+|z'| (inégalité triangulaire)
+|z z'| = |z|·|z'| ; |z/z'| = |z|/|z'|
+|z^p| = |z|^p
+AB = |z_B − z_A|
+
+## V. Argument
+arg(z) = mesure de l'angle (u⃗, OM⃗) [2π], z≠0
+arg(zz') ≡ arg z + arg z' [2π]
+arg(1/z') ≡ −arg z' [2π]
+arg(z/z') ≡ arg z − arg z' [2π]
+arg(z^p) ≡ p arg z [2π]
+k>0 ⇒ arg(kz)≡arg z ; k<0 ⇒ arg(kz)≡π+arg z [2π]
+
+## VI. Forme trigonométrique
+z = |z|(cos α + i sin α) = [r, α] avec r=|z|, α=arg z
+z z' = rr'[cos(α+β)+i sin(α+β)]
+z/z' = (r/r')[cos(α−β)+i sin(α−β)]
+z^n = r^n [cos(nα)+i sin(nα)] (Moivre)
+
+## VII. Formule de Moivre
+(cos θ + i sin θ)^n = cos(nθ) + i sin(nθ)
+
+================================================================================

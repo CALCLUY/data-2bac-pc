@@ -1,0 +1,58 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Mathematiques
+Chapitre : Calcul_integral
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/mathematiques-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/124404
+  - https://www.alloschool.com/course/mathematiques-2eme-bac-sciences-physiques-biof
+Date de collecte : 2026-09-15
+================================================================================
+
+# CALCUL INTÉGRAL — COURS
+Source : https://www.alloschool.com/element/124404
+Séance 12 — AlloSchool Premium — Programme 2BAC PC
+
+## I. Intégrale d'une fonction continue
+f continue sur [a,b], F primitive de f :
+∫_a^b f(x) dx = F(b) − F(a)
+
+### Propriétés
+∫_a^a f = 0
+∫_a^b f = −∫_b^a f
+Linéarité : ∫(αf+βg)=α∫f+β∫g
+Relation de Chasles : ∫_a^c = ∫_a^b + ∫_b^c
+Positivité : f≥0 sur [a,b] ⇒ ∫_a^b f ≥ 0
+Croissance : f≤g ⇒ ∫f ≤ ∫g
+Inégalité de la moyenne : |∫_a^b f| ≤ ∫_a^b |f| ≤ (b−a) M
+
+## II. Valeur moyenne
+μ = (1/(b−a)) ∫_a^b f(x) dx
+
+## III. Intégration par parties
+∫ u' v = u v − ∫ u v'
+Choisir u se simplifiant par dérivation (ln, arctan, polynôme)
+
+## IV. Changement de variable
+x = φ(t), dx = φ'(t) dt
+∫_a^b f(x)dx = ∫_{t1}^{t2} f(φ(t)) φ'(t) dt
+
+## V. Aire et volumes
+Aire entre (C_f) et Ox sur [a,b] : ∫_a^b |f|
+Aire entre (C_f) et (C_g) : ∫_a^b |f−g|
+Volume de révolution autour de Ox : V = π ∫_a^b [f(x)]² dx
+
+## VI. Primitives et intégrales liées à ln et exp
+∫ dx/x = ln|x|
+∫ e^{ax} dx = (1/a)e^{ax}
+∫ u'/u = ln|u|
+∫ u' e^u = e^u
+
+## VII. Fonction définie par une intégrale
+G(x) = ∫_a^x f(t) dt ⇒ G'=f (si f continue)
+G(x) = ∫_{u(x)}^{v(x)} f ⇒ G' = f(v)v' − f(u)u'
+
+================================================================================

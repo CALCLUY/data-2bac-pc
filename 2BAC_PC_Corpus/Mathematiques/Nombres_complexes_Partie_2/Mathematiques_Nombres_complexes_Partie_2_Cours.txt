@@ -1,0 +1,66 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Mathematiques
+Chapitre : Nombres_complexes_Partie_2
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/mathematiques-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/124136
+Date de collecte : 2026-09-15
+================================================================================
+
+# NOMBRES COMPLEXES — PARTIE 2 — COURS
+Source : https://www.alloschool.com/element/124136/pdf
+Séance 11 — Prof. CHEDDADI Haitam
+
+## I. Écriture exponentielle
+z = r e^{iα} = r(cos α + i sin α)
+(e^{iα})^n = e^{i n α}
+e^{iα}/e^{iβ} = e^{i(α−β)}
+e^{iα} e^{iβ} = e^{i(α+β)}
+
+### Formules d'Euler
+cos α = (e^{iα}+e^{−iα})/2
+sin α = (e^{iα}−e^{−iα})/(2i)
+Application : linéarisation de cos³x, sin²x cos x, etc.
+
+## II. Équations du 2nd degré dans ℂ
+
+### z² = a (a∈ℝ)
+- a=0 : S={0}
+- a>0 : S={√a, −√a}
+- a<0 : S={i√(−a), −i√(−a)}
+
+### az²+bz+c=0 (a∈ℝ*, b,c∈ℝ)
+Δ = b²−4ac
+- Δ>0 : deux racines réelles (−b±√Δ)/(2a)
+- Δ=0 : racine double −b/(2a)
+- Δ<0 : z = (−b ± i√(−Δ))/(2a)  (conjuguées)
+
+## III. Transformations du plan
+
+### Translation de vecteur d'affixe b
+z' = z + b
+
+### Homothétie h(Ω,k), k∈ℝ\{0,1}
+z' − ω = k(z − ω) ⇔ z' = kz + b avec b=ω(1−k)
+Centre : ω = b/(1−k)
+
+### Rotation r(Ω,θ)
+z' − ω = e^{iθ}(z − ω) ⇔ z' = e^{iθ} z + b
+|a|=1, a≠1 pour z'=az+b
+θ = arg(a) = arg((z'−ω)/(z−ω))
+
+## IV. Géométrie et complexes
+
+| Relation | Signification |
+|----------|---------------|
+| \|z−z_A\|=\|z−z_B\| | médiatrice de [AB] |
+| \|z−z_A\|=k (k>0) | cercle centre A rayon k |
+| (z_C−z_A)/(z_B−z_A) = re^{±iπ/2} | angle droit en A ; si r=1 isocèle rectangle |
+| \|(z_C−z_A)/(z_B−z_A)\|=1 | triangle isocèle en A |
+| (z_C−z_A)/(z_B−z_A)=e^{±iπ/3} | équilatéral |
+
+================================================================================

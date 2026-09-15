@@ -1,0 +1,35 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Propagation_ondes_lumineuses
+Type : Exercices_Corriges
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/119793
+Date de collecte : 2026-09-15
+================================================================================
+
+# EXERCICES — ONDES LUMINEUSES
+Source : https://www.alloschool.com/element/119793
+
+## Exercice type 1 — Diffraction
+Laser λ=633 nm, a=0,1 mm, D=2 m
+θ=λ/a = 6,33×10⁻³ rad
+L = 2 θ D ≈ 2,53 cm
+
+## Exercice type 2 — Indice
+v=2×10⁸ m/s dans le verre → n=c/v=1,5
+λ₀=600 nm → λ_milieu=λ₀/n=400 nm ; f=c/λ₀ inchangée
+
+## Exercice type 3 — Prisme
+A=60°, n=1,5, i=45°
+Calculer r, r', i', D
+Vérifier A=r+r'
+
+## Exercice type 4 — Domaines
+Classer radiations 350 nm, 550 nm, 900 nm (UV, visible, IR)
+Calculer fréquences ν=c/λ
+
+================================================================================

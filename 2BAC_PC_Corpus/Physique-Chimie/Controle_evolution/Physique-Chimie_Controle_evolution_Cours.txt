@@ -1,0 +1,35 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Controle_evolution
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/128313
+Date de collecte : 2026-09-15
+================================================================================
+
+# CONTRÔLE DE L'ÉVOLUTION D'UN SYSTÈME — COURS
+Source : https://www.alloschool.com/element/128313
+AlloSchool 2BAC PC — Chimie
+
+
+## I. Objectifs
+Accélérer / ralentir ; augmenter rendement ; sélectivité
+
+## II. Leviers
+- Catalyseur / inhibiteur (cinétique, pas K)
+- T (cinétique + K si ΔH≠0)
+- Concentrations, pressions (K fixe, composition eq change)
+- Extraction produits, excès réactifs
+
+## III. Exemples industriels
+Procédé Haber NH₃ ; estérification ; cracking catalytique
+Choix T, P, catalyseur, recyclage
+
+## IV. Synthèse du programme chimie 2BAC
+Relier cinétique, équilibre, acide-base, oxydoréduction, organique
+
+================================================================================

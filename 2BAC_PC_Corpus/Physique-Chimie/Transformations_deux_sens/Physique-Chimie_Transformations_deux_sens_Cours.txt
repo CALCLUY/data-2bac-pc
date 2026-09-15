@@ -1,0 +1,33 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Transformations_deux_sens
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/119808
+Date de collecte : 2026-09-15
+================================================================================
+
+# TRANSFORMATIONS DANS LES DEUX SENS — COURS
+Source : https://www.alloschool.com/element/119808
+AlloSchool 2BAC PC — Chimie
+
+
+## I. Réaction non totale
+Réactifs et produits coexistent à l'état final
+Équilibre chimique dynamique
+
+## II. Quotient de réaction Q_r
+Pour aA+bB ⇌ cC+dD
+Q_r = ([C]^c [D]^d) / ([A]^a [B]^b)  (espèces en solution, activités ≈ concentrations standard 1 mol/L)
+Solides et solvants : activité = 1
+
+## III. Évolution
+Si Q_r < K → sens direct
+Si Q_r > K → sens inverse
+Si Q_r = K → équilibre
+
+================================================================================

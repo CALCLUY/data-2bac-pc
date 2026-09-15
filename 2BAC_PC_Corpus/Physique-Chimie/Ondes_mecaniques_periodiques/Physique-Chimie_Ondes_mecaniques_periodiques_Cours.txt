@@ -1,0 +1,51 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Ondes_mecaniques_periodiques
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/119790
+  - https://www.alloschool.com/element/117797
+Date de collecte : 2026-09-15
+================================================================================
+
+# ONDES MÉCANIQUES PROGRESSIVES PÉRIODIQUES — COURS
+Source : https://www.alloschool.com/element/119790/pdf
+Séance 2 — Prof. El GOUFIFA Jihad
+
+## I. Définition
+Onde périodique : se répète identiquement à elle-même pendant des intervalles
+égaux T (période).
+Sinusoïdale : x(t) = A cos(2π t/T + φ)
+- A amplitude (m)
+- T période (s) ; f=1/T fréquence (Hz)
+- φ phase à l'origine (rad)
+
+## II. Exemples
+### Corde
+Longueur d'onde λ = v T = v/f
+Distance minimale entre deux points en phase.
+
+### Surface de l'eau
+Ondes circulaires / rectilignes (cuve à ondes)
+
+### Sonores et ultrasonores
+Son : longitudinales ; v augmente avec densité du milieu
+Ultrasons : f > 20 kHz ; réflexion partielle sur obstacles
+
+## III. Vitesse de propagation — méthodes
+### Points en phase / opposition
+MM' = k λ  → en phase (k∈ℕ*)
+MM' = (2k+1) λ/2 → opposition de phase
+
+### Deux microphones
+Déplacer jusqu'à retrouver le phase → mesurer λ ; v = λ f
+
+## IV. Diffraction
+Modification de la forme d'une onde passant par une ouverture a ≲ λ
+Caractéristique des ondes ; a≈λ pour être marquée.
+
+================================================================================

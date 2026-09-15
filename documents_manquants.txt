@@ -1,0 +1,47 @@
+documents_manquants.txt — Suivi de collecte 2BAC PC
+================================================================================
+Date : 2026-09-15
+Source prioritaire utilisée : alloschool.com
+Sources non accessibles depuis l'environnement de collecte :
+================================================================================
+
+1. taalim.ma
+   Raison : résolution DNS impossible (host introuvable) depuis le sandbox.
+   
+2. bacmaroc.net / www.bacmaroc.net
+   Raison : résolution DNS impossible.
+
+3. men.gov.ma
+   Raison : échec TLS (SSL_ERROR_SYSCALL) — accès direct HTTPS bloqué.
+   (Référence programme uniquement, non bloquant pour le corpus pédagogique.)
+
+4. Accès binaire direct HTTPS alloschool.com
+   Raison : handshake TLS interrompu depuis curl/wget/python/node.
+   Contournement : extraction via outil de lecture web (texte/OCR des pages et PDF).
+
+5. PDF d'examens nationaux scannés (images)
+   Raison : nombreux sujets officiels sont des scans d'images.
+   OCR partiel disponible pour certains (ex. Maths 2021 element/127130 : texte récupéré).
+   Pour les autres années (2022-2025 Maths/PC/SVT), les liens PDF sont catalogués
+   dans les dossiers Examens_Nationaux/ mais le texte intégral OCR n'a pas pu être
+   extrait fiablement pour tous — téléchargement manuel du PDF recommandé.
+   IDs catalogués : voir Mathematiques/Examens_Nationaux/*Catalogue* et
+   Physique-Chimie/Examens_Nationaux/*Catalogue*.
+
+6. Figures et images des cours AlloSchool
+   Raison : schémas (graphiques de fonctions, oscillogrammes, coupes géologiques,
+   mitochondries, etc.) non convertibles en texte. Le texte pédagogique environnant
+   a été conservé ; les figures sont notées comme manquantes dans le corps des cours.
+
+7. Vidéos AlloSchool Premium
+   Raison : contenu vidéo payant / non textuel — hors périmètre .txt.
+
+8. Certains exercices "non corrigés" uniquement
+   Raison : privilégié les versions corrigées quand disponibles ; séries non corrigées
+   omises pour éviter le bruit (doublons).
+
+================================================================================
+Documents créés avec contenu textuel pédagogique complet (cours + exercices) :
+tous les chapitres listés du programme 2BAC PC pour Math, PC, SVT.
+Examens : texte intégral pour Maths 2021 ; catalogues de liens 2020-2025 pour les 3 matières.
+================================================================================

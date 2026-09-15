@@ -1,0 +1,62 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Ondes_mecaniques_progressives
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/119787
+  - https://www.alloschool.com/element/117788
+Date de collecte : 2026-09-15
+================================================================================
+
+# ONDES MÉCANIQUES PROGRESSIVES — COURS
+Source : https://www.alloschool.com/element/119787/pdf
+Séance 1 — Prof. El GOUFIFA Jihad — AlloSchool
+
+## I. Définitions
+### Onde mécanique
+Propagation d'une perturbation dans un milieu matériel sans transport de matière,
+mais avec transport d'énergie.
+
+### Milieu matériel élastique
+Capable de reprendre sa forme initiale après le passage d'une onde.
+
+## II. Types d'ondes
+### Transversale
+Direction de la perturbation ⊥ direction de propagation (corde, surface de l'eau).
+
+### Longitudinale
+Direction de la perturbation // direction de propagation (ressort, son).
+
+## III. Onde mécanique progressive
+Succession entretenue de signaux mécaniques se propageant dans un milieu
+supposé infini, générée par vibration entretenue d'une source.
+
+## IV. Onde sonore
+- Ne se propage pas dans le vide (expérience cloche à vide)
+- Onde longitudinale (diapason + balle)
+- Propagation par compressions/dilatations du milieu
+
+## V. Propriétés
+### Dimension
+1D (ressort), 2D (surface eau), 3D (son)
+
+### Superposition
+Les ondes se superposent (addition des amplitudes) sans se détruire.
+
+## VI. Célérité
+v = d / Δt
+Dépend de l'élasticité et de l'inertie du milieu, de la température (gaz).
+Corde : v = √(F/μ)  (F tension, μ masse linéique)
+Son : v_gaz < v_liquide < v_solide
+Air ~340 m/s ; eau ~1500 ; acier ~5940 m/s
+
+## VII. Retard
+τ_M = SM / v
+y_M(t) = y_S(t − τ)
+Retard entre M et M' : τ = MM'/v
+
+================================================================================

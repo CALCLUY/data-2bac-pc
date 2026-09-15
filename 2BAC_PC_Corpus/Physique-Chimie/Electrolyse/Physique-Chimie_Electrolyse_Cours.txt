@@ -1,0 +1,35 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Electrolyse
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/124930
+Date de collecte : 2026-09-15
+================================================================================
+
+# TRANSFORMATIONS FORCÉES — ÉLECTROLYSE — COURS
+Source : https://www.alloschool.com/element/124930
+AlloSchool 2BAC PC — Chimie
+
+
+## I. Électrolyse
+Transformation forcée par générateur (sens inverse de la pile)
+Anode (+) : oxydation ; Cathode (−) : réduction
+
+## II. Tension
+U > E_pile (surtensions, chutes ohmiques)
+Réactions aux électrodes selon espèces présentes et E°
+
+## III. Faraday
+m = (M / (n F)) · I · t
+Q = I t = n(e⁻) · F ; F ≈ 96500 C/mol
+Rendement faradique
+
+## IV. Applications
+Recharge accumulateurs, protection cathodique, obtention métaux, H₂/O₂
+
+================================================================================

@@ -1,0 +1,26 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Examens_Nationaux
+Type : Examen_National_2024
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/section/4585
+Date de collecte : 2026-09-15
+================================================================================
+
+# Examen National Physique-Chimie SPC 2024
+Source catalogue : https://www.alloschool.com/section/4585
+
+Liens à consulter sur la section Examens Nationaux (SPC) AlloSchool :
+- Examen National Physique-Chimie SPC 2024 Normale - Sujet
+- Examen National Physique-Chimie SPC 2024 Normale - Corrigé
+- Examen National Physique-Chimie SPC 2024 Rattrapage - Sujet
+- Examen National Physique-Chimie SPC 2024 Rattrapage - Corrigé
+
+Les PDF d'examens sont des documents officiels scannés.
+Pour extraction texte complète, ouvrir chaque element /pdf sur alloschool.com.
+
+================================================================================

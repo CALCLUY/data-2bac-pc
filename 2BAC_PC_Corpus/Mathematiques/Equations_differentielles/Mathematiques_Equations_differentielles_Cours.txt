@@ -1,0 +1,54 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Mathematiques
+Chapitre : Equations_differentielles
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/mathematiques-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/124444
+Date de collecte : 2026-09-15
+================================================================================
+
+# ÉQUATIONS DIFFÉRENTIELLES — COURS
+Source : https://www.alloschool.com/element/124444/pdf
+Séance 13 — Prof. CHEDDADI Haitam
+
+## I. Équation y' = ay + b
+
+### Cas général (a≠0)
+Solutions : y(x) = α e^{a x} − b/a , α∈ℝ
+
+### Cas a=0, b=0
+y' = 0 → y = constante
+
+### Cas a=0, b≠0
+y' = b → y = bx + α
+
+### Condition initiale
+Il existe une unique solution vérifiant y(x₀)=y₀
+
+## II. Équation y'' + a y' + b y = 0
+Équation différentielle linéaire d'ordre 2 à coefficients constants sans second membre.
+Équation caractéristique : r² + a r + b = 0
+Discriminant Δ = a² − 4b
+
+### Cas Δ > 0
+Deux racines réelles r₁, r₂
+y(x) = α e^{r₁ x} + β e^{r₂ x}
+
+### Cas Δ = 0
+Racine double r₁
+y(x) = (α x + β) e^{r₁ x}
+
+### Cas Δ < 0
+Racines p ± qi
+y(x) = e^{p x} (α cos(qx) + β sin(qx))
+
+## III. Méthode de résolution
+1. Identifier le type (ordre 1 ou 2)
+2. Pour ordre 1 : formule directe + condition initiale
+3. Pour ordre 2 : caractéristique → Δ → forme générale → conditions y(x₀), y'(x₀)
+
+================================================================================

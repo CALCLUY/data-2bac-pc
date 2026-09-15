@@ -1,0 +1,48 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Noyaux_masse_energie
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/119805
+Date de collecte : 2026-09-15
+================================================================================
+
+# NOYAUX, MASSE ET ÉNERGIE — COURS
+Source : https://www.alloschool.com/element/119805
+Séance 7 — AlloSchool 2BAC PC
+
+## I. Unités
+u.m.a. (u) : 1 u = 1/12 m(¹²C) ≈ 1,66054×10⁻²⁷ kg
+Énergie : eV, MeV ; 1 u ↔ 931,5 MeV/c²
+Relation Einstein : E = m c²
+
+## II. Défaut de masse
+δ = [Z m_p + (A−Z) m_n − m_noyau] > 0 pour noyaux liés
+Énergie de liaison : E_ℓ = δ c²
+Énergie de liaison par nucléon : E_ℓ / A
+Courbe d'Aston : max vers ⁵⁶Fe → stabilité maximale
+
+## III. Réactions nucléaires
+Conservation A, Z, énergie-masse, quantité de mouvement
+Q = (Σ m_init − Σ m_fin) c²
+Q>0 exothermique ; Q<0 endothermique
+
+## IV. Fission
+Noyau lourd → 2 fragments + neutrons + énergie
+Ex. ²³⁵U + n → fragments + k n
+Condition de criticité, chaîne
+
+## V. Fusion
+Noyaux légers → noyau plus lourd + énergie
+Ex. ²H + ³H → ⁴He + n
+Étoiles, projet ITER
+E_ℓ/A plus grande après fusion des légers / fission des lourds
+
+## VI. Bilans énergétiques
+Puissance, énergie libérée par fission/fusion, rendement
+
+================================================================================

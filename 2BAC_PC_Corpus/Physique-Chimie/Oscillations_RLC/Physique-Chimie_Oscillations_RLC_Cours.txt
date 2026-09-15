@@ -1,0 +1,37 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Oscillations_RLC
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/121146
+Date de collecte : 2026-09-15
+================================================================================
+
+# OSCILLATIONS LIBRES RLC SÉRIE — COURS
+Source : https://www.alloschool.com/element/121146
+AlloSchool 2BAC PC
+
+
+## I. Circuit RLC série libre
+Équation : L q'' + R q' + q/C = 0
+Ou L i'' + R i' + i/C = 0
+
+## II. Pseudo-période / régimes
+δ = R/(2L) ; ω₀ = 1/√(LC)
+- R=0 : oscillatoire entretenu T₀=2π√(LC)
+- R petit (δ<ω₀) : pseudo-périodique T≈T₀ ; amortissement e^{−δt}
+- Critique δ=ω₀
+- Apériodique δ>ω₀
+
+## III. Énergie
+E = q²/(2C) + (1/2) L i²
+Échanges E_élec ↔ E_magn ; dissipation Joule si R≠0
+
+## IV. Décrément logarithmique
+δ_log = ln(A_n/A_{n+1}) = (R/2L) T
+
+================================================================================

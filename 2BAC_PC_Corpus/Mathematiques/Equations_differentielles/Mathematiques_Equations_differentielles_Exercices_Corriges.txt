@@ -1,0 +1,49 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Mathematiques
+Chapitre : Equations_differentielles
+Type : Exercices_Corriges
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/mathematiques-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/124444
+Date de collecte : 2026-09-15
+================================================================================
+
+# EXERCICES — ÉQUATIONS DIFFÉRENTIELLES
+Source : https://www.alloschool.com/element/124444
+
+## Exercice 1
+1. 5y'=0 → y'=0 → y=C
+   y'=−8y → y = α e^{−8x}
+2. y'=5y+1 → y = α e^{5x} − 1/5 ; y(0)=2 ⇒ α−1/5=2 ⇒ α=11/5
+   y=(11/5)e^{5x} − 1/5
+3. Autres équations ordre 1
+4. Vérifier y₀=e^{−3x} solution de y'+2y=−e^{−3x}
+   y' = −3e^{−3x} ; y'+2y = −3e^{−3x}+2e^{−3x}=−e^{−3x} OK
+
+## Exercice 2
+(E1): 4y''−4y'+y=0
+Caract : 4r²−4r+1=0 → (2r−1)²=0 → r=1/2
+y=(αx+β)e^{x/2}
+
+(E2): y''−2y'+5y=0
+r²−2r+5=0 → Δ=4−20=−16 → r=1±2i
+y=e^x (α cos 2x + β sin 2x)
+
+y''−3y'+2y=0 → (r−1)(r−2)=0
+y=α e^x + β e^{2x}
+y(0)=−3, y'(0)=−2 → α+β=−3 ; α+2β=−2 → β=1, α=−4
+y=−4e^x + e^{2x}
+
+## Exercice 3
+Systèmes avec conditions initiales (ordre 1 et 2)
+
+## Exercice 4
+1. z²−6z+13=0 → z=3±2i
+2. y''−6y'+13y=0 → y=e^{3x}(α cos 2x + β sin 2x)
+3. y(0)=0, y'(0)=2 → α=0, β=1 → y=e^{3x} sin 2x
+4. Intégrale liée
+
+================================================================================

@@ -1,0 +1,52 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Mathematiques
+Chapitre : Suites_Numeriques
+Type : Exercices_Corriges
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/mathematiques-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/122864
+Date de collecte : 2026-09-15
+================================================================================
+
+# EXERCICES CORRIGÉS — SUITES NUMÉRIQUES
+Source : AlloSchool Séance 6 et séries d'exercices associées
+https://www.alloschool.com/element/122864
+
+## Exercice type 1 — Suite récurrente
+Soit u_0 = 1, u_{n+1} = √(2+u_n)
+1. Montrer par récurrence que ∀n, 0 ≤ u_n ≤ 2
+2. Montrer que (u_n) est croissante
+3. En déduire la convergence et calculer lim u_n = 2
+
+Corrigé :
+1. Init : 0≤1≤2. Hérédité : 0≤u_n≤2 ⇒ 2≤2+u_n≤4 ⇒ √2 ≤ u_{n+1} ≤ 2, donc 0≤u_{n+1}≤2
+2. u_1=√3≥u_0. Si u_{n+1}≥u_n alors u_{n+2}=√(2+u_{n+1})≥√(2+u_n)=u_{n+1}
+3. Croissante majorée par 2 → converge vers ℓ=√(2+ℓ) ⇒ ℓ²=2+ℓ ⇒ ℓ=2 (ℓ≥0)
+
+## Exercice type 2 — Suite géométrique
+u_n = 3·(1/2)^n
+Limite, somme S_n = Σ_{k=0}^n u_k = 3(1−(1/2)^{n+1})/(1−1/2) = 6(1−(1/2)^{n+1})
+lim S_n = 6
+
+## Exercice type 3 — Suites adjacentes
+a_n = Σ_{k=0}^n 1/k! , b_n = a_n + 1/(n·n!)
+Montrer adjacentes, limite commune e.
+
+## Exercice type 4 — Étude de u_{n+1}=f(u_n)
+f(x)=1+1/x, u_0>0
+Points fixes : ℓ=1+1/ℓ ⇒ ℓ²−ℓ−1=0 ⇒ ℓ=(1+√5)/2
+Étudier selon u_0 la convergence.
+
+## Exercice type 5 — Limite avec gendarmes
+Montrer que 0 ≤ n²/2^n ≤ n²/(n(n−1)/2) pour n grand en utilisant binôme, conclure → 0.
+
+## Méthodes
+1. Récurrence pour bornes et monotonie
+2. Passage à la limite dans la relation de récurrence
+3. Écriture explicite si arithmétique/géométrique
+4. Comparaison à une intégrale pour Σ
+
+================================================================================

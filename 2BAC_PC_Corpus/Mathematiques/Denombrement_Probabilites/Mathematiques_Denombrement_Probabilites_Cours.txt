@@ -1,0 +1,87 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Mathematiques
+Chapitre : Denombrement_Probabilites
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/mathematiques-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/125014
+  - https://www.alloschool.com/element/125033
+Date de collecte : 2026-09-15
+================================================================================
+
+# DÉNOMBREMENT ET PROBABILITÉS — COURS
+Sources : https://www.alloschool.com/element/125014 et 125033
+Séances 16 et 17 — Prof. CHEDDADI Haitam
+
+################################################################################
+# DÉNOMBREMENT
+################################################################################
+
+## I. Cardinal
+card(E∪F)=card E + card F − card(E∩F)
+card(Ā)=card E − card A
+
+## II. Principe du produit
+p choix successifs avec n_i possibilités au i-ème → n_1 n_2 … n_p résultats
+
+## III. Arrangements avec répétition
+n^p  (p positions, n options, ordre, répétition OK)
+Ex. codes, tirages avec remise ordonnés
+
+## IV. Arrangements sans répétition
+A_n^p = n! / (n−p)! = n(n−1)…(n−p+1)
+Ordre important, pas de répétition
+Tirages sans remise ordonnés
+
+## V. Permutations
+A_n^n = n!
+Nombre d'ordres de n éléments distincts
+
+## VI. Combinaisons
+C_n^p = A_n^p / p! = n! / (p!(n−p)!)
+Ordre n'importe pas, pas de répétition
+Parties à p éléments d'un n-ensemble
+C_n^p = C_n^{n−p}
+C_n^0=1, C_n^1=n, C_n^n=1
+
+## VII. Binôme de Newton
+(a+b)^n = Σ_{k=0}^n C_n^k a^{n−k} b^k
+
+################################################################################
+# PROBABILITÉS
+################################################################################
+
+## I. Univers, événements
+Ω univers ; A événement ; Ā contraire
+A∪B, A∩B ; incompatibles si A∩B=∅
+
+## II. Probabilité
+P(Ω)=1 ; P(∅)=0 ; 0≤P(A)≤1
+P(A∪B)=P(A)+P(B)−P(A∩B)
+P(Ā)=1−P(A)
+Équiprobabilité : P(A)=card(A)/card(Ω)
+
+## III. Conditionnelle
+P(A|B)=P(A∩B)/P(B) si P(B)>0
+P(A∩B)=P(A|B)P(B)=P(B|A)P(A)
+Indépendance : P(A∩B)=P(A)P(B) ⇔ P(A|B)=P(A)
+
+## IV. Formule des probabilités totales / Bayes
+Partition B_i : P(A)=Σ P(A|B_i)P(B_i)
+P(B_j|A)=P(A|B_j)P(B_j)/P(A)
+
+## V. Variable aléatoire
+Loi de X : P(X=x_i)
+Espérance E(X)=Σ x_i P(X=x_i)
+Variance V(X)=E(X²)−[E(X)]²
+σ(X)=√V(X)
+
+## VI. Lois usuelles
+Bernoulli p : E=p, V=p(1−p)
+Binomiale B(n,p) : P(X=k)=C_n^k p^k (1−p)^{n−k}
+E=np, V=np(1−p)
+
+================================================================================

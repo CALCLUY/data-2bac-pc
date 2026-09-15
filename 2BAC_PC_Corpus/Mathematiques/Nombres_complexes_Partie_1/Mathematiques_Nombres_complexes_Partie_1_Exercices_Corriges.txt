@@ -1,0 +1,42 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Mathematiques
+Chapitre : Nombres_complexes_Partie_1
+Type : Exercices_Corriges
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/mathematiques-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/122870
+Date de collecte : 2026-09-15
+================================================================================
+
+# EXERCICES — NOMBRES COMPLEXES PARTIE 1
+Source : https://www.alloschool.com/element/122870
+
+## Exercice type 1 — Forme algébrique
+Écrire sous forme a+ib :
+(1+2i)(3−i) = 3−i+6i−2i² = 3+5i+2 = 5+5i
+1/(2−i) = (2+i)/5 = 2/5 + i/5
+(1+i)/(1−i) = i
+
+## Exercice type 2 — Module et argument
+z = √3 + i
+|z| = 2 ; arg z = π/6
+Forme trigo : 2(cos π/6 + i sin π/6)
+
+## Exercice type 3 — Géométrie
+A(1+i), B(2−i), C(−1+2i)
+AB = |z_B−z_A| = |1−2i| = √5
+Montrer triangle rectangle : Re[(z_B−z_A)/(z_C−z_A) · ...] ou modules/pythagore
+Médiatrice, cercle : |z−z_A|=|z−z_B| ; |z−z_A|=R
+
+## Exercice type 4 — Puissances
+Calculer (1+i)^n via forme trigo : √2 e^{iπ/4} → (√2)^n e^{inπ/4}
+
+## Exercice type 5
+Résoudre |z−1| = |z+i| (médiatrice)
+Résoudre |z−2i| = 3 (cercle)
+Résoudre arg((z−1)/(z+1)) = π/2 (arc de cercle)
+
+================================================================================

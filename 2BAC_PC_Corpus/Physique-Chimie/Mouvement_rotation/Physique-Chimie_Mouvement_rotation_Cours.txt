@@ -1,0 +1,35 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Mouvement_rotation
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/124716
+Date de collecte : 2026-09-15
+================================================================================
+
+# MOUVEMENT DE ROTATION D'UN SOLIDE AUTOUR D'UN AXE FIXE — COURS
+Sources AlloSchool element/124716
+
+
+## I. Cinématique
+θ(t), ω=dθ/dt, α=dω/dt
+Liaison a = R α (tangentiel), a_n = R ω²
+
+## II. Moment d'une force
+M_Δ(F⃗) = ± F d (bras de levier)
+Théorème du moment cinétique : ΣM_Δ = I_Δ α
+I_Δ moment d'inertie par rapport à l'axe
+
+## III. Énergie
+E_c rot = (1/2) I ω²
+Puissance : P = M · ω
+Théorème énergie cinétique rotation
+
+## IV. Exemples
+Poulie, disque, pendule de torsion (lien oscillations)
+
+================================================================================

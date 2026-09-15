@@ -1,0 +1,57 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Mathematiques
+Chapitre : Fonctions_logarithmiques
+Type : Exercices_Corriges
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/mathematiques-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/122866
+Date de collecte : 2026-09-15
+================================================================================
+
+# EXERCICES — FONCTIONS LOGARITHMIQUES
+Source : https://www.alloschool.com/element/122866 (Exercices 1 à 6)
+
+## Exercice 1
+g(x)=1−1/x²+ln x sur ]0,+∞[
+1. g'(x)=2/x³+1/x > 0 → g croissante
+2. g(1)=0 → g≤0 sur ]0,1], g≥0 sur [1,+∞[
+f(x)=(1+ln x)² + 1/x²
+3. lim_{x→0+} f = +∞ (asymptote x=0)
+4-6. lim_{x→+∞} f = +∞ ; lim f(x)/x = 0 → B.P. direction Ox
+7. f'(x)=2g(x)/x → f décroissante sur ]0,1], croissante sur [1,+∞[
+8. f(x)≥2 ; minimum en 1 : f(1)=2
+9. Tracé
+
+## Exercice 2
+g(x)=2/x −1 +2 ln x ; tableau fourni
+f associée : étude complète variations, asymptotes, tracé
+
+## Exercice 3
+g(x)=x(x−1)+ln x ; f(x)=(x−1)²+ln²x
+Étude, réciproque de la restriction à ]0,1]
+
+## Exercice 4
+g(x)=x²+x−2+2 ln x ; g(1)=0
+f(x)=x+(1−2/x)ln x
+Asymptote x=0 ; B.P. ; f'=g/x² ; variations ; position vs y=x
+
+## Exercice 5
+f(x)=x√(ln x) sur [1,+∞[
+Continuité, dérivabilité à droite en 1, variations, intersection avec y=x
+Suite u₀=0, u_{n+1}=g(u_n) avec g réciproque : convergence
+
+## Exercice 6
+g(x)=2x/(x+1)−ln(1+x) sur ]−1,+∞[
+f(x)=ln(1+x)/√x si x>0, f(0)=0
+Continuité, dérivabilité à droite en 0, f'=g/(2x√x), variations
+
+### Techniques clés
+- Étudier une fonction auxiliaire g pour le signe de f'
+- Croissances comparées ln/x, x ln x
+- Rationaliser les formes indéterminées
+- Condition u(x)>0 pour D_f de ln∘u
+
+================================================================================

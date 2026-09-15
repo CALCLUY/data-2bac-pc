@@ -1,0 +1,50 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Examens_Nationaux
+Type : Examen_National_2022
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/136621
+  - https://www.alloschool.com/element/136832
+  - https://www.alloschool.com/element/136622
+Date de collecte : 2026-09-15
+================================================================================
+
+# Examen National Physique-Chimie SPC 2022
+Sources : https://www.alloschool.com/element/136621, https://www.alloschool.com/element/136832, https://www.alloschool.com/element/136622
+Section complète : https://www.alloschool.com/section/4585
+
+## Contenu typique d'un examen national PC SPC
+### Physique
+- Ondes (mécaniques / lumineuses)
+- Nucléaire (décroissance, masse-énergie)
+- Électricité (RC, RL, RLC, AM)
+- Mécanique (Newton, projectiles, oscillations)
+
+### Chimie
+- Cinétique
+- Équilibres
+- Acide-base / dosages
+- Piles / électrolyse
+- Estérification
+
+## Liens PDF
+- https://www.alloschool.com/element/136621/pdf
+- https://www.alloschool.com/element/136832/pdf
+- https://www.alloschool.com/element/136622/pdf
+
+## IDs recensés (section Examens Nationaux SPC AlloSchool)
+2021 Normale Sujet: 127287 / Corrigé: 136826
+2021 Rattrapage: 127290 / 136829
+2022 Normale: 136621 / 136832
+2022 Rattrapage: 136624 / 136835
+2023 Normale: 142476 / 142479
+2023 Rattrapage: 142484 / 142487
+2020 Normale: 109742 / 109745
+
+Télécharger les PDF pour le texte officiel complet (souvent scanné).
+
+================================================================================

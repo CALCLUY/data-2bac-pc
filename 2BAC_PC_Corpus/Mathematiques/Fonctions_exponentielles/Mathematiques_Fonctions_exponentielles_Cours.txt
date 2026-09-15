@@ -1,0 +1,62 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Mathematiques
+Chapitre : Fonctions_exponentielles
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/mathematiques-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/123685
+Date de collecte : 2026-09-15
+================================================================================
+
+# FONCTIONS EXPONENTIELLES — COURS
+Source : https://www.alloschool.com/element/123685/pdf
+Séance 10 — Prof. CHEDDADI Haitam
+
+## I. Exponentielle népérienne
+ln : ]0,+∞[→ℝ continue strictement croissante → admet une réciproque
+exp = ln⁻¹ : ℝ → ]0,+∞[
+Notation : exp(x) = e^x
+Courbes de ln et exp symétriques par rapport à y=x
+
+### Propriétés
+e^x = y ⇔ x = ln y (y>0)
+∀x>0 : e^{ln x} = x
+∀x∈ℝ : ln(e^x) = x
+∀x∈ℝ : e^x > 0
+a=b ⇔ e^a = e^b
+
+## II. Propriétés algébriques
+e^{a+b} = e^a e^b
+e^{−b} = 1/e^b
+e^{a−b} = e^a/e^b
+(e^x)^r = e^{r x}
+√(e^x) = e^{x/2}
+
+## III. Limites
+lim_{x→−∞} e^x = 0+
+lim_{x→+∞} e^x = +∞
+lim_{x→−∞} x e^x = 0
+lim_{x→−∞} x^n e^x = 0
+lim_{x→+∞} e^x / x = +∞
+lim_{x→+∞} e^x / x^n = +∞
+lim_{x→0} (e^x − 1)/x = 1
+
+## IV. Dérivées
+(e^x)' = e^x
+(e^{u(x)})' = u'(x) e^{u(x)}
+
+## V. Étude de e^x
+Strictement croissante sur ℝ ; f'>0 ; lim −∞ = 0+ (asymptote y=0) ; lim +∞ = +∞
+
+## VI. Exponentielle de base a
+a ∈ ]0,1[∪]1,+∞[
+a^x = e^{x ln a}
+(a^x)' = ln a · a^x
+Si a>1 : strictement croissante
+Si 0<a<1 : strictement décroissante
+a^x a^y = a^{x+y} ; (a^x)^y = a^{xy} ; a^x/a^y = a^{x−y}
+
+================================================================================

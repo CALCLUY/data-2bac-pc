@@ -1,0 +1,96 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : SVT
+Chapitre : Expression_materiel_genetique
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/sciences-de-la-vie-et-de-la-terre-svt-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/120796
+  - https://www.alloschool.com/element/120800
+  - https://www.alloschool.com/element/120907
+  - https://www.alloschool.com/element/120909
+Date de collecte : 2026-09-15
+================================================================================
+
+# NATURE ET MÉCANISME DE L'EXPRESSION DU MATÉRIEL GÉNÉTIQUE
+# + TRANSFERT PAR REPRODUCTION SEXUÉE
+Sources : https://www.alloschool.com/element/120796 à 120913
+AlloSchool Premium SVT 2Bac SPC
+
+################################################################################
+# A. NOTION D'INFORMATION GÉNÉTIQUE
+################################################################################
+
+## I. ADN support de l'information
+Chromosomes, chromatine, gènes
+Expériences historiques (Griffith, Avery, Hershey-Chase) — si au programme
+Structure double hélice (Watson-Crick) : A-T, G-C
+Réplication semi-conservative
+
+## II. Gène et allèles
+Locus ; allèles dominants/récessifs
+Génotype / phénotype
+Mutations : source de nouveaux allèles
+
+################################################################################
+# B. EXPRESSION DE L'INFORMATION GÉNÉTIQUE
+################################################################################
+
+## I. Dogme central
+ADN → (transcription) ARN → (traduction) Protéine → Phénotype
+
+## II. Transcription
+Brin matrice ; ARN polymérase ; ARNm
+Codons (triplets)
+
+## III. Code génétique
+Universal (quasi), redondant, non chevauchant
+Codon d'initiation AUG ; stop UAA, UAG, UGA
+
+## IV. Traduction
+Ribosome ; ARNt ; acides aminés
+Initiation, élongation, terminaison
+De la séquence nucléotidique à la séquence peptidique
+
+## V. Relation gène-protéine-phénotype
+Enzymes, maladies moléculaires (ex. drépanocytose)
+
+################################################################################
+# C. TRANSMISSION PAR REPRODUCTION SEXUÉE
+################################################################################
+
+## I. Méiose
+Réductionnelle + équationnelle
+Crossing-over (brassage intra-chromosomique)
+Séparation indépendante (brassage inter-chromosomique)
+Gamètes haploïdes n
+
+## II. Fécondation
+Restaure 2n ; aleatoire → diversité
+
+## III. Caryotypes
+Mitose vs méiose ; anomalies (non-disjonction)
+
+################################################################################
+# D. LOIS STATISTIQUES DE TRANSMISSION
+################################################################################
+
+## I. Mendel
+Monohybridisme : 3:1 en F2
+Dihybridisme : 9:3:3:1 si indépendance
+Back-cross / test-cross 1:1 ou 1:1:1:1
+
+## II. Liaison génique
+Gènes liés ; recombinaison par crossing-over
+Distance génétique (cM) proportionnelle au % recombinants
+
+## III. Hérédité humaine
+Arbres généalogiques : dominant/récessif ; autosomique/lié au sexe
+Calculs de probabilités
+
+## IV. Hérédité non mendélienne (aperçu)
+Codominance, dominance incomplète, polyallélisme (groupes ABO)
+
+================================================================================

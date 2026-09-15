@@ -1,0 +1,94 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Mathematiques
+Chapitre : Geometrie_espace
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/mathematiques-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/124721
+  - https://www.alloschool.com/element/124935
+Date de collecte : 2026-09-15
+================================================================================
+
+# GÉOMÉTRIE DANS L'ESPACE — PRODUIT SCALAIRE ET VECTORIEL
+Sources : https://www.alloschool.com/element/124721 et 124935
+Séances 14 et 15 — Prof. CHEDDADI Haitam
+
+################################################################################
+# PARTIE 1 — PRODUIT SCALAIRE
+################################################################################
+
+## I. Produit scalaire dans l'espace
+u⃗ · v⃗ = ‖u⃗‖ ‖v⃗‖ cos θ
+u⃗ · v⃗ = 0 ⇔ orthogonaux (si non nuls)
+u⃗ · u⃗ = ‖u⃗‖²
+Bilinéaire, symétrique
+
+### Coordonnées (base orthonormée)
+u⃗=(x,y,z), v⃗=(x',y',z')
+u⃗·v⃗ = xx'+yy'+zz'
+‖u⃗‖ = √(x²+y²+z²)
+
+### Formules
+‖u⃗+v⃗‖² = ‖u⃗‖²+‖v⃗‖²+2 u⃗·v⃗
+AB⃗·AC⃗ = (1/2)(AB²+AC²−BC²)  (Al-Kashi)
+
+## II. Orthogonalité et plans
+Vecteur normal n⃗ au plan P : ∀ points M,N de P, n⃗ · MN⃗ = 0
+Équation cartésienne : ax+by+cz+d=0 avec n⃗=(a,b,c)
+Plan passant par A orthogonal à n⃗ : n⃗·AM⃗=0
+
+## III. Droites dans l'espace
+Droite passant par A de vecteur directeur u⃗ : M∈d ⇔ AM⃗ = t u⃗
+Représentation paramétrique : x=x_A+t α, etc.
+Droites orthogonales : u⃗·v⃗=0
+Droites coplanaires / non coplanaires
+
+## IV. Distance
+Distance d'un point A à un plan P(ax+by+cz+d=0) :
+δ = |ax_A+by_A+cz_A+d| / √(a²+b²+c²)
+
+################################################################################
+# PARTIE 2 — PRODUIT VECTORIEL (Séance 15)
+################################################################################
+
+## I. Orientation de l'espace
+Trièdre, bonhomme d'Ampère
+Base directe (i⃗,j⃗,k⃗) : trièdre direct
+Repère orthonormé direct
+
+## II. Produit vectoriel
+w⃗ = u⃗ ∧ v⃗
+1. Si u⃗, v⃗ colinéaires : w⃗ = 0
+2. Sinon :
+   - w⃗ ⊥ u⃗ et w⃗ ⊥ v⃗
+   - (u⃗,v⃗,w⃗) base directe
+   - ‖w⃗‖ = ‖u⃗‖ ‖v⃗‖ sin θ
+
+### Conséquences
+u⃗∧u⃗=0 ; u⃗∧0=0
+Antisymétrie : v⃗∧u⃗ = − u⃗∧v⃗
+Bilinéarité
+Aire triangle ABC = (1/2)‖AB⃗∧AC⃗‖
+Aire parallélogramme = ‖AB⃗∧AC⃗‖
+u⃗∧v⃗=0 ⇔ u⃗, v⃗ colinéaires
+Plan P(A,u⃗,v⃗) = P(A, n⃗=u⃗∧v⃗)
+
+## III. Coordonnées (base orthonormée directe)
+u⃗=(x,y,z), v⃗=(x',y',z')
+u⃗∧v⃗ = (yz'−zy' , zx'−xz' , xy'−yx')
+= | i⃗  j⃗  k⃗ |
+  | x   y   z |
+  | x'  y'  z' |
+
+## IV. Distance d'un point à une droite
+d(A,δ) où δ passe par B dir. u⃗ :
+d = ‖BA⃗ ∧ u⃗‖ / ‖u⃗‖
+
+## V. Règles du produit vectoriel
+i⃗∧j⃗=k⃗ ; j⃗∧k⃗=i⃗ ; k⃗∧i⃗=j⃗
+j⃗∧i⃗=−k⃗ etc.
+
+================================================================================

@@ -1,0 +1,57 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : SVT
+Chapitre : Phenomenes_geologiques
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/sciences-de-la-vie-et-de-la-terre-svt-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/124967
+  - https://www.alloschool.com/element/124968
+  - https://www.alloschool.com/element/124970
+  - https://www.alloschool.com/element/124972
+Date de collecte : 2026-09-15
+================================================================================
+
+# PHÉNOMÈNES GÉOLOGIQUES ET CHAÎNES DE MONTAGNES — COURS
+Sources : https://www.alloschool.com/element/124967 à 124972
+AlloSchool SVT 2Bac SPC
+
+## I. Rappels de géologie
+Structure interne Terre : croûte, manteau, noyau
+Tectonique des plaques : divergentes, convergentes, transformantes
+Magmatisme, séismes, marqueurs (fossiles, ophiolites, anomalies magnétiques)
+
+## II. Chaînes de montagnes récentes
+### Caractéristiques structurales
+Plis (anticlinaux, synclinaux), failles inverses, chevauchements, nappes
+Épaississement crustal ; relief élevé
+### Caractéristiques pétrographiques
+Roches sédimentaires déformées ; roches magmatiques et métamorphiques associées
+### Relation tectonique
+Convergence lithosphérique : collision (Himalaya) ou subduction (Andes)
+Fermeture d'océan (ophiolites = restes de lithosphère océanique)
+
+## III. Déformations tectoniques
+Comportement cassant (failles) / ductile (plis) selon T, P, contrainte, nature roche
+Schistosité, linéations
+
+## IV. Métamorphisme et tectonique
+Recristallisation à l'état solide sous T et/ou P élevées
+Types : contact (auréole), régional (chaînes), hydrothermal
+Gradient métamorphique ; faciès (schistes verts, amphibolites, granulites, schistes bleus, éclogites)
+Minéraux index (chlorite, biotite, grenat, sillimanite…)
+Zones de subduction : HP-BT ; collision : HT
+
+## V. Granitisation et métamorphisme
+Anatexie : fusion partielle → migmatites → granites d'anatexie
+Granites orogéniques vs anorogéniques
+Relations spatiales granite / encaissant métamorphique
+Cycle des roches dans le contexte orogénique
+
+## VI. Synthèse
+Orogenèse = déformation + métamorphisme + magmatisme
+Archives de la tectonique des plaques dans les chaînes récentes (Alpes, Atlas, Himalaya…)
+
+================================================================================

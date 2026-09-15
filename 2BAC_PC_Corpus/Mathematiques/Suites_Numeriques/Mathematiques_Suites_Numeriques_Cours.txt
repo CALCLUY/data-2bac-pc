@@ -1,0 +1,85 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Mathematiques
+Chapitre : Suites_Numeriques
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/mathematiques-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/122864
+  - https://www.alloschool.com/course/mathematiques-2eme-bac-sciences-physiques-biof
+Date de collecte : 2026-09-15
+================================================================================
+
+# SUITES NUMÉRIQUES — COURS
+Source AlloSchool Premium : https://www.alloschool.com/element/122864
+Séance 6 — Limite d'une suite — Prof. CHEDDADI Haitam
+Programme 2BAC PC
+
+## I. Généralités
+Une suite numérique (u_n) est une fonction de ℕ (ou ℕ\{0}) dans ℝ.
+u_n : terme de rang n ; u_0 ou u_1 : premier terme.
+
+### Modes de génération
+- Explicite : u_n = f(n)
+- Récurrente : u_{n+1} = f(u_n), u_0 donné
+- Récurrente d'ordre 2 : u_{n+2} = f(u_{n+1}, u_n)
+
+## II. Sens de variation
+(u_n) croissante ⇔ ∀n, u_{n+1} ≥ u_n
+(u_n) décroissante ⇔ ∀n, u_{n+1} ≤ u_n
+(u_n) monotone si croissante ou décroissante
+Méthodes : étudier u_{n+1}−u_n ; ou u_{n+1}/u_n (si u_n>0) ; ou f croissante si u_{n+1}=f(u_n)
+
+## III. Suites majorées, minorées, bornées
+Majorée : ∃M, ∀n, u_n ≤ M
+Minorée : ∃m, ∀n, u_n ≥ m
+Bornée : majorée et minorée
+
+## IV. Convergence
+(u_n) converge vers ℓ ∈ ℝ ⇔ lim_{n→+∞} u_n = ℓ
+Sinon (u_n) diverge (vers ±∞ ou pas de limite)
+
+### Théorèmes
+1. Toute suite croissante majorée converge
+2. Toute suite décroissante minorée converge
+3. Suite croissante non majorée → +∞
+4. Suite décroissante non minorée → −∞
+
+### Théorème de comparaison / gendarmes
+Si v_n ≤ u_n ≤ w_n et lim v = lim w = ℓ, alors lim u = ℓ
+Si u_n ≤ v_n et lim v = −∞, alors lim u = −∞
+Si u_n ≥ v_n et lim v = +∞, alors lim u = +∞
+
+### Opérations
+Limites de sommes, produits, quotients : mêmes règles que pour les fonctions
+(attention formes indéterminées ∞−∞, 0×∞, ∞/∞, 0/0)
+
+## V. Suites arithmétiques
+u_{n+1} = u_n + r  (r raison)
+u_n = u_0 + n r
+u_n = u_p + (n−p) r
+S_n = u_0 + … + u_n = (n+1)(u_0+u_n)/2
+
+## VI. Suites géométriques
+u_{n+1} = q u_n  (q raison)
+u_n = u_0 · q^n
+Si |q| < 1, lim q^n = 0
+Si q > 1, lim q^n = +∞
+Si q ≤ −1, (q^n) diverge
+S_n = u_0 (1−q^{n+1})/(1−q) si q≠1
+
+## VII. Suites récurrentes u_{n+1} = f(u_n)
+Si (u_n) converge vers ℓ et f continue en ℓ, alors ℓ = f(ℓ)
+Étude : points fixes, monotonie par récurrence, comparaison à la limite
+
+## VIII. Suites et fonctions
+Si lim_{x→+∞} f(x) = ℓ alors lim f(n) = ℓ
+Croissances comparées : n^a / a^n → 0 (a>1), ln n / n → 0, etc.
+
+## IX. Critères utiles 2BAC PC
+- Suite adjacentes : (a_n)↑, (b_n)↓, b_n−a_n→0 ⇒ même limite
+- Théorème du point fixe pour u_{n+1}=f(u_n)
+
+================================================================================

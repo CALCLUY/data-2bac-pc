@@ -1,0 +1,68 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Mathematiques
+Chapitre : Fonctions_primitives
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/mathematiques-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/122865
+Date de collecte : 2026-09-15
+================================================================================
+
+# FONCTIONS PRIMITIVES — COURS
+Source : https://www.alloschool.com/element/122865/pdf
+Séance 7 — Prof. CHEDDADI Haitam — AlloSchool
+
+## I. Définition
+F est une primitive de f sur I si ∀x∈I, F'(x) = f(x).
+
+### Propriétés
+1. Toute fonction continue sur I admet des primitives sur I.
+2. Si F est une primitive de f, toutes les primitives sont F(x)+c, c∈ℝ.
+3. Pour (x₀,y₀) donné, il existe une unique primitive G telle que G(x₀)=y₀.
+
+## II. Opérations
+Si F primitive de f et G de g :
+- F+G primitive de f+g
+- αF primitive de αf
+
+## III. Tableau des primitives usuelles
+
+| f(x) | F(x) |
+|------|------|
+| a (constante) | ax + k |
+| x | x²/2 + k |
+| x^r (r≠−1) | x^{r+1}/(r+1) + k |
+| 1/x | ln\|x\| + k |
+| 1/x² | −1/x + k |
+| 1/√x | 2√x + k |
+| e^x | e^x + k |
+| sin x | −cos x + k |
+| cos x | sin x + k |
+| 1+tan²x = 1/cos²x | tan x + k |
+
+## IV. Opérations composées
+
+| f(x) | F(x) |
+|------|------|
+| u'+v' | u+v+k |
+| a u' | a u + k |
+| u'v + uv' | uv + k |
+| −v'/v² | 1/v + k |
+| (u'v−uv')/v² | u/v + k |
+| u'/√u | 2√u + k |
+| u' · u^r (r≠−1) | u^{r+1}/(r+1) + k |
+| u'/u | ln\|u\| + k |
+| u' e^u | e^u + k |
+| cos(ax+b) (a≠0) | (1/a)sin(ax+b)+k |
+| sin(ax+b) (a≠0) | −(1/a)cos(ax+b)+k |
+
+## V. Méthode
+1. Reconnaître la forme u' · f(u)
+2. Développer / décomposer en éléments simples si rationnelle
+3. Vérifier en dérivant le résultat
+4. Ajuster la constante avec condition F(x₀)=y₀
+
+================================================================================

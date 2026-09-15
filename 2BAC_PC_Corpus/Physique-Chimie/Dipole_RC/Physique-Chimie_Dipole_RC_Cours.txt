@@ -1,0 +1,38 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Dipole_RC
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/119814
+Date de collecte : 2026-09-15
+================================================================================
+
+# LE DIPÔLE RC — COURS
+Source : https://www.alloschool.com/element/119814
+AlloSchool 2BAC PC
+
+
+## I. Circuit RC série
+Générateur E, résistance R, condensateur C
+Charge : q(t) = CE(1−e^{−t/τ}) ; τ=RC
+i(t) = (E/R) e^{−t/τ}
+u_C(t) = E(1−e^{−t/τ})
+Décharge : q(t)=q₀ e^{−t/τ} ; u_C=u₀ e^{−t/τ}
+
+## II. Régime transitoire / permanent
+t ≪ τ : régime transitoire
+t → ∞ : régime permanent (condensateur = circuit ouvert en continu)
+
+## III. Énergie
+E_c = (1/2) C u_C² = q²/(2C)
+Énergie fournie / dissipée dans R
+
+## IV. Intensité et tension
+i = dq/dt = C du_C/dt
+u_R + u_C = E (charge) ; u_R + u_C = 0 (décharge)
+
+================================================================================

@@ -1,0 +1,36 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Systemes_mecaniques_oscillants
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/127903
+  - https://www.alloschool.com/element/128058
+Date de collecte : 2026-09-15
+================================================================================
+
+# SYSTÈMES MÉCANIQUES OSCILLANTS — COURS
+Sources AlloSchool element/127903
+
+
+## I. Pendule élastique (masse-ressort)
+m x'' + kx = 0 (sans frottement)
+x = A cos(ω₀ t + φ) ; ω₀=√(k/m) ; T₀=2π√(m/k)
+
+## II. Pendule simple
+Petits angles : θ'' + (g/ℓ)θ = 0
+T₀=2π√(ℓ/g)
+
+## III. Pendule de torsion
+I θ'' + C θ = 0 ; T₀=2π√(I/C)
+
+## IV. Avec frottement fluide
+Régimes pseudo-périodique, critique, apériodique
+Analogie RLC
+
+## V. Oscillations forcées / résonance (si programme)
+
+================================================================================

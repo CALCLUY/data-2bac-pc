@@ -1,0 +1,24 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Atome_mecanique_Newton
+Type : Exercices_Corriges
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/128170
+Date de collecte : 2026-09-15
+================================================================================
+
+# EXERCICES — ATOME ET MÉCANIQUE DE NEWTON
+Sources : AlloSchool https://www.alloschool.com/element/128170
+
+## Problèmes types 2BAC PC
+1. Bilan de forces + application 2e loi de Newton
+2. Intégration des équations horaires
+3. Exploitation de relevés expérimentaux (tableaux, graphes)
+4. Conservation/non-conservation de l'énergie mécanique
+5. Analogies électrique ↔ mécanique (RLC / masse-ressort)
+
+================================================================================

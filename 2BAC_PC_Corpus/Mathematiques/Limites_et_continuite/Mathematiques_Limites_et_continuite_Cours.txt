@@ -1,0 +1,256 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Mathematiques
+Chapitre : Limites et continuité
+Type : Cours
+Source : AlloSchool — https://www.alloschool.com/element/122859 + 122860 + 122861 (Prof. CHEDDADI Haitam)
+URL cours : https://www.alloschool.com/course/mathematiques-2eme-bac-sciences-physiques-biof
+Date collecte : 2026-09-15
+================================================================================
+
+
+# MATHÉMATIQUES 2BAC PC — LIMITES ET CONTINUITÉ
+## Cours complet (Séances 1, 2 et 3 — AlloSchool Premium)
+
+Professeur : Mr CHEDDADI Haitam
+Filières : 2Bac SPC-SVT-Agro-STE-STM
+
+################################################################################
+# PARTIE A — RAPPEL : LIMITES ET DÉRIVATION (Séance 1)
+# Source: https://www.alloschool.com/element/122859/pdf
+################################################################################
+
+## I. Limites des fonctions x^n (n∈ℕ*) et √x et leurs inverses
+
+lim_{x→0+} √x = 0
+lim_{x→+∞} √x = +∞
+lim_{x→+∞} 1/√x = 0
+lim_{x→0} x^n = 0
+lim_{x→−∞} 1/x^n = 0
+lim_{x→+∞} 1/x^n = 0
+
+### Si n est pair :
+lim_{x→+∞} x^n = +∞
+lim_{x→−∞} x^n = +∞
+lim_{x→0+} 1/x^n = +∞
+lim_{x→0−} 1/x^n = +∞
+
+### Si n est impair :
+lim_{x→+∞} x^n = +∞
+lim_{x→−∞} x^n = −∞
+lim_{x→0+} 1/x^n = +∞
+lim_{x→0−} 1/x^n = −∞
+
+## II. Limites des fonctions polynômes et rationnelles
+
+### 2-1. Limite d'une fonction polynôme
+La limite d'une fonction polynôme en +∞ et en −∞ est celle de son terme de plus haut degré.
+
+### 2-2. Limite d'une fonction rationnelle
+La limite d'une fonction rationnelle en +∞ et en −∞ est celle du quotient des termes de plus haut degré.
+
+## III. Limites des fonctions trigonométriques
+
+lim_{x→0} (sin x)/x = 1
+lim_{x→0} (tan x)/x = 1
+lim_{x→0} (1 − cos x)/x² = 1/2
+
+## IV. Limites des fonctions de type √u(x)
+
+Si lim u(x) = ℓ ≥ 0 alors lim √u(x) = √ℓ
+Si lim u(x) = +∞ alors lim √u(x) = +∞
+
+Ces résultats restent valables à droite, à gauche, en +∞ et en −∞.
+
+## V. Théorème de comparaison
+
+Si U(x) ≤ f(x) ≤ V(x) et lim U = lim V = ℓ, alors lim f = ℓ.
+Si |f(x) − ℓ| ≤ V(x) et lim V = 0, alors lim f = ℓ.
+Si f(x) ≤ U(x) et lim U = −∞, alors lim f = −∞.
+Si U(x) ≤ f(x) et lim U = +∞, alors lim f = +∞.
+
+## VI. Limites et opérations
+
+### Somme
+| lim f | ℓ | ℓ | ℓ | −∞ | +∞ | +∞ |
+| lim g | ℓ' | −∞ | +∞ | −∞ | +∞ | −∞ |
+| lim(f+g) | ℓ+ℓ' | −∞ | +∞ | −∞ | +∞ | FI |
+
+### Produit
+| lim f | ℓ | ℓ<0 | ℓ>0 | −∞ | −∞ | +∞ | 0 |
+| lim g | ℓ' | −∞/+∞ | −∞/+∞ | −∞ | +∞ | +∞ | ±∞ |
+| lim(f×g) | ℓ×ℓ' | +∞/−∞ | −∞/+∞ | +∞ | −∞ | +∞ | FI |
+
+### Quotient
+| lim f | ℓ | ℓ | ℓ<0 | ℓ>0 | −∞ | +∞ | 0 | ±∞ |
+| lim g | ℓ'≠0 | ±∞ | 0−/0+ | 0−/0+ | 0−/0+ | 0−/0+ | 0 | ±∞ |
+| lim(f/g) | ℓ/ℓ' | 0 | +∞/−∞ | −∞/+∞ | +∞/−∞ | −∞/+∞ | FI | FI |
+
+(FI = forme indéterminée)
+
+## VII. La dérivabilité
+
+### 7-1. Fonction dérivable en un point
+f est dérivable en x₀ si lim_{x→x₀} [f(x)−f(x₀)]/(x−x₀) existe et est finie.
+Cette limite est le nombre dérivé f'(x₀).
+
+### 7-2. Dérivées des fonctions usuelles
+| f(x) | f'(x) |
+| k | 0 |
+| x | 1 |
+| 1/x | −1/x² |
+| x^r | r x^{r−1} |
+| √x | 1/(2√x) |
+| sin x | cos x |
+| cos x | −sin x |
+| tan x | 1 + tan²x = 1/cos²x |
+
+### 7-3. Opérations sur les dérivées
+(u+v)' = u' + v'
+(ku)' = k u'
+(uv)' = u'v + uv'
+(1/v)' = −v'/v²
+(u/v)' = (u'v − uv')/v²
+(u∘v)' = (u'∘v) × v'
+(u^n)' = n u' u^{n−1}
+(√u)' = u'/(2√u)
+
+### 7-4. Dérivée et sens de variation
+f croissante sur I ⇔ ∀x∈I, f'(x) ≥ 0
+f décroissante sur I ⇔ ∀x∈I, f'(x) ≤ 0
+f constante sur I ⇔ ∀x∈I, f'(x) = 0
+
+################################################################################
+# PARTIE B — CONTINUITÉ PARTIE 1 (Séance 2)
+# Source: https://www.alloschool.com/element/122860/pdf
+################################################################################
+
+## I. Continuité en un point
+
+### Définition
+f est continue au point x₀ ⇔ lim_{x→x₀} f(x) = f(x₀)
+
+### Continuité à droite / à gauche
+f continue à droite en x₀ ⇔ lim_{x→x₀, x>x₀} f(x) = f(x₀)
+f continue à gauche en x₀ ⇔ lim_{x→x₀, x<x₀} f(x) = f(x₀)
+
+### Propriété
+f continue en x₀ ⇔ continue à droite ET à gauche de x₀
+⇔ lim_{x→x₀+} f(x) = lim_{x→x₀−} f(x) = f(x₀)
+
+## II. Continuité sur un intervalle
+- Continue sur ]a,b[ : continue en tout point de ]a,b[
+- Continue sur [a,b[ : continue sur ]a,b[ et à droite en a
+- Continue sur ]a,b] : continue sur ]a,b[ et à gauche en b
+- Continue sur [a,b] : continue sur ]a,b[, à droite en a et à gauche en b
+
+## III. Opérations sur les fonctions continues
+Si f et g continues sur I :
+- f+g, αf, fg continues sur I
+- 1/g et f/g continues sur I (là où g(x) ≠ 0)
+
+## IV. Continuité des fonctions usuelles
+- Toute fonction polynomiale est continue sur ℝ
+- Toute fonction rationnelle est continue sur tout intervalle inclus dans D_f
+- cos et sin continues sur ℝ
+- tan continue sur ℝ \ {π/2 + kπ, k∈ℤ}
+- √x continue sur [0, +∞[
+
+## V. Image d'un intervalle par une fonction continue
+L'image du segment [a,b] par une fonction continue est un segment [m,M]
+(m = min, M = max des images).
+L'image d'un intervalle par une fonction continue est un intervalle : J = f(I).
+
+## VI. Image d'un intervalle par une fonction continue et strictement monotone
+
+| Intervalle I | f croissante | f décroissante |
+| [a;b] | [f(a);f(b)] | [f(b);f(a)] |
+| [a;b[ | [f(a); lim_{x→b−} f(x)[ | ]lim_{x→b−} f(x); f(a)] |
+| ]a;b] | ]lim_{x→a+} f(x); f(b)] | [f(b); lim_{x→a+} f(x)[ |
+| ]a;b[ | ]lim_{x→a+} f; lim_{x→b−} f[ | ]lim_{x→b−} f; lim_{x→a+} f[ |
+| [a;+∞[ | [f(a); lim_{x→+∞} f] | ]lim_{x→+∞} f; f(a)] |
+| ]−∞;b] | ]lim_{x→−∞} f; f(b)] | [f(b); lim_{x→−∞} f[ |
+
+## VII. Continuité de la composée
+Si f continue en x₀ et g continue en f(x₀), alors g∘f continue en x₀.
+Si f continue sur I et g continue sur f(I), alors g∘f continue sur I.
+
+Applications :
+- sin(ax+b) et cos(ax+b) continues sur ℝ
+- tan(ax+b) continue pour ax+b ≠ π/2 + kπ
+- Si f ≥ 0 continue sur I, alors √f continue sur I
+
+################################################################################
+# PARTIE C — CONTINUITÉ PARTIE 2 (Séance 3)
+# Source: https://www.alloschool.com/element/122861/pdf
+################################################################################
+
+## I. Théorème des valeurs intermédiaires (TVI)
+
+### Propriété
+f continue sur [a,b]. Pour tout k compris entre f(a) et f(b), il existe au moins
+un c ∈ [a,b] tel que f(c) = k.
+
+### Conséquences
+1. f([a,b]) = [m,M] (image d'un segment = segment)
+2. Si f continue sur [a,b] et f(a)·f(b) < 0, alors l'équation f(x)=0 admet
+   au moins une solution dans ]a,b[.
+
+### Cas monotone
+Si f continue et strictement monotone sur [a,b], pour tout k entre f(a) et f(b),
+il existe un UNIQUE c tel que f(c)=k.
+
+## II. Fonction réciproque
+
+### Théorème
+Toute fonction continue et strictement monotone sur I admet une fonction
+réciproque f⁻¹ définie sur J = f(I).
+
+### Relations
+f(x) = y ⇔ f⁻¹(y) = x
+∀x∈I : f⁻¹(f(x)) = x
+∀y∈J : f(f⁻¹(y)) = y
+
+### Propriétés de f⁻¹
+- f⁻¹ est continue sur J = f(I)
+- f et f⁻¹ varient dans le même sens
+- (C_f) et (C_{f⁻¹}) sont symétriques par rapport à la 1ère bissectrice (y=x)
+
+## III. Fonction racine n-ième
+
+### Définition
+f(x) = x^n (n∈ℕ*) est continue et strictement croissante sur [0,+∞[.
+Sa réciproque : f⁻¹(x) = ⁿ√x = x^{1/n}
+
+### Propriétés (a,b ≥ 0, n∈ℕ\{0,1})
+ⁿ√1 = 1 ; ⁿ√0 = 0
+(ⁿ√a)^n = a ; ⁿ√(a^n) = a
+lim_{x→+∞} ⁿ√x = +∞
+ⁿ√a = ⁿ√b ⇔ a = b
+ⁿ√a ≤ ⁿ√b ⇔ a ≤ b
+ⁿ√a × ⁿ√b = ⁿ√(a×b)
+ⁿ√(a/b) = ⁿ√a / ⁿ√b (b>0)
+ⁿ√(1/b) = 1/ⁿ√b (b>0)
+
+### Limites de g(x) = ⁿ√f(x)
+lim f = +∞ ⇒ lim ⁿ√f = +∞
+lim f = ℓ ≥ 0 ⇒ lim ⁿ√f = ⁿ√ℓ
+
+## IV. Puissance rationnelle d'un réel positif
+
+Pour x > 0, r = m/n ∈ ℚ : x^r = ⁿ√(x^m)
+(avec 0^r = 0 si r ≠ 0)
+
+### Propriétés (a,b > 0, r,r' ∈ ℚ)
+a^r > 0
+a^r × a^{r'} = a^{r+r'}
+a^r × b^r = (a×b)^r
+(a^r)^{r'} = a^{r·r'}
+(a/b)^r = a^r / b^r
+a^{−r} = 1/a^r
+a^r / a^{r'} = a^{r−r'}
+
+================================================================================
+Fin du cours Limites et continuité (AlloSchool — CHEDDADI)
+================================================================================

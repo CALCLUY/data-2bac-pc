@@ -1,0 +1,37 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Lois_de_Newton
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/123279
+Date de collecte : 2026-09-15
+================================================================================
+
+# LOIS DE NEWTON — COURS
+Sources AlloSchool element/123279
+
+
+## I. Référentiels
+Galiléen (inertiel) : 1ère loi vérifiée
+Référentiel terrestre ≈ galiléen pour phénomènes brefs
+
+## II. Les trois lois
+1. Inertie : ΣF⃗=0 ⇔ v⃗ constante (repos ou MRU)
+2. ΣF⃗ = m a⃗ = dp⃗/dt
+3. Action-réaction : F_{A/B} = − F_{B/A}
+
+## III. Forces usuelles
+Poids P⃗=mg⃗ ; normale ; frottements (opposent au mouvement)
+Tension fil ; force de Lorentz F⃗=q v⃗∧B⃗ ; rappel élastique −kx
+
+## IV. Méthode
+1. Bilan des forces (schéma)
+2. Choisir référentiel et axes
+3. Projeter ΣF = ma
+4. Intégrer si besoin (v, x)
+
+================================================================================

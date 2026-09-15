@@ -1,0 +1,34 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : SVT
+Chapitre : Utilisation_matieres
+Type : Exercices_Corriges
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/sciences-de-la-vie-et-de-la-terre-svt-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/123154
+  - https://www.alloschool.com/element/123155
+Date de collecte : 2026-09-15
+================================================================================
+
+# EXERCICES — UTILISATION DES MATIÈRES
+Sources : https://www.alloschool.com/element/123154, 123155
+
+## Exercice 1
+Analyser composition d'ordures et proposer filière de traitement
+Calculer taux de recyclage
+
+## Exercice 2
+Interpréter données de pollution (tableaux pH, DBO, concentrations)
+Proposer mesures de réduction
+
+## Exercice 3
+Radioactivité : calculs de décroissance liés à déchets
+Comparer filières énergétiques (avantages/inconvénients)
+
+## Exercice 4
+Schéma STEP à légender ; rôle de chaque étape
+Étude de documents sur eutrophisation d'un lac
+
+================================================================================

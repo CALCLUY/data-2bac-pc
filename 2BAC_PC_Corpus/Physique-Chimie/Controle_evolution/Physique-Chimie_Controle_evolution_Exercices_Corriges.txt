@@ -1,0 +1,25 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Controle_evolution
+Type : Exercices_Corriges
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/128313
+Date de collecte : 2026-09-15
+================================================================================
+
+# EXERCICES — CONTRÔLE DE L'ÉVOLUTION D'UN SYSTÈME
+Source : https://www.alloschool.com/element/128313
+
+## Exercices types
+1. Tableau d'avancement et calcul de concentrations
+2. Calcul de Q_r et comparaison à K
+3. pH, pKa, diagrammes de prédominance, dosages
+4. Piles : identifier anode/cathode, calculer E, quantité d'électricité
+5. Électrolyse : masse déposée (Faraday)
+6. Estérification : τ, composition à l'équilibre, optimisation
+
+================================================================================

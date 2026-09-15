@@ -1,0 +1,46 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Ondes_mecaniques_progressives
+Type : Exercices_Corriges
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/119787
+  - https://www.alloschool.com/element/102054
+  - https://www.alloschool.com/element/102057
+Date de collecte : 2026-09-15
+================================================================================
+
+# EXERCICES — ONDES MÉCANIQUES PROGRESSIVES
+Sources : https://www.alloschool.com/element/119787 ; 102054 ; 102057 ; 53906
+
+## Exercice 1 (cours)
+Onde sur corde AB=10 m aux instants t1=0 et t2=0,2 s
+1. Conservation de la forme ?
+2. Transversale ou longitudinale ?
+3. Célérité v = d/Δt
+4. Durée de perturbation d'un point
+5. Aspect à t=0,1 s
+
+## Exercice 2
+Aspect d'une corde à t ; S, A, B, M repérés
+1. Définition onde mécanique progressive
+2. Nature et dimension
+3. Points montant/descendant
+4. Célérité
+5. Instant d'arrêt de M
+6. Aspect à un autre instant
+7. Relations y_S(t) et y_M(t) : y_M(t)=y_S(t−τ) avec τ=SM/v
+
+## Exercice type corrigé
+Distance parcourue 4 cm en 0,1 s → v=0,4 m/s
+Point à 12 cm de S : τ=0,3 s
+À t=0,5 s le point a le même mouvement que S à t=0,2 s
+
+## Série AlloSchool
+Voir également séries d'exercices 1 (102054) et corrigé (102057),
+exercices corrigés 1-2 (53906, 53907) sur alloschool.com
+
+================================================================================

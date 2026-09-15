@@ -1,0 +1,34 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Decroissance_radioactive
+Type : Exercices_Corriges
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/119802
+Date de collecte : 2026-09-15
+================================================================================
+
+# EXERCICES — DÉCROISSANCE RADIOACTIVE
+Source : https://www.alloschool.com/element/119802
+
+## Exercice 1
+Compléter : ²³⁸₉₂U → ²³⁴₉₀Th + ⁴₂He
+¹⁴₆C → ¹⁴₇N + ⁰_{−1}e
+Identifier type α, β⁻, β⁺
+
+## Exercice 2
+t_{1/2}=8 jours, a₀=1,2×10⁶ Bq
+λ=ln2/t_{1/2}
+a(t)=a₀ e^{−λt}
+Activité après 24 jours = a₀/8
+
+## Exercice 3
+Datation : a/a₀ = 0,125 → 3 demi-vies → t=3 t_{1/2}
+
+## Exercice 4
+Nombre de noyaux N=a/λ ; masse m = N M / N_A
+
+================================================================================

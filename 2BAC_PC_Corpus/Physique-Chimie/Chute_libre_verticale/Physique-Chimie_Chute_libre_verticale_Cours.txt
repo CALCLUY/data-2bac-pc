@@ -1,0 +1,34 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Chute_libre_verticale
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/124269
+  - https://www.alloschool.com/element/123714
+Date de collecte : 2026-09-15
+================================================================================
+
+# CHUTE LIBRE VERTICALE D'UN SOLIDE — COURS
+Sources AlloSchool element/124269
+
+
+## I. Chute libre sans frottement
+P⃗ seule force ; a⃗=g⃗
+Verticale Ox vers le bas : x=x₀+v₀t+(1/2)gt²
+v=v₀+gt ; v²=v₀²+2g(x−x₀)
+
+## II. Avec frottements
+f⃗ = −λ v⃗ ou −(1/2)ρSC_x v² (sens oppose v)
+Équation : m dv/dt = mg − f(v)
+Vitesse limite v_lim quand a=0
+Régime transitoire puis permanent
+
+## III. Méthodes expérimentales
+Chronophotographie, pointage, dérivation numérique v et a
+Vérifier a=g ou a→0 (v_lim)
+
+================================================================================

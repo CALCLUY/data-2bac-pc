@@ -1,0 +1,50 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Mathematiques
+Chapitre : Denombrement_Probabilites
+Type : Exercices_Corriges
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/mathematiques-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/125014
+  - https://www.alloschool.com/element/125033
+Date de collecte : 2026-09-15
+================================================================================
+
+# EXERCICES — DÉNOMBREMENT ET PROBABILITÉS
+Sources : https://www.alloschool.com/element/125014 (exos dénombrement)
+
+## Dénombrement — Exercice 1 (AlloSchool)
+Sac : 3 rouges, 3 vertes, 4 noires (10 boules)
+Tirage simultané de 2 boules
+1. Nombre de tirages : C_10^2 = 45
+2. Même couleur : C_3^2 + C_3^2 + C_4^2 = 3+3+6 = 12
+3. Couleurs différentes : 45−12 = 33
+   (ou 3·3+3·4+3·4=9+12+12=33)
+
+## Exercice type arrangements
+Anagrammes de "MATHS" : 5! = 120
+Anagrammes de "ÉCOLE" avec lettres répétées : 5!/2! = 60
+Codes à 4 chiffres distincts parmi 0-9 : A_10^4 (attention 0 en tête si nombre)
+
+## Exercice type binôme
+Coefficient de x³ dans (2+x)^5 : C_5^3 2² = 10·4 = 40
+Développer (x−1)^4
+
+## Probabilités — Exercice type 1
+Urne 5 blanches 3 noires, 2 tirages sans remise
+P(2 blanches)= C_5^2/C_8^2 = 10/28 = 5/14
+P(couleurs différentes)= (5·3·2)/(8·7) = 15/28  (ordonné) ou 2·C_5^1 C_3^1 / C_8^2
+
+## Exercice type 2 — Bayes
+Test médical, maladie 1%, sensibilité 95%, spécificité 90%
+P(M|T+) = ...
+
+## Exercice type 3 — Binomiale
+P(X=k) pour n=10, p=0.3 ; E(X)=3 ; P(X≥1)=1−(0.7)^10
+
+## Exercice type 4 — VA
+Loi de X gain d'un jeu, calculer E(X), V(X), interpréter jeu équitable si E=0
+
+================================================================================

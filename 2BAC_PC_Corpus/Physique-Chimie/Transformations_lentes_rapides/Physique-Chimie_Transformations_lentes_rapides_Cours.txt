@@ -1,0 +1,35 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Transformations_lentes_rapides
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/119796
+Date de collecte : 2026-09-15
+================================================================================
+
+# TRANSFORMATIONS LENTES ET RAPIDES — COURS
+Source : https://www.alloschool.com/element/119796
+AlloSchool 2BAC PC — Chimie
+
+
+## I. Classification
+Transformation rapide : durée très courte (précipitation, explosions, neutralisation forte)
+Transformation lente : durée mesurable (oxydation, corrosion, certaines organiques)
+Transformation extrêmement lente : non observable à l'échelle humaine sans catalyseur
+
+## II. Facteurs cinétiques
+- Température ↑ → vitesse ↑ (règle empirique)
+- Concentrations des réactifs ↑ → vitesse ↑
+- Surface de contact (solides)
+- Catalyseur : accélère sans être consommé
+- Inhibiteur : ralentit
+
+## III. Suivi
+Mesures : pression, volume gaz, absorbance, pH, conductivité
+Temps de demi-réaction t_{1/2}
+
+================================================================================

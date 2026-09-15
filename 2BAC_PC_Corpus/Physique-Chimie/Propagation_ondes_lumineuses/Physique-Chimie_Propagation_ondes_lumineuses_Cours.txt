@@ -1,0 +1,68 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Propagation_ondes_lumineuses
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/119793
+Date de collecte : 2026-09-15
+================================================================================
+
+# PROPAGATION DES ONDES LUMINEUSES — COURS
+Source : https://www.alloschool.com/element/119793/pdf
+Séance 3 — Prof. El GOUFIFA Jihad
+
+## I. La lumière, phénomène ondulatoire
+### Diffraction
+Fente fine → figure de diffraction → aspect ondulatoire
+La lumière est une onde électromagnétique (pas besoin de milieu matériel).
+
+### Définition diffraction
+Changement de direction sans modification de f, T, λ quand l'onde rencontre
+une ouverture ou un obstacle de dimension a ≲ λ.
+
+## II. Caractéristiques
+### Mono / polychromatique
+Monochromatique : non décomposable (laser) — une seule λ
+Polychromatique : plusieurs radiations (lumière blanche)
+
+### Célérité
+Dans le vide (et air) : c = 3,00×10⁸ m/s pour toutes radiations
+Dans milieux transparents : v < c
+v_eau≈2,25×10⁸ ; v_verre≈2×10⁸ m/s
+
+### Indice de réfraction
+n = c/v  (≥1)
+n_eau≈1,33 ; n_verre≈1,5
+
+### Fréquence et longueur d'onde
+c = λ₀ / T = λ₀ · ν
+λ₀ longueur d'onde dans le vide
+Dans un milieu : λ = λ₀ / n ; ν inchangée
+
+### Domaines
+UV : λ < 400 nm
+Visible : 400–800 nm environ
+IR : λ > 800 nm
+
+## III. Diffraction monochromatique
+Laser, fente a, écran à D, largeur tache centrale L
+Plus a petite → L plus grande
+Plus λ petite → L plus petite
+Plus D grande → L plus grande
+Écart angulaire θ (rad) ≈ L/(2D)
+θ ≈ λ/a  (relation fondamentale)
+
+## IV. Dispersion par un prisme
+Prisme : angle A, indice n
+n_air sin i = n sin r
+n sin r' = n_air sin i'
+A = r + r'
+Déviation D = i + i' − A
+Dispersion : n dépend de λ → séparation des couleurs
+(violet plus dévié que rouge en général, n_violet > n_rouge)
+
+================================================================================
