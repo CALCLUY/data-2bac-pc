@@ -1,0 +1,40 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Mathematiques
+Chapitre : Nombres_complexes_Partie_2
+Type : Exercices_Corriges
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/mathematiques-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/124136
+Date de collecte : 2026-09-15
+================================================================================
+
+# EXERCICES — NOMBRES COMPLEXES PARTIE 2
+Source : https://www.alloschool.com/element/124136
+
+## Exercice 1
+1. z² − z√2 + 2 = 0
+   Δ = 2−8 = −6 ; z = (√2 ± i√6)/2
+2. u = √2/2 + i√6/2 ; |u|=√2 ; arg u = π/3
+3. u^6 réel via forme exponentielle
+4-5. Rotation de centre et angle π/3 ; triangle équilatéral
+
+## Exercice 2
+z²−4z+5=0 → z=2±i
+Points A(2+i), B(2−i), C(i), D(−i), Ω(1)
+(a−ω)/(b−ω)=i → triangle ΩAB rectangle isocèle en Ω
+Rotation centre Ω
+
+## Exercice 3-6
+Linéarisation, équations, configurations géométriques (équilatéral, rectangle),
+composées de transformations (rotation ∘ homothétie = similitude)
+
+### Checklist
+1. Passer en expo pour puissances et produits
+2. Δ pour trinômes
+3. Écriture z'=az+b → identifier transformation
+4. Modules/arguments pour angles et distances
+
+================================================================================

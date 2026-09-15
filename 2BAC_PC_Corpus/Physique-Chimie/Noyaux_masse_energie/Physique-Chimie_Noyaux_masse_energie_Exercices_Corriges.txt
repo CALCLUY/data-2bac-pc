@@ -1,0 +1,32 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Noyaux_masse_energie
+Type : Exercices_Corriges
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/119805
+Date de collecte : 2026-09-15
+================================================================================
+
+# EXERCICES — NOYAUX MASSE ÉNERGIE
+Source : https://www.alloschool.com/element/119805
+
+## Exercice 1
+Calculer δ et E_ℓ pour ⁴He
+m_α, m_p, m_n donnés → δ = 2m_p+2m_n−m_α → E_ℓ=δ×931,5 MeV
+E_ℓ/A
+
+## Exercice 2
+Q d'une réaction : Σm_i − Σm_f en u puis ×931,5
+
+## Exercice 3
+Fission ²³⁵U : énergie ~200 MeV par fission
+Puissance d'une centrale → nombre de fissions/s → consommation masse/jour
+
+## Exercice 4
+Comparer E_ℓ/A de réactifs et produits pour justifier fission/fusion
+
+================================================================================

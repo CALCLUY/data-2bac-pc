@@ -1,0 +1,35 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Dipole_RL
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/120830
+Date de collecte : 2026-09-15
+================================================================================
+
+# LE DIPÔLE RL — COURS
+Source : https://www.alloschool.com/element/120830
+AlloSchool 2BAC PC
+
+
+## I. Circuit RL série
+u_R + u_L = E ; u_L = L di/dt ; u_R = Ri
+Établissement : i(t)=(E/R)(1−e^{−t/τ}) ; τ=L/R
+u_L(t)=E e^{−t/τ}
+Rupture / extinction : i(t)=I₀ e^{−t/τ}
+
+## II. Inductance L
+S'oppose aux variations de courant (Loi de Lenz)
+En régime permanent continu : bobine = fil (court-circuit idéal r=0)
+
+## III. Énergie magnétique
+E_m = (1/2) L i²
+
+## IV. Constantes de temps
+τ=L/R : au bout de 5τ, régime pratiquement permanent (~99%)
+
+================================================================================

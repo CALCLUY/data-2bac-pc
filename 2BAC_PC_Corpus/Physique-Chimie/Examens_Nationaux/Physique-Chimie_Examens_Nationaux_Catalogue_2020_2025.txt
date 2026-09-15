@@ -1,0 +1,55 @@
+================================================================================
+Document pédagogique — Examens Nationaux Physique-Chimie SPC
+Source catalogue : https://www.alloschool.com/section/4585
+Date : 2026-09-15
+================================================================================
+
+# CATALOGUE COMPLET DES EXAMENS NATIONAUX PC SPC (AlloSchool)
+
+## 2020
+- Normale Sujet: https://www.alloschool.com/element/109742
+- Normale Corrigé: https://www.alloschool.com/element/109745
+- Rattrapage Sujet: https://www.alloschool.com/element/109751
+- Rattrapage Corrigé: https://www.alloschool.com/element/109757
+
+## 2021
+- Normale Sujet: https://www.alloschool.com/element/127287
+- Normale Corrigé: https://www.alloschool.com/element/136826
+- Rattrapage Sujet: https://www.alloschool.com/element/127290
+- Rattrapage Corrigé: https://www.alloschool.com/element/136829
+- (Premium Doc 2021 SPC): https://www.alloschool.com/element/127439
+
+## 2022
+- Normale Sujet: https://www.alloschool.com/element/136621
+- Normale Corrigé: https://www.alloschool.com/element/136832
+- Rattrapage Sujet: https://www.alloschool.com/element/136624
+- Rattrapage Corrigé: https://www.alloschool.com/element/136835
+
+## 2023
+- Normale Sujet: https://www.alloschool.com/element/142476
+- Normale Corrigé: https://www.alloschool.com/element/142479
+- Rattrapage Sujet: https://www.alloschool.com/element/142484
+- Rattrapage Corrigé: https://www.alloschool.com/element/142487
+
+## 2024
+- Normale Sujet: https://www.alloschool.com/element/145763
+- Normale Corrigé: https://www.alloschool.com/element/145766
+- Rattrapage Sujet: https://www.alloschool.com/element/145769
+- Rattrapage Corrigé: https://www.alloschool.com/element/145772
+
+## 2025
+- Normale Sujet: https://www.alloschool.com/element/145796
+- Rattrapage Sujet: https://www.alloschool.com/element/145799
+
+## Note
+Les PDF d'examens nationaux sont généralement des scans officiels.
+L'extraction OCR automatique est partielle ; télécharger les PDF pour usage officiel.
+Chaque sujet couvre plusieurs chapitres du programme (Physique + Chimie).
+
+Structure typique :
+- Exercice 1-2 : Ondes / Nucléaire
+- Exercice 3-4 : Électricité (RC, RL, RLC, AM)
+- Exercice 5-6 : Mécanique
+- Exercices Chimie : cinétique, équilibre, acide-base, piles, estérification
+
+================================================================================

@@ -1,0 +1,45 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Mathematiques
+Chapitre : Fonctions_exponentielles
+Type : Exercices_Corriges
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/mathematiques-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/123685
+Date de collecte : 2026-09-15
+================================================================================
+
+# EXERCICES — FONCTIONS EXPONENTIELLES
+Source : https://www.alloschool.com/element/123685
+
+## Exercice 1
+1. Simplifier A=(e^x+e^{−x})²−(e^x−e^{−x})² = 4
+   B=(e^x−1)²(e^{2x}+2e^x+1)=(e^x−1)²(e^x+1)²=(e^{2x}−1)²
+2. Identités : (e^{−x}−1)/(e^{−x}+1)=(1−e^x)/(e^x+1) etc.
+3. Équations : e^{2x}+e^x−2=0 → poser X=e^x >0 → X=1 → x=0
+   e^{2x+1}+e^{x+1}−2e=0 → e(e^{2x}+e^x−2)=0 → x=0
+   e^x − 2e^{−x} +1=0 → e^{2x}+e^x−2=0 → x=0
+4. Inéquations via signe et tableau
+
+## Exercice 2
+f(x)=(e^{−x}−1)²
+lim +∞ f=0 (asymptote y=0) ; B.P. en −∞
+f'(x)=2e^{−x}(1−e^{−x})
+Variations, inflexion, réciproque sur [0,+∞[ : g⁻¹(x)=−ln(1−√x)
+
+## Exercice 3
+g(x)=e^x−2x+2 > 0
+f(x)=x e^{−x} + x/2 + 1
+Étude complète
+
+## Exercice 4-5
+Études de fonctions avec e^{u(x)}, suites récurrentes liées à exp
+
+### Astuces
+- Poser X=e^x pour équations polynomiales en e^x
+- Croissances comparées e^x vs x^n
+- Ne jamais oublier e^x > 0
+
+================================================================================

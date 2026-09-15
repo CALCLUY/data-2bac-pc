@@ -1,0 +1,69 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : SVT
+Chapitre : Consommation_matiere_organique
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/sciences-de-la-vie-et-de-la-terre-svt-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/120209
+  - https://www.alloschool.com/element/120210
+  - https://www.alloschool.com/element/120211
+  - https://www.alloschool.com/element/120214
+  - https://www.alloschool.com/element/120215
+Date de collecte : 2026-09-15
+================================================================================
+
+# CONSOMMATION DE LA MATIÈRE ORGANIQUE ET FLUX D'ÉNERGIE — COURS
+Sources AlloSchool Premium SVT :
+https://www.alloschool.com/element/120209 à 120215
+Prof. BAHSINA Najib — 2Bac SPC-SVT
+
+## I. ATP et ADP
+ATP = Adénosine TriPhosphate : forme d'énergie utilisable cellulaire
+ADP = Adénosine DiPhosphate
+ATP ⇌ ADP + Pi + énergie
+Couples redox NAD⁺/NADH, FAD/FADH₂ : transporteurs d'électrons
+
+## II. Structure cellulaire (rappel)
+Mitochondrie, cytoplasme, membrane, noyau, ribosomes…
+Cellule végétale : paroi, vacuoles, chloroplastes
+
+## III. Mitochondrie
+Double membrane ; crêtes ; matrice
+Siège de la respiration cellulaire (cycle de Krebs, chaîne respiratoire)
+
+## IV. Voies métaboliques productrices d'énergie
+1. Respiration cellulaire (aérobiose)
+2. Fermentation lactique
+3. Fermentation alcoolique
+
+## V. Glycolyse (cytoplasme)
+Glucose → 2 acide pyruvique
+Bilan : 2 ATP net + 2 NADH
+Oxydation du glucose, réduction NAD⁺→NADH
+
+## VI. Oxydation du pyruvate (matrice)
+Décarboxylation + déshydrogénation → acétyl-CoA
+Cycle de Krebs : production CO₂, NADH, FADH₂, ATP (GTP)
+Pour 1 pyruvate : multiples coenzymes réduits + CO₂
+
+## VII. Chaîne respiratoire (crêtes)
+NADH, FADH₂ cèdent e⁻ → O₂ (accepteur final) → H₂O
+Phosphorylation oxydative : gradient H⁺ → ATP synthase
+Bilan respiration complète ~ 30–38 ATP / glucose (selon sources scolaires)
+
+## VIII. Fermentations (anaérobiose)
+Lactique : pyruvate → lactate (muscles, bactéries) ; régénère NAD⁺
+Alcoolique : pyruvate → éthanol + CO₂
+Bilan énergétique faible (2 ATP de la glycolyse seulement)
+
+## IX. Rôle du muscle strié squelettique
+Conversion énergie chimique (ATP) → énergie mécanique (contraction)
+Structure : fibres, myofibrilles, sarcomères (actine/myosine)
+Couplage excitation-contraction ; rôle Ca²⁺
+Sources d'ATP musculaire : reserves ATP/phosphocréatine, respiration, fermentation lactique
+Myogramme, tetanos, fatigue musculaire
+
+================================================================================

@@ -1,0 +1,89 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Mathematiques
+Chapitre : Derivation_etude_fonctions
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/mathematiques-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/122862
+  - https://www.alloschool.com/element/122863
+Date de collecte : 2026-09-15
+================================================================================
+
+# DÉRIVATION ET ÉTUDE DES FONCTIONS — COURS COMPLET
+Sources : https://www.alloschool.com/element/122862 et 122863
+Prof. CHEDDADI Haitam — AlloSchool Premium Séances 4 et 5
+
+## I. Applications de la dérivée première
+
+### 1-1. Monotonie et signe de f'
+f dérivable sur I :
+- Si f' > 0 sur I (sauf éventuellement en un nombre fini de points), f strictement croissante
+- Si f' < 0 sur I (idem), f strictement décroissante
+- Si f' = 0 sur I, f constante
+
+### 1-2. Extremums
+Si f dérivable sur un ouvert et admet un extremum en x₀, alors f'(x₀)=0.
+Réciproque fausse (ex. f(x)=x³ en 0).
+Si f'(x₀)=0 et f' change de signe en x₀, alors extremum local en x₀.
+
+## II. Applications de la dérivée seconde
+
+### 2-1. Concavité
+f deux fois dérivable sur I :
+- Si f''(x) > 0 sur I : courbe convexe (au-dessus des tangentes), concavité vers les y+
+- Si f''(x) < 0 sur I : courbe concave (au-dessous des tangentes)
+
+### 2-2. Points d'inflexion
+Si f'' s'annule en x₀ et change de signe, alors A(x₀, f(x₀)) est un point d'inflexion.
+La tangente traverse la courbe en ce point.
+
+## III. Symétries
+
+### Centre de symétrie I(a,b)
+I centre de symétrie de (C_f) ⇔
+∀x∈D_f, 2a−x ∈ D_f et f(2a−x) + f(x) = 2b
+
+### Axe de symétrie x = a
+x=a axe de symétrie ⇔
+∀x∈D_f, 2a−x ∈ D_f et f(2a−x) = f(x)
+
+## IV. Branches infinies
+
+### Asymptote verticale
+lim_{x→a} f(x) = ±∞ ⇒ x = a asymptote verticale
+
+### Asymptote horizontale
+lim_{x→±∞} f(x) = b ⇒ y = b asymptote horizontale au voisinage de ±∞
+
+### Asymptote oblique
+lim_{x→±∞} [f(x) − (ax+b)] = 0 ⇒ y = ax+b asymptote oblique
+Méthode : a = lim f(x)/x , b = lim (f(x) − ax)
+
+### Branches paraboliques
+- a = ±∞ : B.P. direction axe des ordonnées
+- a = 0 : B.P. direction axe des abscisses
+- b = ±∞ avec a ∈ ℝ* : B.P. direction de la droite y = ax
+
+## V. Plan d'étude d'une fonction
+1. Ensemble de définition D_f
+2. Parité / périodicité (réduction de l'étude)
+3. Limites aux bornes de D_f → asymptotes
+4. Dérivabilité, calcul de f', signe de f' → variations
+5. f'' éventuelle → concavité, inflexions
+6. Tangentes remarquables
+7. Tableau de variations
+8. Tracé de la courbe
+
+## VI. Formules de dérivation complémentaires
+(u^n)' = n u' u^{n−1}
+(√u)' = u'/(2√u)
+(1/u)' = −u'/u²
+(u/v)' = (u'v−uv')/v²
+(sin u)' = u' cos u
+(cos u)' = −u' sin u
+(tan u)' = u'(1+tan²u)
+
+================================================================================

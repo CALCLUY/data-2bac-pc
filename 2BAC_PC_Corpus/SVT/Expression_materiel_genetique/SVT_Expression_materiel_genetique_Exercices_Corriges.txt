@@ -1,0 +1,43 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : SVT
+Chapitre : Expression_materiel_genetique
+Type : Exercices_Corriges
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/sciences-de-la-vie-et-de-la-terre-svt-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/120914
+  - https://www.alloschool.com/element/120915
+  - https://www.alloschool.com/element/120916
+  - https://www.alloschool.com/element/120917
+Date de collecte : 2026-09-15
+================================================================================
+
+# EXERCICES — GÉNÉTIQUE ET EXPRESSION GÉNÉTIQUE
+Sources : https://www.alloschool.com/element/120914 à 120917
+
+## Exercice 1 — Transcription/traduction
+Séquence ADN → ARNm → peptide (table du code)
+Identifier mutations (substitution, délétion frameshift)
+
+## Exercice 2 — Méiose
+Schématiser chromosomes homologues, crossing-over
+Compter combinaisons de gamètes
+
+## Exercice 3 — Mendel
+Croisements monohybrides/dihybrides
+χ² éventuel ; hypothèse d'indépendance
+
+## Exercice 4 — Liaison
+% crossing-over = distance
+Carte factorielle
+
+## Exercice 5 — Pedigree
+Déterminer mode de transmission
+Probabilité pour un enfant à naître
+
+## Exercice 6 — Groupes sanguins
+Allèles I^A, I^B, i ; phénotypes ABO et rhésus
+
+================================================================================

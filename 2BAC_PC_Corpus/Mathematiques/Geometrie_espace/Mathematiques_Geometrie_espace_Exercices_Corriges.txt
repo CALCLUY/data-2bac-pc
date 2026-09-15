@@ -1,0 +1,47 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Mathematiques
+Chapitre : Geometrie_espace
+Type : Exercices_Corriges
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/mathematiques-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/124721
+  - https://www.alloschool.com/element/124935
+Date de collecte : 2026-09-15
+================================================================================
+
+# EXERCICES — GÉOMÉTRIE DANS L'ESPACE
+Sources : https://www.alloschool.com/element/124721 et 124935
+
+## Produit scalaire — types d'exercices
+1. Calculer u⃗·v⃗ en coordonnées, angle cos θ = (u·v)/(‖u‖‖v‖)
+2. Montrer orthogonalité de droites/plans
+3. Équation de plan passant par 3 points : n⃗ = AB⃗∧AC⃗ puis n·AM=0
+4. Distance point-plan
+5. Projection orthogonale d'un point sur un plan
+
+## Produit vectoriel — Exercices AlloSchool séance 15
+
+### Exercice type 1
+A(1,0,2), B(2,1,3), C(0,−1,1)
+AB⃗∧AC⃗ , aire du triangle, équation du plan ABC, distance de D au plan
+
+### Exercice type 2
+Montrer que u⃗∧(v⃗∧w⃗) = (u·w)v − (u·v)w  (formule du double PV) — si au programme
+
+### Exercice type 3
+Droite D: A + t u⃗ , point M
+Distance = ‖AM⃗∧u⃗‖/‖u⃗‖
+Pied de la perpendiculaire
+
+### Exercice type 4
+Volume tétraèdre = (1/6) |AB⃗ · (AC⃗∧AD⃗)|  (produit mixte)
+
+### Méthodes
+1. Toujours vérifier base orthonormée directe pour les coordonnées du PV
+2. Produit mixte [u,v,w]=u·(v∧w) = déterminant 3×3
+3. Colinéarité ⇔ PV nul ⇔ coordonnées proportionnelles
+
+================================================================================

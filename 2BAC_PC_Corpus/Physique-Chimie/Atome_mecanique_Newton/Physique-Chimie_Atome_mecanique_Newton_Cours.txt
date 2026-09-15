@@ -1,0 +1,32 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Atome_mecanique_Newton
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/128170
+Date de collecte : 2026-09-15
+================================================================================
+
+# ATOME ET MÉCANIQUE DE NEWTON — COURS
+Sources AlloSchool element/128170
+
+
+## I. Modèle de Rutherford / Bohr (mécanique classique)
+Électron en orbite circulaire : F_Coulomb = m v²/r = m a_n
+(1/(4πε₀)) e²/r² = m v²/r
+
+## II. Quantification (Bohr)
+m v r = n ℏ  (n∈ℕ*)
+Rayons r_n = n² a₀ ; a₀ rayon de Bohr
+Énergies E_n = −13,6 eV / n² (hydrogène)
+
+## III. Limites de la mécanique de Newton
+Rayonnement accéléré (électrodynamique) → atome instable classiquement
+Nécessité de la mécanique quantique
+Spectres de raies, absorption/émission E=hν=E_i−E_f
+
+================================================================================

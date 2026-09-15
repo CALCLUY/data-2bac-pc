@@ -1,0 +1,35 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Etat_equilibre
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/119811
+Date de collecte : 2026-09-15
+================================================================================
+
+# ÉTAT D'ÉQUILIBRE D'UN SYSTÈME CHIMIQUE — COURS
+Source : https://www.alloschool.com/element/119811
+AlloSchool 2BAC PC — Chimie
+
+
+## I. Constante d'équilibre K
+K = Q_r,eq (à T fixée)
+Ne dépend que de T
+
+## II. Taux d'avancement final
+τ = x_f / x_max
+τ < 1 si équilibre ; τ = 1 si totale
+
+## III. Facteurs influençant l'équilibre (Le Chatelier)
+- Concentration / pression partielle
+- Pression totale (gaz, variation de quantité)
+- Température : K(T) — exothermique : T↑ ⇒ K↓
+
+## IV. Calculs
+Résoudre K = expression en x_eq ; approximation si K très grand/petit
+
+================================================================================

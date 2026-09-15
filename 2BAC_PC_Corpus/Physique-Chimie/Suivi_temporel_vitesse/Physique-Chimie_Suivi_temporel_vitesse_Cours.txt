@@ -1,0 +1,36 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Suivi_temporel_vitesse
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/119799
+Date de collecte : 2026-09-15
+================================================================================
+
+# SUIVI TEMPOREL — VITESSE DE RÉACTION — COURS
+Source : https://www.alloschool.com/element/119799
+AlloSchool 2BAC PC — Chimie
+
+
+## I. Avancement x(t)
+Tableau d'avancement ; x_max si réactif limitant
+ξ = x / V (avancement volumique)
+
+## II. Vitesse
+Vitesse volumique de réaction : v = (1/V) dx/dt = dξ/dt
+Vitesse d'apparition/disparition d'espèce : (1/ν_i) d[C_i]/dt
+v diminue au cours du temps (concentrations ↓)
+
+## III. Temps de demi-réaction
+t_{1/2} : temps pour x = x_f / 2
+Loi de vitesse (ordre 0,1,…) si au programme : v=k [A]^α…
+
+## IV. Méthodes expérimentales
+Courbe x(t) ou [A](t) ; tangente pour v(t)
+Conductimétrie, spectrophotométrie, pression
+
+================================================================================

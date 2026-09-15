@@ -1,0 +1,43 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Mathematiques
+Chapitre : Examens_Nationaux
+Type : Examen_National_2022
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/mathematiques-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/136586
+  - https://www.alloschool.com/element/136803
+Date de collecte : 2026-09-15
+================================================================================
+
+# Examen National Maths Sciences Expérimentales/Technologiques 2022 Normale (Sujet+Corrigé)
+Sources AlloSchool : https://www.alloschool.com/element/136586, https://www.alloschool.com/element/136803
+
+## Disponibilité
+Documents officiels d'examen national disponibles sur AlloSchool (PDF à télécharger).
+Les examens nationaux de mathématiques couvrent typiquement :
+- Étude de fonctions (ln, exp, primitives, intégrales)
+- Suites numériques
+- Nombres complexes
+- Probabilités / dénombrement
+- Équations différentielles
+- Géométrie (selon année)
+
+## Accès direct aux PDF
+- Sujet/Corrigé : https://www.alloschool.com/element/136586/pdf
+- Sujet/Corrigé : https://www.alloschool.com/element/136803/pdf
+
+## Note de collecte
+Le texte intégral OCR des PDF d'examens scannés peut être partiellement illisible.
+Télécharger les PDF originaux depuis les liens ci-dessus pour les sujets officiels complets.
+Les énoncés portent sur l'ensemble du programme 2BAC (plusieurs chapitres par sujet).
+
+## Structure typique d'un sujet national Maths SPC
+Problème 1 : suites / fonctions
+Problème 2 : complexes
+Problème 3 : probabilités ou intégrales
+(QCM éventuel selon session)
+
+================================================================================

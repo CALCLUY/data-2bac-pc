@@ -1,0 +1,36 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : SVT
+Chapitre : Phenomenes_geologiques
+Type : Exercices_Corriges
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/sciences-de-la-vie-et-de-la-terre-svt-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/124973
+  - https://www.alloschool.com/element/124974
+Date de collecte : 2026-09-15
+================================================================================
+
+# EXERCICES — GÉOLOGIE / CHAÎNES DE MONTAGNES
+Sources : https://www.alloschool.com/element/124973, 124974
+
+## Exercice 1
+Légender une coupe géologique de chaîne (plis, chevauchements, granite)
+Reconstituer l'histoire tectonique (chronologie relative)
+
+## Exercice 2
+Identifier faciès métamorphiques à partir d'associations minérales
+Relier au contexte (subduction vs collision)
+
+## Exercice 3
+Documents sur ophiolites : prouver un ancien domaine océanique
+
+## Exercice 4
+Granite et encaissant : contacts, xénolites, métamorphisme de contact
+Schéma d'anatexie
+
+## Exercice 5
+Comparer Andes (subduction) et Himalaya (collision)
+
+================================================================================

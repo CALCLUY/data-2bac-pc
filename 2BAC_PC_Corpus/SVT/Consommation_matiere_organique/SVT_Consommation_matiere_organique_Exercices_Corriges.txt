@@ -1,0 +1,39 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : SVT
+Chapitre : Consommation_matiere_organique
+Type : Exercices_Corriges
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/sciences-de-la-vie-et-de-la-terre-svt-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/120212
+  - https://www.alloschool.com/element/120213
+  - https://www.alloschool.com/element/120216
+  - https://www.alloschool.com/element/120217
+Date de collecte : 2026-09-15
+================================================================================
+
+# EXERCICES — CONSOMMATION MATIÈRE ORGANIQUE
+Sources : https://www.alloschool.com/element/120212, 120213, 120216, 120217
+
+## Exercice type 1
+Comparer bilans ATP respiration vs fermentation
+Expliquer le rôle de O₂ comme accepteur final d'électrons
+
+## Exercice type 2
+Exploitation de courbes : consommation O₂, production CO₂, quotient respiratoire
+QR = V_CO2 / V_O2 : glucides ≈1, lipides <1
+
+## Exercice type 3
+Schéma mitochondrie à légender ; localiser glycolyse, Krebs, chaîne
+
+## Exercice type 4 — Muscle
+Relier structure sarcomère et contraction
+Interpréter myogrammes (secousse, tetanos parfait/imparfait)
+Expliquer crampe / dette d'O₂ / acide lactique
+
+## Exercice type 5
+Expériences de dissections / manips (dioxygène dissous, levures aéro/anaérobie)
+
+================================================================================

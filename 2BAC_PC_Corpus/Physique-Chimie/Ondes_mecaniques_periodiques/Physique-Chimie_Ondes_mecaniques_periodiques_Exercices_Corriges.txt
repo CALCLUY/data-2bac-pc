@@ -1,0 +1,42 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Ondes_mecaniques_periodiques
+Type : Exercices_Corriges
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/119790
+  - https://www.alloschool.com/element/53916
+  - https://www.alloschool.com/element/53918
+Date de collecte : 2026-09-15
+================================================================================
+
+# EXERCICES — ONDES MÉCANIQUES PÉRIODIQUES
+Source : https://www.alloschool.com/element/119790 ; 53916-53920
+
+## Exercice 1
+Ondes sinusoïdales f à la surface de l'eau ; A et B distants de d=6,0 cm
+1. Représenter λ
+2. Déterminer λ (lecture figure : souvent λ=d/n)
+3. f=17 Hz → v=λ f
+4. Point M avec SM=8,5 cm : comparer phase avec S (SM/λ)
+
+## Exercice 2
+Deux micros, d1=41 cm, signaux figure ; sensibilité hor. donnée
+1. Période T d'après oscillogramme
+2. d2=61 cm pour retrouver phase → λ = d2−d1 = 20 cm
+3. v = λ/T = λ f
+
+## Exercice 3
+Ondes rectilignes, vibreur fréquence N, figure avec λ
+1. Déterminer λ, v, relation phase points M et d
+2. Diffraction si obstacle de largeur a
+
+## Exercice 4
+Ultrasons, écho, distance = v t / 2
+
+Corrigés détaillés : séries AlloSchool 53917/53918, 53919/53920, 102087/102090
+
+================================================================================

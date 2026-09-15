@@ -1,0 +1,36 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Piles_production_energie
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/124376
+Date de collecte : 2026-09-15
+================================================================================
+
+# PILES ET PRODUCTION D'ÉNERGIE — COURS
+Source : https://www.alloschool.com/element/124376
+AlloSchool 2BAC PC — Chimie
+
+
+## I. Pile électrochimique
+Conversion énergie chimique → électrique
+Anode : oxydation ; Cathode : réduction
+Convention : | anode | électrolyte | cathode |
+f.é.m. à vide E = E°_cathode − E°_anode (ordre des couples)
+
+## II. Potentiels standard
+Couple ox/red ; E° plus grand → oxydant plus fort
+Sens spontané : oxydant du couple fort + réducteur du couple faible
+
+## III. Fonctionnement
+Q_r évolue vers K ; E diminue jusqu'à 0 (équilibre)
+Capacité (A·h), énergie stockée
+
+## IV. Exemples
+Pile Daniell Zn/Cu ; piles usuelles ; accumulateurs
+
+================================================================================

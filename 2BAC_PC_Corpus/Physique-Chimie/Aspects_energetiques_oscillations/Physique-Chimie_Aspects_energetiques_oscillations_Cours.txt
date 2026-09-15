@@ -1,0 +1,35 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Aspects_energetiques_oscillations
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/128051
+  - https://www.alloschool.com/element/128065
+Date de collecte : 2026-09-15
+================================================================================
+
+# ASPECTS ÉNERGÉTIQUES DES OSCILLATIONS MÉCANIQUES — COURS
+Sources AlloSchool element/128051
+
+
+## I. Énergies
+Pendule élastique :
+E_c = (1/2) m v² ; E_pp = (1/2) k x²
+E_tot = (1/2) k A²  (conservée si pas de frottement)
+
+Pendule simple :
+E_c + E_pp = cste ; E_pp = mgℓ(1−cosθ)
+
+## II. Transferts
+E_c ↔ E_p au cours de la période
+Amortissement : E_tot diminue (travail frottements <0)
+
+## III. Diagrammes
+E_c(t), E_p(t), E_tot(t)
+Portrait de phase (x,v)
+
+================================================================================

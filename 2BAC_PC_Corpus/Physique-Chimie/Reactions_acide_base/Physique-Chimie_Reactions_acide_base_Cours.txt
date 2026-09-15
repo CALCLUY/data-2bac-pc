@@ -1,0 +1,35 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Reactions_acide_base
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/121490
+Date de collecte : 2026-09-15
+================================================================================
+
+# RÉACTIONS ACIDE-BASE EN SOLUTION AQUEUSE — COURS
+Source : https://www.alloschool.com/element/121490
+AlloSchool 2BAC PC — Chimie
+
+
+## I. Théorie de Brönsted
+Acide : donneur de H⁺ ; base : accepteur de H⁺
+Couple acide/base : AH / A⁻
+pH = −log[H₃O⁺] ; pOH = −log[HO⁻] ; pH+pOH=14 à 25°C
+Ke = [H₃O⁺][HO⁻] = 10⁻¹⁴
+
+## II. Force des acides/bases
+Ka = [H₃O⁺][A⁻]/[AH] ; pKa = −log Ka
+pKa petit → acide fort
+Diagramme de prédominance : pH < pKa → AH ; pH > pKa → A⁻
+pH = pKa + log([A⁻]/[AH]) (Henderson-Hasselbalch)
+
+## III. Réactions acide-base
+Transfert H⁺ du plus fort acide vers la plus forte base
+Comparaison via pKa
+
+================================================================================

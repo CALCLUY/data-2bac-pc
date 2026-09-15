@@ -1,0 +1,152 @@
+2BAC_PC_Corpus/
+├── Mathematiques
+│   ├── Calcul_integral
+│   │   ├── Mathematiques_Calcul_integral_Cours.txt
+│   │   └── Mathematiques_Calcul_integral_Exercices_Corriges.txt
+│   ├── Denombrement_Probabilites
+│   │   ├── Mathematiques_Denombrement_Probabilites_Cours.txt
+│   │   └── Mathematiques_Denombrement_Probabilites_Exercices_Corriges.txt
+│   ├── Derivation_etude_fonctions
+│   │   ├── Mathematiques_Derivation_etude_fonctions_Cours.txt
+│   │   └── Mathematiques_Derivation_etude_fonctions_Exercices_Corriges.txt
+│   ├── Equations_differentielles
+│   │   ├── Mathematiques_Equations_differentielles_Cours.txt
+│   │   └── Mathematiques_Equations_differentielles_Exercices_Corriges.txt
+│   ├── Examens_Nationaux
+│   │   ├── Mathematiques_Examens_Nationaux_Catalogue_2020_2025.txt
+│   │   ├── Mathematiques_Examens_Nationaux_Examen_National_2021.txt
+│   │   ├── Mathematiques_Examens_Nationaux_Examen_National_2022.txt
+│   │   ├── Mathematiques_Examens_Nationaux_Examen_National_2023.txt
+│   │   ├── Mathematiques_Examens_Nationaux_Examen_National_2024.txt
+│   │   └── Mathematiques_Examens_Nationaux_Examen_National_2025.txt
+│   ├── Fonctions_exponentielles
+│   │   ├── Mathematiques_Fonctions_exponentielles_Cours.txt
+│   │   └── Mathematiques_Fonctions_exponentielles_Exercices_Corriges.txt
+│   ├── Fonctions_logarithmiques
+│   │   ├── Mathematiques_Fonctions_logarithmiques_Cours.txt
+│   │   └── Mathematiques_Fonctions_logarithmiques_Exercices_Corriges.txt
+│   ├── Fonctions_primitives
+│   │   ├── Mathematiques_Fonctions_primitives_Cours.txt
+│   │   └── Mathematiques_Fonctions_primitives_Exercices_Corriges.txt
+│   ├── Geometrie_espace
+│   │   ├── Mathematiques_Geometrie_espace_Cours.txt
+│   │   └── Mathematiques_Geometrie_espace_Exercices_Corriges.txt
+│   ├── Limites_et_continuite
+│   │   ├── Mathematiques_Limites_et_continuite_Cours.txt
+│   │   └── Mathematiques_Limites_et_continuite_Exercices_Corriges.txt
+│   ├── Nombres_complexes_Partie_1
+│   │   ├── Mathematiques_Nombres_complexes_Partie_1_Cours.txt
+│   │   └── Mathematiques_Nombres_complexes_Partie_1_Exercices_Corriges.txt
+│   ├── Nombres_complexes_Partie_2
+│   │   ├── Mathematiques_Nombres_complexes_Partie_2_Cours.txt
+│   │   └── Mathematiques_Nombres_complexes_Partie_2_Exercices_Corriges.txt
+│   └── Suites_Numeriques
+│       ├── Mathematiques_Suites_Numeriques_Cours.txt
+│       └── Mathematiques_Suites_Numeriques_Exercices_Corriges.txt
+├── Physique-Chimie
+│   ├── Aspects_energetiques_oscillations
+│   │   ├── Physique-Chimie_Aspects_energetiques_oscillations_Cours.txt
+│   │   └── Physique-Chimie_Aspects_energetiques_oscillations_Exercices_Corriges.txt
+│   ├── Atome_mecanique_Newton
+│   │   ├── Physique-Chimie_Atome_mecanique_Newton_Cours.txt
+│   │   └── Physique-Chimie_Atome_mecanique_Newton_Exercices_Corriges.txt
+│   ├── Chute_libre_verticale
+│   │   ├── Physique-Chimie_Chute_libre_verticale_Cours.txt
+│   │   └── Physique-Chimie_Chute_libre_verticale_Exercices_Corriges.txt
+│   ├── Controle_evolution
+│   │   ├── Physique-Chimie_Controle_evolution_Cours.txt
+│   │   └── Physique-Chimie_Controle_evolution_Exercices_Corriges.txt
+│   ├── Decroissance_radioactive
+│   │   ├── Physique-Chimie_Decroissance_radioactive_Cours.txt
+│   │   └── Physique-Chimie_Decroissance_radioactive_Exercices_Corriges.txt
+│   ├── Dipole_RC
+│   │   ├── Physique-Chimie_Dipole_RC_Cours.txt
+│   │   └── Physique-Chimie_Dipole_RC_Exercices_Corriges.txt
+│   ├── Dipole_RL
+│   │   ├── Physique-Chimie_Dipole_RL_Cours.txt
+│   │   └── Physique-Chimie_Dipole_RL_Exercices_Corriges.txt
+│   ├── Dosage_acidobasique
+│   │   ├── Physique-Chimie_Dosage_acidobasique_Cours.txt
+│   │   └── Physique-Chimie_Dosage_acidobasique_Exercices_Corriges.txt
+│   ├── Electrolyse
+│   │   ├── Physique-Chimie_Electrolyse_Cours.txt
+│   │   └── Physique-Chimie_Electrolyse_Exercices_Corriges.txt
+│   ├── Esterification_hydrolyse
+│   │   ├── Physique-Chimie_Esterification_hydrolyse_Cours.txt
+│   │   └── Physique-Chimie_Esterification_hydrolyse_Exercices_Corriges.txt
+│   ├── Etat_equilibre
+│   │   ├── Physique-Chimie_Etat_equilibre_Cours.txt
+│   │   └── Physique-Chimie_Etat_equilibre_Exercices_Corriges.txt
+│   ├── Evolution_spontanee
+│   │   ├── Physique-Chimie_Evolution_spontanee_Cours.txt
+│   │   └── Physique-Chimie_Evolution_spontanee_Exercices_Corriges.txt
+│   ├── Examens_Nationaux
+│   │   ├── Physique-Chimie_Examens_Nationaux_Catalogue_2020_2025.txt
+│   │   ├── Physique-Chimie_Examens_Nationaux_Examen_National_2021.txt
+│   │   ├── Physique-Chimie_Examens_Nationaux_Examen_National_2022.txt
+│   │   ├── Physique-Chimie_Examens_Nationaux_Examen_National_2023.txt
+│   │   └── Physique-Chimie_Examens_Nationaux_Examen_National_2024.txt
+│   ├── Lois_de_Newton
+│   │   ├── Physique-Chimie_Lois_de_Newton_Cours.txt
+│   │   └── Physique-Chimie_Lois_de_Newton_Exercices_Corriges.txt
+│   ├── Mouvement_rotation
+│   │   ├── Physique-Chimie_Mouvement_rotation_Cours.txt
+│   │   └── Physique-Chimie_Mouvement_rotation_Exercices_Corriges.txt
+│   ├── Mouvements_plans
+│   │   ├── Physique-Chimie_Mouvements_plans_Cours.txt
+│   │   └── Physique-Chimie_Mouvements_plans_Exercices_Corriges.txt
+│   ├── Noyaux_masse_energie
+│   │   ├── Physique-Chimie_Noyaux_masse_energie_Cours.txt
+│   │   └── Physique-Chimie_Noyaux_masse_energie_Exercices_Corriges.txt
+│   ├── Ondes_EM_Modulation_AM
+│   │   ├── Physique-Chimie_Ondes_EM_Modulation_AM_Cours.txt
+│   │   └── Physique-Chimie_Ondes_EM_Modulation_AM_Exercices_Corriges.txt
+│   ├── Ondes_mecaniques_periodiques
+│   │   ├── Physique-Chimie_Ondes_mecaniques_periodiques_Cours.txt
+│   │   └── Physique-Chimie_Ondes_mecaniques_periodiques_Exercices_Corriges.txt
+│   ├── Ondes_mecaniques_progressives
+│   │   ├── Physique-Chimie_Ondes_mecaniques_progressives_Cours.txt
+│   │   └── Physique-Chimie_Ondes_mecaniques_progressives_Exercices_Corriges.txt
+│   ├── Oscillations_RLC
+│   │   ├── Physique-Chimie_Oscillations_RLC_Cours.txt
+│   │   └── Physique-Chimie_Oscillations_RLC_Exercices_Corriges.txt
+│   ├── Piles_production_energie
+│   │   ├── Physique-Chimie_Piles_production_energie_Cours.txt
+│   │   └── Physique-Chimie_Piles_production_energie_Exercices_Corriges.txt
+│   ├── Propagation_ondes_lumineuses
+│   │   ├── Physique-Chimie_Propagation_ondes_lumineuses_Cours.txt
+│   │   └── Physique-Chimie_Propagation_ondes_lumineuses_Exercices_Corriges.txt
+│   ├── Reactions_acide_base
+│   │   ├── Physique-Chimie_Reactions_acide_base_Cours.txt
+│   │   └── Physique-Chimie_Reactions_acide_base_Exercices_Corriges.txt
+│   ├── Suivi_temporel_vitesse
+│   │   ├── Physique-Chimie_Suivi_temporel_vitesse_Cours.txt
+│   │   └── Physique-Chimie_Suivi_temporel_vitesse_Exercices_Corriges.txt
+│   ├── Systemes_mecaniques_oscillants
+│   │   ├── Physique-Chimie_Systemes_mecaniques_oscillants_Cours.txt
+│   │   └── Physique-Chimie_Systemes_mecaniques_oscillants_Exercices_Corriges.txt
+│   ├── Transformations_deux_sens
+│   │   ├── Physique-Chimie_Transformations_deux_sens_Cours.txt
+│   │   └── Physique-Chimie_Transformations_deux_sens_Exercices_Corriges.txt
+│   └── Transformations_lentes_rapides
+│       ├── Physique-Chimie_Transformations_lentes_rapides_Cours.txt
+│       └── Physique-Chimie_Transformations_lentes_rapides_Exercices_Corriges.txt
+├── SVT
+│   ├── Consommation_matiere_organique
+│   │   ├── SVT_Consommation_matiere_organique_Cours.txt
+│   │   └── SVT_Consommation_matiere_organique_Exercices_Corriges.txt
+│   ├── Examens_Nationaux
+│   │   ├── SVT_Examens_Nationaux_Examen_National_2020.txt
+│   │   ├── SVT_Examens_Nationaux_Examen_National_2021.txt
+│   │   ├── SVT_Examens_Nationaux_Examen_National_2022.txt
+│   │   └── SVT_Examens_Nationaux_Examen_National_2025.txt
+│   ├── Expression_materiel_genetique
+│   │   ├── SVT_Expression_materiel_genetique_Cours.txt
+│   │   └── SVT_Expression_materiel_genetique_Exercices_Corriges.txt
+│   ├── Phenomenes_geologiques
+│   │   ├── SVT_Phenomenes_geologiques_Cours.txt
+│   │   └── SVT_Phenomenes_geologiques_Exercices_Corriges.txt
+│   └── Utilisation_matieres
+│       ├── SVT_Utilisation_matieres_Cours.txt
+│       └── SVT_Utilisation_matieres_Exercices_Corriges.txt
+└── README_RECAPITULATIF.txt

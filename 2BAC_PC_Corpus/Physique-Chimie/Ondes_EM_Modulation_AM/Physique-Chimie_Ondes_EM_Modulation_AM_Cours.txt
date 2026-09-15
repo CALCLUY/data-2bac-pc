@@ -1,0 +1,42 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Ondes_EM_Modulation_AM
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/122786
+Date de collecte : 2026-09-15
+================================================================================
+
+# ONDES ÉLECTROMAGNÉTIQUES ET MODULATION D'AMPLITUDE — COURS
+Source : https://www.alloschool.com/element/122786
+AlloSchool 2BAC PC
+
+
+## I. Ondes EM
+Propagation champs E et B couplés ; c=1/√(ε₀μ₀) dans le vide
+Spectre : radio, micro-ondes, IR, visible, UV, X, γ
+Antenne : émission / réception
+
+## II. Transmission d'informations
+Porteuse haute fréquence ; signal utile basse fréquence
+Nécessité de la modulation pour radiodiffusion
+
+## III. Modulation d'amplitude (AM)
+s(t) = A_p [1 + m s_n(t)] cos(2π f_p t)
+m taux de modulation (0<m≤1)
+m = (U_max−U_min)/(U_max+U_min)
+Spectre : f_p , f_p±f_s
+
+## IV. Démodulation
+Détection d'enveloppe : diode + RC
+Condition sur τ=RC : 1/f_p ≪ τ ≪ 1/f_s
+
+## V. Qualité
+Surmodulation m>1 → distorsion
+Bande passante, multiplexage fréquentiel
+
+================================================================================

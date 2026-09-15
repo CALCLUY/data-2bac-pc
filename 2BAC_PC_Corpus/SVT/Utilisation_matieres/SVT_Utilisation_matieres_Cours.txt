@@ -1,0 +1,48 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : SVT
+Chapitre : Utilisation_matieres
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/sciences-de-la-vie-et-de-la-terre-svt-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/123148
+  - https://www.alloschool.com/element/123149
+  - https://www.alloschool.com/element/123151
+  - https://www.alloschool.com/element/123153
+Date de collecte : 2026-09-15
+================================================================================
+
+# UTILISATION DES MATIÈRES ORGANIQUES ET INORGANIQUES — COURS
+Sources : https://www.alloschool.com/element/123148 à 123153
+AlloSchool SVT 2Bac
+
+## I. Ordures ménagères
+Composition : organiques putrescibles, papiers, plastiques, verres, métaux…
+Collecte, tri sélectif, centres d'enfouissement, incinération
+Valorisation : compostage, recyclage, méthanisation
+Impacts : lixiviats, biogaz (CH₄), pollution sols/eaux
+
+## II. Pollution liée aux matières énergétiques et industries
+Combustibles fossiles : CO₂, SOₓ, NOₓ, particules → smog, pluies acides, effet de serre
+Industries chimiques et minières : métaux lourds, hydrocarbures, rejets thermiques
+Eutrophisation (N, P) ; marées noires
+Chaînes trophiques : bioaccumulation, biomagnification
+
+## III. Matières radioactives et énergie nucléaire
+Radioisotopes, demi-vie, activité
+Centrales : fission, déchets A/B/C, stockage
+Risques : accidents, irradiation, contamination
+Usages médicaux et industriels (tracers, stérilisation)
+Protection radiologique
+
+## IV. Contrôle qualité et salubrité des milieux
+Indicateurs de pollution eau (DBO, DCO, coliformes, métaux)
+Air : indices, normes
+Sols : pesticides, engrais
+Stations d'épuration (STEP) : primaire, secondaire, tertiaire
+Biomarqueurs, bioindicateurs (lichens, invertébrés)
+Réglementation et développement durable
+
+================================================================================

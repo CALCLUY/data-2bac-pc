@@ -1,0 +1,37 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Esterification_hydrolyse
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/128269
+Date de collecte : 2026-09-15
+================================================================================
+
+# ESTÉRIFICATION ET HYDROLYSE — COURS
+Source : https://www.alloschool.com/element/128269
+AlloSchool 2BAC PC — Chimie
+
+
+## I. Estérification
+Acide carboxylique + alcool ⇌ ester + eau
+Lente, limitée, athermique
+K ≈ 4 pour alcools/acides primaires (indépendant de T quasiment)
+
+## II. Hydrolyse
+Inverse de l'estérification
+Même K ; mêmes facteurs
+
+## III. Contrôle
+Excès d'un réactif → τ ↑ (Le Chatelier)
+Élimination d'eau / ester → déplace
+Catalyse acide (H⁺) accélère sans changer K
+Température ↑ accélère (cinétique) sans beaucoup changer K
+
+## IV. Synthèse
+Choisir conditions pour optimiser rendement et vitesse
+
+================================================================================

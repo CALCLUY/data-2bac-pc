@@ -1,0 +1,69 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Decroissance_radioactive
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/119802
+Date de collecte : 2026-09-15
+================================================================================
+
+# DÉCROISSANCE RADIOACTIVE — COURS
+Source : https://www.alloschool.com/element/119802/pdf
+Séance 6 — Prof. El GOUFIFA Jihad
+
+## I. Noyau atomique
+Protons q=+e=1,6×10⁻¹⁹ C ; m_p=1,6726×10⁻²⁷ kg
+Neutrons q=0 ; m_n=1,6750×10⁻²⁷ kg
+Symbole : ᴬ_Z X  (A nucléons, Z protons, N=A−Z neutrons)
+Nucléide : même A et Z
+Isotopes : même Z, A différents (ex. ¹²C et ¹⁴C ; ²³⁵U et ²³⁸U)
+Rayon nucléaire r = r₀ A^{1/3} (r₀≈1,2×10⁻¹⁵ m)
+Masse volumique ~ 2×10¹⁷ kg/m³
+
+## II. Radioactivité
+Diagramme de Segré (N,Z) : vallée de stabilité
+Z<20 : N≈Z stables ; Z>20 : N>Z pour stabilité
+Radioactivité : désintégration spontanée noyau père → fils + particule
+Aléatoire, spontanée, inévitable, indépendante des conditions extérieures
+Lois de Soddy : conservation de A et Z
+
+## III. Types
+### α
+ᴬ_Z X → ^{A−4}_{Z−2} Y + ⁴₂He
+Noyaux lourds A>200
+
+### β⁻
+ᴬ_Z X → ᴬ_{Z+1} Y + ⁰_{−1}e
+Excès de neutrons (n → p + e⁻ + antineutrino)
+
+### β⁺
+ᴬ_Z X → ᴬ_{Z−1} Y + ⁰_{+1}e
+Excès de protons
+
+### γ
+Désexcitation : émission photon, A et Z inchangés
+
+## IV. Familles radioactives
+Chaînes de désintégrations successives jusqu'à un noyau stable
+
+## V. Loi de décroissance
+dN/dt = −λ N
+N(t) = N₀ e^{−λ t}
+Constante radioactive λ (s⁻¹)
+Constante de temps τ = 1/λ
+Demi-vie t_{1/2} = ln2 / λ  (N(t_{1/2})=N₀/2)
+Activité a(t) = λ N(t) = a₀ e^{−λ t}  (Bq)
+a₀ = λ N₀
+
+## VI. Datation
+Carbone 14 : mesure du rapport ¹⁴C/¹²C dans organique
+t = (1/λ) ln(a₀/a) = t_{1/2}/ln2 · ln(a₀/a)
+
+## VII. Protection
+α : feuille papier ; β : aluminium ; γ : plomb / béton épais
+
+================================================================================

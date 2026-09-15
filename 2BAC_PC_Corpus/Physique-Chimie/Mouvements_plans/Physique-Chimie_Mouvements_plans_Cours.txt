@@ -1,0 +1,34 @@
+================================================================================
+Document pédagogique — Programme marocain 2ème Baccalauréat
+Filière : Sciences Physiques (2BAC PC)
+Matière : Physique-Chimie
+Chapitre : Mouvements_plans
+Type : Cours
+Source principale : AlloSchool
+URL du cours : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
+Sources détaillées :
+  - https://www.alloschool.com/element/123823
+  - https://www.alloschool.com/element/124308
+Date de collecte : 2026-09-15
+================================================================================
+
+# MOUVEMENTS PLANS (PROJECTILES ET PARTICULES CHARGÉES) — COURS
+Sources AlloSchool element/123823
+
+
+## I. Projectile dans g
+v₀ inclinée α
+x=v₀ cosα · t
+y=v₀ sinα · t − (1/2)gt²
+Équation trajectoire : y = x tanα − (g x²)/(2 v₀² cos²α)
+Portée, flèche, temps de vol
+
+## II. Particule chargée dans B⃗ uniforme
+F⃗=q(v⃗∧B⃗) ⊥ v⃗ → mouvement circulaire uniforme si v⊥B
+R = mv / (|q|B) ; T=2πm/(|q|B)
+Hélice si composante // B
+
+## III. Particule dans E⃗
+a = qE/m constant ; parabole analogue au projectile
+
+================================================================================
