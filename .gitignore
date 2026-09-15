@@ -1,0 +1,6 @@
+# Artefacts générés — régénérables via scripts/build_preview.py
+preview/data.json
+
+# Python
+__pycache__/
+*.pyc

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Corpus 2BAC PC — Tableau de bord</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <div class="logo">2B</div>
+    <div>
+      <h1>Corpus 2BAC PC</h1>
+      <p class="sub">Mathématiques · Physique-Chimie · SVT — Maroc, option française</p>
+    </div>
+  </div>
+  <div class="meta">
+    <div><span id="m-date">—</span></div>
+    <div class="dim">référence « avant » : commit <code id="m-base">—</code></div>
+  </div>
+</header>
+
+<section class="kpis" id="kpis"></section>
+
+<section class="health">
+  <div class="health-head">
+    <h2>Couverture des chapitres</h2>
+    <div class="legend" id="health-legend"></div>
+  </div>
+  <div class="stackbar" id="stackbar"></div>
+  <div class="health-grid" id="health-grid"></div>
+</section>
+
+<nav class="tabs" id="tabs">
+  <button class="tab active" data-view="overview">Vue d'ensemble</button>
+  <button class="tab" data-view="chapters">Chapitres <span class="pill" id="pill-chap"></span></button>
+  <button class="tab" data-view="table">Tableau Étape 3</button>
+  <button class="tab" data-view="dupes">Doublons <span class="pill warn" id="pill-dupe"></span></button>
+  <button class="tab" data-view="report">Rapport d'audit</button>
+</nav>
+
+<div class="toolbar" id="toolbar">
+  <input type="search" id="q" placeholder="Rechercher un chapitre, un document, un type…">
+  <div class="seg" id="f-matiere">
+    <button data-m="" class="on">Toutes</button>
+    <button data-m="Mathematiques">Maths</button>
+    <button data-m="Physique_Chimie">Physique-Chimie</button>
+    <button data-m="SVT">SVT</button>
+  </div>
+  <div class="seg" id="f-statut">
+    <button data-s="" class="on">Tous statuts</button>
+    <button data-s="complet">Complet</button>
+    <button data-s="incomplet">Incomplet</button>
+    <button data-s="critique">Critique</button>
+  </div>
+</div>
+
+<main id="view"></main>
+
+<footer class="foot">
+  Généré par <code>scripts/build_preview.py</code> — aucune donnée saisie à la main :
+  tout est relu du dépôt (inventaire disque, en-têtes <code>%PDF</code>, MD5, index <code>*_Liens.md</code>).
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

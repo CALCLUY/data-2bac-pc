@@ -94,7 +94,7 @@ Contrôles exécutés sur les **270 PDF** présents :
   corrigés (sujets + 15 corrigés)**, cadres de référence MEN, évaluations diagnostiques ;
 - `SVT/U5`, `SVT/U4`, `SVT/Examens`, `MATH/10`, `MATH/02` : compléments + **journal des
   sources testées et rejetées** ;
-- **Liens indexés : 358 → 600** (+242).
+- **Liens indexés : 368 → 600** (+232).
 
 **Correctif appliqué au parseur.** Au premier passage, `scripts/download_corpus.py`
 n'a reconnu **aucun** de ces nouveaux liens (plan inchangé à 341) : le parseur
@@ -135,18 +135,18 @@ cette contradiction reste ouverte et doit être tranchée avec le cadre 2024-202
 |---|---|:--:|:--:|:--:|---|
 | Mathématiques | 01 Limites et continuite | 3 | **3** | 3 → 3 | Cours×3 |
 | Mathématiques | 02 Derivation et etude des fonctions | 2 | **2** | 2 → 6 | Cours×2 |
-| Mathématiques | 03 Suites numeriques | 3 | **3** | 3 → 3 | Cours×1 + Examens corrigés×1 + Fiche×1 |
+| Mathématiques | 03 Suites numeriques | 3 | **3** | 3 → 3 | Cours×1 + Examens corrigés×1 + Fiche / résumé×1 |
 | Mathématiques | 04 Fonctions primitives | 1 | **1** | 1 → 1 | Cours×1 |
-| Mathématiques | 05 Fonctions logarithmiques | 3 | **3** | 3 → 3 | Cours×1 + Examens corrigés×1 + Fiche×1 |
-| Mathématiques | 06 Nombres complexes partie 1 | 3 | **3** | 3 → 3 | Cours×1 + Examens corrigés×1 + Fiche×1 |
-| Mathématiques | 07 Fonctions exponentielles | 3 | **3** | 3 → 3 | Cours×1 + Examens corrigés×1 + Fiche×1 |
+| Mathématiques | 05 Fonctions logarithmiques | 3 | **3** | 3 → 3 | Cours×1 + Examens corrigés×1 + Fiche / résumé×1 |
+| Mathématiques | 06 Nombres complexes partie 1 | 3 | **3** | 3 → 3 | Cours×1 + Examens corrigés×1 + Fiche / résumé×1 |
+| Mathématiques | 07 Fonctions exponentielles | 3 | **3** | 3 → 3 | Cours×1 + Examens corrigés×1 + Fiche / résumé×1 |
 | Mathématiques | 08 Nombres complexes partie 2 | 2 | **2** | 2 → 2 | Cours×1 + Examens corrigés×1 |
-| Mathématiques | 09 Calcul integral | 4 | **4** | 3 → 3 | Cours×2 + Examens corrigés×1 + Fiche×1 |
+| Mathématiques | 09 Calcul integral | 4 | **4** | 3 → 3 | Cours×2 + Examens corrigés×1 + Fiche / résumé×1 |
 | Mathématiques | 10 Equations differentielles | 1 | **2** ⬆ | 1 → 1 | Cours×1 + Exercices×1 |
-| Mathématiques | 11 Geometrie dans lespace | 4 | **4** | 4 → 4 | Cours×2 + Examens corrigés×1 + Fiche×1 |
-| Mathématiques | 12 Denombrement et probabilites | 4 | **4** | 4 → 4 | Cours×2 + Examens corrigés×1 + Fiche×1 |
+| Mathématiques | 11 Geometrie dans lespace | 4 | **4** | 4 → 4 | Cours×2 + Examens corrigés×1 + Fiche / résumé×1 |
+| Mathématiques | 12 Denombrement et probabilites | 4 | **4** | 4 → 4 | Cours×2 + Examens corrigés×1 + Fiche / résumé×1 |
 | Mathématiques | **Examens nationaux & devoirs (tous chapitres)** | 4 | **4** | 23 → 23 | Examens×2 + Examens corrigés×2 |
-| Physique-Chimie | 01 Ondes mecaniques progressives | 2 | **2** | 8 → 22 | Cours×1 + Fiche×1 |
+| Physique-Chimie | 01 Ondes mecaniques progressives | 2 | **2** | 8 → 22 | Cours×1 + Fiche / résumé×1 |
 | Physique-Chimie | 02 Ondes mecaniques progressives periodiques | 1 | **1** | 2 → 5 | Cours×1 |
 | Physique-Chimie | 03 Propagation des ondes lumineuses | 1 | **1** | 2 → 5 | Cours×1 |
 | Physique-Chimie | 04 Ondes electromagnetiques et modulation | 1 | **1** | 1 → 9 | Cours×1 |
@@ -177,14 +177,14 @@ cette contradiction reste ouverte et doit être tranchée avec le cadre 2024-202
 | Physique-Chimie | 29 Controle evolution systeme chimique | 1 | **1** | 1 → 3 | Cours×1 |
 | Physique-Chimie | **Examens nationaux & devoirs (tous chapitres)** | 96 | **96** | 99 → 124 | Examens×57 + Examens corrigés×39 |
 | SVT | **Examens nationaux & devoirs (tous chapitres)** | 58 | **59** ⬆ | 57 → 67 | Examens×39 + Examens corrigés×20 |
-| SVT | U1 Consommation matiere organique et flux energie | 11 | **11** | 17 → 17 | Cours×6 + Exercices×4 + Docs×1 |
+| SVT | U1 Consommation matiere organique et flux energie | 11 | **11** | 17 → 17 | Cours×6 + Exercices×4 + Documents d'exploitation×1 |
 | SVT | U2 Nature expression information genetique genie genetique | 8 | **8** | 20 → 20 | Cours×6 + Exercices×2 |
 | SVT | U3 Transfert information reproduction sexuee genetique humaine | 11 | **11** | 21 → 21 | Cours×8 + Exercices×3 |
 | SVT | U4 Genetique des populations | 1 | **1** | 3 → 4 | Cours×1 |
-| SVT | U5 Immunologie | 0 | **2** ⬆ | 0 → 10 | Cours×2 |
+| SVT | U5 Immunologie | 0 | **2** ⬆ | 10 → 10 | Cours×2 |
 | SVT | U6 Chaines de montagnes et tectonique | 8 | **8** | 19 → 19 | Cours×5 + Exercices×2 + Autre×1 |
 | SVT | U7 Ecosystemes | 12 | **12** | 13 → 13 | Cours×6 + Exercices×2 + Examens×4 |
-| **TOTAL** | **48 chapitres + 3 dossiers d'examens** | **276** | **280** | **358 → 600** | |
+| **TOTAL** | **48 chapitres + 3 dossiers d'examens** | **276** | **280** | **368 → 600** | |
 
 Légende : ⬆ = chapitre effectivement enrichi en documents dans cet audit.
 
